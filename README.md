@@ -3,16 +3,18 @@
 > _[413+ Плагинов для Bootstrap][3.2]_  
 > _[3361+ Всё для Bootstrap][3.3]_  
 
-[3]: https://getbootstrap.com/                           "Bootstrap"
-[3.1]: https://habr.com/ru/company/dataart/blog/258301/  "50+ лучших дополнений к Bootstrap"
+[3]: https://getbootstrap.com/ "Bootstrap"
+[3.1]: https://habr.com/ru/company/dataart/blog/258301/ "50+ лучших дополнений к Bootstrap"
 [3.2]: http://bootstraptema.ru/stuff/plugins_bootstrap/2 "413+ Плагинов для Bootstrap"
-[3.3]: http://bootstraptema.ru/                          "3361+ Всё для Bootstrap"
+[3.3]: http://bootstraptema.ru/ "3361+ Всё для Bootstrap"
 - - - - - - - - - - - - - - - -  
 [Sass][4] - документация на русском языке. Что такое sass или scss?  
 > _[Медиа запросы в SASS (SASS Media Queries)][4.1]_  
+> _[Основы Sass: @-правила и директивы][4.2]_  
 
-[4]: https://sass-scss.ru/                                "Sass"
-[4.1]: http://area53.ru/route/route.php?css3/media-zaprosy-v-sass-sass-media-queries.html "media-queries"
+[4]: https://sass-scss.ru/ "Sass - документация на русском языке"
+[4.1]: http://area53.ru/route/route.php?css3/media-zaprosy-v-sass-sass-media-queries.html "Медиа запросы в SASS"
+[4.2]: https://getinstance.info/articles/css/sass-basics-rules-directives/ "Основы Sass: @-правила и директивы"
 - - - - - - - - - - - - - - - -  
 Шпаргалка по синтаксису [markdown (маркдаун)][2].  
 
@@ -20,7 +22,7 @@
 - - - - - - - - - - - - - - - -  
 Репозиторий [Jekyll][1].  
 
-[1]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/Jekyll                                      "Jekyll"  
+[1]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/Jekyll "Репозиторий"  
 - - - - - - - - - - - - - - - -  
 
 
