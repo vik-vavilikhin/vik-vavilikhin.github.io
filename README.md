@@ -1,4 +1,4 @@
-Фреймворк [Bootstrap][3].  
+## Фреймворк [Bootstrap][3].  
 > _[50+ лучших дополнений к Bootstrap][3.1]_  
 > _[413+ Плагинов для Bootstrap][3.2]_  
 > _[3361+ Всё для Bootstrap][3.3]_  
@@ -8,7 +8,7 @@
 [3.2]: http://bootstraptema.ru/stuff/plugins_bootstrap/2 "413+ Плагинов для Bootstrap"
 [3.3]: http://bootstraptema.ru/ "3361+ Всё для Bootstrap"
 - - - - - - - - - - - - - - - -  
-[Sass][4] - документация на русском языке. Что такое sass или scss?  
+## [Sass][4] - документация на русском языке. Что такое sass или scss?  
 > _[Медиа запросы в SASS (SASS Media Queries)][4.1]_  
 > _[Основы Sass: @-правила и директивы][4.2]_  
 
@@ -16,7 +16,7 @@
 [4.1]: http://area53.ru/route/route.php?css3/media-zaprosy-v-sass-sass-media-queries.html "Медиа запросы в SASS"
 [4.2]: https://getinstance.info/articles/css/sass-basics-rules-directives/ "Основы Sass: @-правила и директивы"
 - - - - - - - - - - - - - - - -  
-Шпаргалка по синтаксису [markdown (маркдаун)][2].  
+## Шпаргалка по синтаксису [markdown (маркдаун)][2].  
 
 [2]: http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/#link12 "markdown"
 - - - - - - - - - - - - - - - -  
