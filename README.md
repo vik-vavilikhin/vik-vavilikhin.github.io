@@ -1,14 +1,14 @@
 ## Фреймворк [Bootstrap][3].  
-> _[Всё для Bootstrap][3.1]_. Бесплатные адаптивные шаблоны и темы Bootstrap для сайтов, лучшие функциональные плагины для всех версий Bootstrap и готовые code сниппеты для сайта Bootstrap.  
-> _[Дополнения][3.2] для Bootstrap_  
+> - [Всё для Bootstrap][3.1]. _Бесплатные адаптивные шаблоны и темы Bootstrap для сайтов, лучшие функциональные плагины для всех версий Bootstrap и готовые code сниппеты для сайта Bootstrap._  
+> - [Дополнения][3.2] для Bootstrap  
 
 [3]: https://getbootstrap.com/ "Bootstrap"
 [3.1]: http://bootstraptema.ru/ "Всё для Bootstrap"
 [3.2]: https://habr.com/ru/company/dataart/blog/258301/ "Дополнения для Bootstrap"
 - - - - - - - - - - - - - - - -  
 ## [Sass][4] - документация на русском языке. Что такое sass или scss?  
-> _[Медиа запросы][4.1] в SASS (SASS Media Queries)_  
-> _[Основы][4.2] Sass: @-правила и директивы_  
+> [Медиа запросы][4.1] в SASS (SASS Media Queries)  
+> [Основы][4.2] Sass: @-правила и директивы  
 
 [4]: https://sass-scss.ru/ "Sass - документация на русском языке"
 [4.1]: http://area53.ru/route/route.php?css3/media-zaprosy-v-sass-sass-media-queries.html "Медиа запросы в SASS"
