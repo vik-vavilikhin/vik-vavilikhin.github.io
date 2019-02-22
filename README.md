@@ -28,11 +28,19 @@ _Распространенный язык программирования об
 
   - [Yii][5.1]. PHP-фреймворк: быстрый, безопасный и эффективный.  
     ***Установка Yii:***  
-    a. [Как установить][5.1.1] yii 2 на openserver?
+    1. [toster.ru][5.1.1]  
+    2. [web-sprints.ru][5.1.2]  
+    3. [wemarus.ru][5.1.3]  
+    4. [it-stop.ru][5.1.4]  
+    5. [d1mon.com][5.1.5]  
 
-[5]: http://php.net/ "PHP-фреймворк"
-[5.1]: https://www.yiiframework.com/ "PHP-фреймворк"
-[5.1.1]: https://toster.ru/q/170497 "TOSTER: Как установить yii 2 на openserver?"
+[5]: http://php.net/ "PHP"
+[5.1]: https://www.yiiframework.com/ "www.yiiframework.com"
+[5.1.1]: https://toster.ru/q/170497 "toster.ru"
+[5.1.2]: http://web-sprints.ru/ustanovka-yii2-na-openserver/ "web-sprints.ru"
+[5.1.3]: http://wemarus.ru/yii-2/319-ustanovka-yii-na-openserver.html "wemarus.ru"
+[5.1.4]: https://it-stop.ru/razrabotka-sajtov/ustanovka-yii2-na-openserver/ "it-stop.ru"
+[5.1.5]: https://d1mon.com/n/1355 "d1mon.com"
 - - - - - - - - - - - - - - - -  
 ## Шпаргалка по синтаксису [markdown (маркдаун)][2].  
 
