@@ -1,7 +1,6 @@
-Репозиторий [Jekyll][1]. [Результат][2]
+Репозиторий [Jekyll][1].
 
 [1]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/Jekyll             "Jekyll"  
-[2]: https://vik-vavilikhin.github.io/Jekyll/                                                  "Результат"  
 
 
 - - - - - - - - - - - - - - -  
