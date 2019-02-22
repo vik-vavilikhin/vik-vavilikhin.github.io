@@ -1,3 +1,4 @@
+- - - - - - - - - - - - - - - -  
 ## Фреймворк [Bootstrap][3].  
 > - [Всё для Bootstrap][3.1]. _Бесплатные адаптивные шаблоны и темы Bootstrap для сайтов, лучшие функциональные плагины для всех версий Bootstrap и готовые code сниппеты для сайта Bootstrap._  
 > - [Дополнения][3.2] для Bootstrap  
@@ -12,8 +13,7 @@
 > - [Начинаем работу с Sass и Bourbon][4.3]  
 Автор: М.Дэвид Грин  
 13 Ноября 2015
-> - [Bourbon][4.4]: библиотека примесей для Sass
-[Дополнительные материалы][4.4.1]
+> - [Bourbon][4.4]: библиотека примесей для Sass ([дополнительные материалы][4.4.1])
 
 [4]: https://sass-scss.ru/ "Sass - документация на русском языке"
 [4.1]: http://area53.ru/route/route.php?css3/media-zaprosy-v-sass-sass-media-queries.html "Медиа запросы в SASS"
@@ -21,6 +21,18 @@
 [4.3]: http://prgssr.ru/development/nachinaem-rabotu-s-sass-i-bourbon.html "Начинаем работу с Sass и Bourbon"
 [4.4]: https://www.bourbon.io/ "Bourbon - это легкий набор инструментов Sass"
 [4.4.1]: https://webdesign.tutsplus.com/ru/tutorials/introducing-bourbon-lightweight-sass-mixins-and-more--cms-24733 "Bourbon: библиотека примесей для Sass"
+
+- - - - - - - - - - - - - - - -  
+## [PHP][5] (рекурсивный акроним словосочетания PHP: Hypertext Preprocessor) - это распространенный язык программирования общего назначения с открытым исходным кодом. PHP специально сконструирован для веб-разработок и его код может внедряться непосредственно в HTML.  
+
+> - PHP-фреймворк [Yii][5.1] быстрый, безопасный и эффективный. 
+>> - [Yii][5.1.1]. Быстрый, безопасный и эффективный PHP-фреймворк.  
+  Установка Yii:  
+  - [Как установить yii 2 на openserver?][]
+
+[5]: http://php.net/ "PHP-фреймворк"
+[5.1]: https://www.yiiframework.com/ "PHP-фреймворк"
+[5.1.1]: https://www.yiiframework.com/ "PHP-фреймворк"
 - - - - - - - - - - - - - - - -  
 ## Шпаргалка по синтаксису [markdown (маркдаун)][2].  
 
