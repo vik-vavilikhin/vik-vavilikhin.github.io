@@ -28,11 +28,11 @@ _Распространенный язык программирования об
 
   - [Yii][5.1]. PHP-фреймворк: быстрый, безопасный и эффективный.  
     ***Установка Yii на OpenServer:***  
-    01. [toster.ru][5.1.1]  
-    02. [web-sprints.ru][5.1.2]  
-    03. [wemarus.ru][5.1.3]  
-    04. [it-stop.ru][5.1.4]  
-    05. [d1mon.com][5.1.5]  
+    1_. [toster.ru][5.1.1]  
+    2_. [web-sprints.ru][5.1.2]  
+    3_. [wemarus.ru][5.1.3]  
+    4_. [it-stop.ru][5.1.4]  
+    5_. [d1mon.com][5.1.5]  
 
 [5]: http://php.net/ "PHP"
 [5.1]: https://www.yiiframework.com/ "www.yiiframework.com"
