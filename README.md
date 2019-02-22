@@ -9,8 +9,10 @@
 [3.3]: http://bootstraptema.ru/                          "3361+ Всё для Bootstrap"
 - - - - - - - - - - - - - - - -  
 [Sass][4] - документация на русском языке. Что такое sass или scss?  
+> _[Медиа запросы в SASS (SASS Media Queries)][4.1]_  
 
 [4]: https://sass-scss.ru/                                "Sass"
+[4.1]: http://area53.ru/route/route.php?css3/media-zaprosy-v-sass-sass-media-queries.html "media-queries"
 - - - - - - - - - - - - - - - -  
 Шпаргалка по синтаксису [markdown (маркдаун)][2].  
 
