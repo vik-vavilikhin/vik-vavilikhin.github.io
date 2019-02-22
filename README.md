@@ -99,10 +99,11 @@ _Распространенный язык программирования об
 [2]: http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/#link12 "markdown"
 
 - - - - - - - - - - - - - - - -  
-Репозиторий [Jekyll][1].  
-Интенсив по JS от Академии верстки [(Репозиторий)][10], [демо][10.1].  
+Jekyll [(репо)][1], [демо][1.1].  
+Интенсив по JS от Академии верстки [(репо)][10], [демо][10.1].  
 
 [1]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/Jekyll "Jekyll"  
+[1.1]: https://vik-vavilikhin.github.io//Jekyll "Jekyll"  
 [10]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/GloAcademy/JSPractic "Интенсив по JS"  
 [10.1]: https://vik-vavilikhin.github.io//GloAcademy/JSPractic/ "Интенсив по JS"  
 - - - - - - - - - - - - - - - -  
