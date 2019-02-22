@@ -62,17 +62,18 @@ _Распространенный язык программирования об
 [6.2]: https://github.com/kizu/bemto "bemto"
 
 - - - - - - - - - - - - - - - -  
-## [PUG][7]  
+## [JADE/PUG][7]  
   - [HTML to JADE/PUG][7.1] - онлайн сервис по конвертации кода HTML в код JADE/PUG  
   Примеры кода:  
-  - [Многоуровневое меню][7.2] на PUG
+    _1. [Многоуровневое меню][7.2] на PUG_  
 
 [7]: https://pugjs.org/api/getting-started.html "PUG"
 [7.1]: https://html2jade.org/ "HTML to JADE/PUG"
 [7.2]: https://toster.ru/q/345616 "toster.ru"
 
 - - - - - - - - - - - - - - - -  
-## Node Package Manager([NPM][8]) - менеджер пакетов, входящий в состав [Node.js][8.1]  
+## Node Package Manager([NPM][8]) 
+  менеджер пакетов, входящий в состав [Node.js][8.1]  
 
 [8]: https://www.npmjs.com/ "NPM"
 [8.1]: https://nodejs.org/en/ "Node.js"
