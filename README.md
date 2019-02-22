@@ -8,7 +8,7 @@
 [3.2]: http://bootstraptema.ru/stuff/plugins_bootstrap/2 "413+ Плагинов для Bootstrap"
 [3.3]: http://bootstraptema.ru/                          "3361+ Всё для Bootstrap"
 - - - - - - - - - - - - - - - -  
-[Sass][4] - документация на русском языке. Что такое sass или scss?
+[Sass][4] - документация на русском языке. Что такое sass или scss?  
 [4]: https://sass-scss.ru/                                "Sass"
 - - - - - - - - - - - - - - - -  
 Шпаргалка по синтаксису [markdown (маркдаун)][2].  
