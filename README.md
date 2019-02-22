@@ -33,6 +33,8 @@ _Распространенный язык программирования об
     _3. [wemarus.ru][5.1.3]_  
     _4. [it-stop.ru][5.1.4]_  
     _5. [d1mon.com][5.1.5]_  
+  - [WordPress][5.2] — свободное программное обеспечение, которое поможет вам создать красивый сайт, блог или веб-приложение.  
+    _1. **На [WP-Kama][5.2.1] вы найдете:** статьи по веб-разработке преимущественно по WordPress; готовые функции и классы для WordPress; большую коллекцию базовых функции WordPress, с примерами, на русском; список со всеми функциями и хуками WordPress._  
 
 [5]: http://php.net/ "PHP"
 [5.1]: https://www.yiiframework.com/ "www.yiiframework.com"
@@ -41,6 +43,8 @@ _Распространенный язык программирования об
 [5.1.3]: http://wemarus.ru/yii-2/319-ustanovka-yii-na-openserver.html "wemarus.ru"
 [5.1.4]: https://it-stop.ru/razrabotka-sajtov/ustanovka-yii2-na-openserver/ "it-stop.ru"
 [5.1.5]: https://d1mon.com/n/1355 "d1mon.com"
+[5.2]: https://ru.wordpress.org/ "WordPress"
+[5.2.1]: https://wp-kama.ru/ "wp-kama.ru"
 - - - - - - - - - - - - - - - -  
 ## Шпаргалка по синтаксису [markdown (маркдаун)][2].  
 
