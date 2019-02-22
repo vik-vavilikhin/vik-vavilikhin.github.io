@@ -100,8 +100,11 @@ _Распространенный язык программирования об
 
 - - - - - - - - - - - - - - - -  
 Репозиторий [Jekyll][1].  
+Интенсив по JS от Академии верстки [(Репозиторий)][10], [демо][10.1].  
 
-[1]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/Jekyll "Репозиторий"  
+[1]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/Jekyll "Jekyll"  
+[10]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/GloAcademy/JSPractic "Интенсив по JS"  
+[10.1]: https://vik-vavilikhin.github.io//GloAcademy/JSPractic/ "Интенсив по JS"  
 - - - - - - - - - - - - - - - -  
 
 
