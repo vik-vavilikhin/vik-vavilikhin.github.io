@@ -173,9 +173,9 @@ gulp.task('watch', function() {
 		notify: false
 	});
 	gulp.watch(paths.watch.grid, gulp.series('grid'));
-   gulp.watch(paths.watch.html, gulp.series('html'));
-   gulp.watch(paths.watch.css,  gulp.series('cssCommon'));
-   gulp.watch(paths.watch.js,   gulp.series('jsCommon'));
+  gulp.watch(paths.watch.html, gulp.series('html'));
+  gulp.watch(paths.watch.css,  gulp.series('cssCommon'));
+  gulp.watch(paths.watch.js,   gulp.series('jsCommon'));
 	gulp.watch('*.html').on('change', reload);
 });
 
