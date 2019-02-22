@@ -7,12 +7,16 @@
 [3.2]: https://habr.com/ru/company/dataart/blog/258301/ "Дополнения для Bootstrap"
 - - - - - - - - - - - - - - - -  
 ## [Sass][4] - документация на русском языке. Что такое sass или scss?  
-> [Медиа запросы][4.1] в SASS (SASS Media Queries)  
-> [Основы][4.2] Sass: @-правила и директивы  
+> - [Медиа запросы][4.1] в SASS (SASS Media Queries)  
+> - [Основы][4.2] Sass: @-правила и директивы  
+> - [Начинаем работу с Sass и Bourbon][4.3]  
+Автор: М.Дэвид Грин 
+13 Ноября 2015
 
 [4]: https://sass-scss.ru/ "Sass - документация на русском языке"
 [4.1]: http://area53.ru/route/route.php?css3/media-zaprosy-v-sass-sass-media-queries.html "Медиа запросы в SASS"
 [4.2]: https://getinstance.info/articles/css/sass-basics-rules-directives/ "Основы Sass: @-правила и директивы"
+[4.3]: http://prgssr.ru/development/nachinaem-rabotu-s-sass-i-bourbon.html "Начинаем работу с Sass и Bourbon"
 - - - - - - - - - - - - - - - -  
 ## Шпаргалка по синтаксису [markdown (маркдаун)][2].  
 
