@@ -1,9 +1,14 @@
-Шпаргалка по синтаксису [markdown (маркдаун)][2].
-Репозиторий [Jekyll][1].
+[Bootstrap][3].  
+> _[50+ лучших дополнений к Bootstrap][3.1]_  
+  
+Шпаргалка по синтаксису [markdown (маркдаун)][2].  
+  
+Репозиторий [Jekyll][1].  
 
 [1]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/Jekyll                                      "Jekyll"  
 [2]: http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/#link12 "markdown"
-
+[3]: https://getbootstrap.com/                           "Bootstrap"
+[3.1]: https://habr.com/ru/company/dataart/blog/258301/  "50+ лучших дополнений к Bootstrap"
 
 - - - - - - - - - - - - - - -  
 # Вавилихин Виктор
