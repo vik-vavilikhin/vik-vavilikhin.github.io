@@ -1,9 +1,9 @@
 
 ## [Редактор Visual Studio Code](https://code.visualstudio.com/)
   ### Список плагинов:
-    [Align][pl_01] - Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a  
-    [All Autocomplete][pl_02] - Обеспечивает автозаполнение элементов кода Visual Studio на основе всех открытых редакторов/  
-    
+   1. [Align][pl_01] - Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a  
+   2. [All Autocomplete][pl_02] - Обеспечивает автозаполнение элементов кода Visual Studio на основе всех открытых редакторов/  
+
   > [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete "Автозаполнение пути файла (Относительный путь - `./`, Абсолютный путь - `/`)") - Автозаполнение пути файла (Относительный путь - `./`, Абсолютный путь - `/`)  
   > [Color Highlight](https://github.com/sergiirocks/vscode-ext-color-highlight "Подсветка цвета") - Подсветка цвета  
   > [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color "Панель цветов") - Панель цветов  
