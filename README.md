@@ -1,4 +1,3 @@
-- - - - - - - - - - - - - - - -  
 ## Фреймворк [Bootstrap][3].  
   - [Всё для Bootstrap][3.1]. _Бесплатные адаптивные шаблоны и темы Bootstrap для сайтов, лучшие функциональные плагины для всех версий Bootstrap и готовые code сниппеты для сайта Bootstrap._  
   - [Дополнения][3.2] для Bootstrap  
@@ -7,13 +6,12 @@
 [3.1]: http://bootstraptema.ru/ "Всё для Bootstrap"
 [3.2]: https://habr.com/ru/company/dataart/blog/258301/ "Дополнения для Bootstrap"
 
-- - - - - - - - - - - - - - - -  
 ## [Sass][4] - документация на русском языке. Что такое sass или scss?  
   - [Медиа запросы][4.1] в SASS (SASS Media Queries)  
   - [Основы][4.2] Sass: @-правила и директивы  
   - [Начинаем работу с Sass и Bourbon][4.3]  
-Автор: М.Дэвид Грин  
-13 Ноября 2015
+    Автор: М.Дэвид Грин  
+    13 Ноября 2015
   - [Bourbon][4.4]: библиотека примесей для Sass ([дополнительные материалы][4.4.1])
 
 [4]: https://sass-scss.ru/ "Sass - документация на русском языке"
@@ -23,7 +21,6 @@
 [4.4]: https://www.bourbon.io/ "Bourbon - это легкий набор инструментов Sass"
 [4.4.1]: https://webdesign.tutsplus.com/ru/tutorials/introducing-bourbon-lightweight-sass-mixins-and-more--cms-24733 "Bourbon: библиотека примесей для Sass"
 
-- - - - - - - - - - - - - - - -  
 ## [PHP][5] (рекурсивный акроним словосочетания PHP: Hypertext Preprocessor)  
 _Распространенный язык программирования общего назначения с открытым исходным кодом. PHP специально сконструирован для веб-разработок и его код может внедряться непосредственно в HTML._  
 
@@ -51,7 +48,6 @@ _Распространенный язык программирования об
 [5.2.2]: http://underscores.me/ "underscores.me"
 [5.2.3]: http://wpnews.ru/ "wpnews.ru"
 
-- - - - - - - - - - - - - - - -  
 ## [БЭМ][6] (Блок, Элемент, Модификатор)  
   БЭМ (Блок, Элемент, Модификатор) — компонентный подход к веб-разработке. В его основе лежит принцип разделения интерфейса на независимые блоки. Он позволяет легко и быстро разрабатывать интерфейсы любой сложности и повторно использовать существующий код, избегая «Copy-Paste».  
   - [Сражаясь с БЭМ][6.1]: 10 основных ошибок и как их избежать  
@@ -61,7 +57,6 @@ _Распространенный язык программирования об
 [6.1]: https://habr.com/ru/post/305548/ "habr.com"
 [6.2]: https://github.com/kizu/bemto "bemto"
 
-- - - - - - - - - - - - - - - -  
 ## [JADE/PUG][7]  
   - [HTML to JADE/PUG][7.1] - онлайн сервис по конвертации кода HTML в код JADE/PUG  
   Примеры кода:  
@@ -71,18 +66,16 @@ _Распространенный язык программирования об
 [7.1]: https://html2jade.org/ "HTML to JADE/PUG"
 [7.2]: https://toster.ru/q/345616 "toster.ru"
 
-- - - - - - - - - - - - - - - -  
 ## [NPM][8] (Node Package Manager)  
   менеджер пакетов, входящий в состав [Node.js][8.1]  
 
 [8]: https://www.npmjs.com/ "NPM"
 [8.1]: https://nodejs.org/en/ "Node.js"
 
-- - - - - - - - - - - - - - - -  
 ## [JavaScript][9]  
   Учебники и справочники:
   - [MDN web docs][9.1] - Ресурсы для разработчиков, от разработчиков.  
-  - Современный [учебник Javascript][9.2], начиная с основ, включающий в себя много тонкостей и фишек JavaScript/DOM.  
+  - Современный учебник Javascript [learn.javascript.ru][9.2], начиная с основ, включающий в себя много тонкостей и фишек JavaScript/DOM.  
   - [Справочник Javascript][9.3].  
   - Библиотека [jQuery][9.4] ([jQuery CDN][9.5] - последние стабильные версии).  
 
@@ -93,12 +86,9 @@ _Распространенный язык программирования об
 [9.4]: http://jquery.com/ "jQuery"
 [9.5]: http://code.jquery.com/ "jQuery CDN"
 
-- - - - - - - - - - - - - - - -  
 ## Шпаргалка по синтаксису [markdown (маркдаун)][2].  
-
 [2]: http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/#link12 "markdown"
 
-- - - - - - - - - - - - - - - -  
 Jekyll ([репо][1], [демо][1.1]).  
 Интенсив по JS от Академии верстки ([репо][10], [демо][10.1]).  
 
@@ -106,97 +96,3 @@ Jekyll ([репо][1], [демо][1.1]).
 [1.1]: https://vik-vavilikhin.github.io/Jekyll/dist "Jekyll"  
 [10]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/JS/GloAcademy "Интенсив по JS"  
 [10.1]: https://vik-vavilikhin.github.io/JS/GloAcademy "Интенсив по JS"  
-- - - - - - - - - - - - - - - -  
-
-
-- - - - - - - - - - - - - - -  
-#### [Редактор Visual Studio Code](https://code.visualstudio.com/)
-  * ##### [Список плагинов:](Screenshots/vscove_list_plugins.png)  
-  > [Align](https://marketplace.visualstudio.com/items?itemName=steve8708.Align "Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a") - Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a  
-  > [All Autocomplete](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight "Автозаполнение в коде на основе всех открытых редакторов") - Автозаполнение в коде на основе всех открытых редакторов  
-  > [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete "Автозаполнение пути файла (Относительный путь - `./`, Абсолютный путь - `/`)") - Автозаполнение пути файла (Относительный путь - `./`, Абсолютный путь - `/`)  
-  > [Color Highlight](https://github.com/sergiirocks/vscode-ext-color-highlight "Подсветка цвета") - Подсветка цвета  
-  > [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color "Панель цветов") - Панель цветов  
-  * #### [Темы оформления для Visual Studio Code](https://marketplace.visualstudio.com/search?term=theme&target=VSCode&category=All%20categories&sortBy=Relevance)  
-  > [Theme - Seti-Monokai](https://marketplace.visualstudio.com/items?itemName=SmukkeKim.theme-setimonokai)  
-  > [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)  
-  > [One Dark Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.theme-onedark)  
-  > [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons "Коллекция иконок для файлов") - Коллекция иконок для файлов  
-  * ##### [Настройки для Visual Studio Code](https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories&sortBy=Downloads)  
-  > [Russian Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru "Русский языковой пакет для Visual Studio Code") - Русский языковой пакет для Visual Studio Code  
-  > [Shell launcher](https://marketplace.visualstudio.com/items?itemName=Tyriar.shell-launcher "Конфигурация и запуск терминалов в редакторе") - Конфигурация и запуск терминалов в редакторе  
-  > [VSCode Browser Sync](https://marketplace.visualstudio.com/items?itemName=jasonlhy.vscode-browser-sync "Browser Sync для VSCode") - Browser Sync для VSCode без необходимости установки gulp  
-  * ##### [Синтаксические дополнениея для Visual Studio Code](https://marketplace.visualstudio.com/search?term=syntax&target=VSCode&category=All%20categories&sortBy=Relevance)  
-  > [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented "Синтаксис SASS") - Синтаксис SASS  
-### [Adobe Photoshop CC 2017](http://www.adobe.com/ru/products/photoshop.html)
-### [Ссылка на скачивание патча для Mac](https://yadi.sk/d/cRmb_ho133xcvr)
-### [Ссылка на скачивание патча для Windows](http://photoshop-besplatno.ru/adobe-photoshop-cc.html)
-### [Сайт Punto Switcher](https://yandex.ru/soft/punto/)
-### [Зарегистрация на codepen](https://codepen.io)
-- - - - - - - - - - - - - - -  
-
- > **[Настройки редактора Visual Studio Code](Screenshots/configuration_vscode.png "Настройки редактора Visual Studio Code")**  
- ```
- {
-	"files.defaultLanguage": "html",
-	"emmet.triggerExpansionOnTab": true,
-
-	"window.menuBarVisibility": "toggle",
-	"window.zoomLevel": 0,
-
-	"workbench.startupEditor": "newUntitledFile",
-	"workbench.statusBar.visible": true,
-	"workbench.editor.tabSizing": "shrink",
-	"workbench.sideBar.location": "left",
-	"workbench.colorCustomizations": {
-		"editorIndentGuide.activeBackground": "#5c5c5c"
-	},
-
-	"editor.tabSize": 3,
-	"editor.insertSpaces": false,
-	"editor.detectIndentation": false,
-	"editor.glyphMargin": false,
-	"editor.smoothScrolling": true,
-	"editor.wordWrap": "on",
-	"editor.multiCursorModifier": "ctrlCmd",
-	"editor.formatOnPaste": true,
-	"editor.renderWhitespace": "boundary",
-	"editor.fontSize": 15,
-	"editor.renderLineHighlight": "line",
-	"editor.quickSuggestions": {
-		"other": false,
-		"comments": false,
-		"strings": false
-	},
-	"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\bash.exe",
-	"shellLauncher.shells.windows": [
-		// Для запуска:
-		// 	Ctrl+Shift+P ==> Shell launcher
-		{
-			"shell": "C:\\Windows\\sysnative\\cmd.exe",
-			"label": "cmd"
-		},
-		{
-			"shell": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-			"label": "PowerShell"
-		},
-		{
-			"shell": "C:\\WINDOWS\\System32\\bash.exe",
-			"label": "Bash"
-		},
-		{
-			"shell": "D:\\Git\\git-cmd.exe",
-			"label": "Git-cmd"
-		}
-	],
-
-	"workbench.colorTheme": "Seti Monokai",
-	"workbench.iconTheme": "file-icons",
-	"files.autoSave": "onFocusChange",
-}
- ```  
- 
-> _[Слайдер для фотографий fotorama](http://fotorama.io/ "Слайдер для фотографий fotorama")_  
-> _[Слайдер для любого контента slick](http://kenwheeler.github.io/slick/ "Слайдер для любого контента slick")_  
-> _[Слайдер с фотографиями и всплывающими окнами magnific-popup](http://dimsemenov.com/plugins/magnific-popup/ "Слайдер с фотографиями и всплывающими окнами magnific-popup")_  
-
