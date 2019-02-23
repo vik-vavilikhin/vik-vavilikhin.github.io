@@ -21,7 +21,6 @@
 [4.4]: https://www.bourbon.io/ "Bourbon - это легкий набор инструментов Sass"
 [4.4.1]: https://webdesign.tutsplus.com/ru/tutorials/introducing-bourbon-lightweight-sass-mixins-and-more--cms-24733 "Bourbon: библиотека примесей для Sass"
 
-- - - - - - - - - - - - - - - -  
 ## [PHP][5] (рекурсивный акроним словосочетания PHP: Hypertext Preprocessor)  
 _Распространенный язык программирования общего назначения с открытым исходным кодом. PHP специально сконструирован для веб-разработок и его код может внедряться непосредственно в HTML._  
 
@@ -87,12 +86,9 @@ _Распространенный язык программирования об
 [9.4]: http://jquery.com/ "jQuery"
 [9.5]: http://code.jquery.com/ "jQuery CDN"
 
-- - - - - - - - - - - - - - - -  
 ## Шпаргалка по синтаксису [markdown (маркдаун)][2].  
-
 [2]: http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/#link12 "markdown"
 
-- - - - - - - - - - - - - - - -  
 Jekyll ([репо][1], [демо][1.1]).  
 Интенсив по JS от Академии верстки ([репо][10], [демо][10.1]).  
 
