@@ -1,13 +1,15 @@
 
-#### [Редактор Visual Studio Code](https://code.visualstudio.com/)
-  * ##### Список плагинов:
-  > [Align][pl01] - Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a  
-  > [All Autocomplete](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight "Автозаполнение в коде на основе всех открытых редакторов") - Автозаполнение в коде на основе всех открытых редакторов  
+## [Редактор Visual Studio Code](https://code.visualstudio.com/)
+  ### Список плагинов:
+    [Align][pl_01] - Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a  
+    [All Autocomplete][pl_02] - Обеспечивает автозаполнение элементов кода Visual Studio на основе всех открытых редакторов/  
+    
   > [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete "Автозаполнение пути файла (Относительный путь - `./`, Абсолютный путь - `/`)") - Автозаполнение пути файла (Относительный путь - `./`, Абсолютный путь - `/`)  
   > [Color Highlight](https://github.com/sergiirocks/vscode-ext-color-highlight "Подсветка цвета") - Подсветка цвета  
   > [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color "Панель цветов") - Панель цветов  
 
-  [pl01]: https://marketplace.visualstudio.com/items?itemName=steve8708.Align "Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a"
+  [pl_01]: https://marketplace.visualstudio.com/items?itemName=steve8708.Align "Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a"
+  [pl_02]: https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete "Автозаполнение в коде на основе всех открытых редакторов"
 
 
 
