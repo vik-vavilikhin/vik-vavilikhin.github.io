@@ -144,3 +144,16 @@ window.addEventListener('DOMContentLoaded', () => {
     }
   });
 });
+
+// const good = {
+//   "url": "URL",
+//   "title": "Smart",
+//   "price": "8"
+// }
+
+// fetch('http://localhost:3000/goods', {
+//   method: 'POST',
+//   body: JSON.stringify(good)
+// })
+//   .then(response => response.json())
+//   .then(json => console.log(json));
