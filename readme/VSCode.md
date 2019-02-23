@@ -1,15 +1,57 @@
 
 ## [Редактор Visual Studio Code](https://code.visualstudio.com/)
   ### Список плагинов:
-   1. [Align][pl_01] - Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a  
-   2. [All Autocomplete][pl_02] - Обеспечивает автозаполнение элементов кода Visual Studio на основе всех открытых редакторов/  
+   1. [ACF-Snippet][pl_01] - Snippets for Visual Studio Code : Advanced Custom Fields  
+   2. [Align][pl_02] - Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a  
+   3. [All Autocomplete][pl_03] - Обеспечивает автозаполнение элементов кода Visual Studio на основе всех открытых редакторов  
+   4. [Apache Conf][pl_04] - Поддержка синтаксиса Apache conf для VS Code. Подсветка синтаксиса для файлов конфигурации Apache в коде Visual Studio.  
+   5. [Auto Close Tag][pl_05] - Автоматически добавляет закрывающий тег HTML / XML, так же, как в IDE Visual Studio  или Sublime Text.  
+   6. [Auto Import - ES6, TS, JSX, TSX][pl_06] - Автоматически находит, анализирует и обеспечивает завершение кода для доступных импортов. Работает с JavaScript и TypeScript.  
+   7. [Auto Rename Tag][pl_07] - Автоматически переименовывает парные теги HTML / XML, как в Visual Studio IDE.  
+   8. [Bracket Pair Colorizer][pl_08] - Подсвечивает парные скобки. У каждой пары свой цвет.
+   9. [Class autocomplete for HTML][pl_09] - Расширение автоматически сканирует активный HTML-файл на наличие ссылок на внешние таблицы стилей CSS. Когда таблица стилей найдена, имена классов извлекаются и становятся доступными для использования с функцией автозавершения кода в Visual Studio Code.  
+   10. [Color Picker][pl_10] - Помощник с графическим интерфейсом для создания цветовых кодов CSS.  
+   11. [CSS Peek][pl_11] - Добавляет возможность просматривать идентификаторы CSS непосредственно из HTML и при необходимости перейти к ним в файле стилей.  
+   12. [Debugger for Chrome][pl_12] - Расширение VS Code для отладки кода JavaScript в браузере Google Chrome.  
+   13. [ESLint][pl_13] - Интегрирует ESLint в VS Code.  
+   14. [file-icons][pl_14] - Иконки для файлов в VSCode.  
+   15. [ftp-simple][pl_15] - Простой FTP / SFTP.  
+   16. [HTML CSS Support][pl_16] - Завершение атрибута класса.  
+    - Завершение атрибута класса.
+    - Идентификатор завершения атрибута.
+    - Поддерживает завершение Zen Coding для атрибутов class и id.
+    - Сканирует папку рабочего пространства для файлов CSS и SCSS.
+    - Поддерживает удаленные CSS-файлы.
+    - Использует vscode-css-languageservice 
+  
 
-  > [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete "Автозаполнение пути файла (Относительный путь - `./`, Абсолютный путь - `/`)") - Автозаполнение пути файла (Относительный путь - `./`, Абсолютный путь - `/`)  
-  > [Color Highlight](https://github.com/sergiirocks/vscode-ext-color-highlight "Подсветка цвета") - Подсветка цвета  
-  > [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color "Панель цветов") - Панель цветов  
+   1. [Path Autocomplete][pl_01] - Автозаполнение пути файла (Относительный путь - `./`, Абсолютный путь - `/`)  
+   4. [Color Highlight][pl_04] - Подсветка цвета  
 
-  [pl_01]: https://marketplace.visualstudio.com/items?itemName=steve8708.Align "Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a"
-  [pl_02]: https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete "Автозаполнение в коде на основе всех открытых редакторов"
+
+
+  [pl_01]: https://marketplace.visualstudio.com/items?itemName=anthonydiametrix.ACF-Snippet "Snippets for Visual Studio Code"
+  [pl_02]: https://marketplace.visualstudio.com/items?itemName=steve8708.Align "Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a"
+  [pl_03]: https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete "Автозаполнение в коде на основе всех открытых редакторов"
+  [pl_04]: https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache "Поддержка синтаксиса Apache conf"
+  [pl_05]: https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache "Автоматическое закрытие тегов HTML/XML"
+  [pl_06]: https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import "Анализирует и предлагает завершение кода"
+  [pl_07]: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag "Автоматически переименовывает парные теги HTML / XML"
+  [pl_08]: https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer "Подсвечивает парные скобки"
+  [pl_09]: https://marketplace.visualstudio.com/items?itemName=AESSoft.aessoft-class-autocomplete "Поиск классов в CSS"
+  [pl_10]: https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color "Помощник с графическим интерфейсом для создания цветовых кодов CSS"
+  [pl_11]: https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek "Добавляет возможность просматривать идентификаторы CSS"
+  [pl_12]: https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome "Отладки кода JavaScript в браузере Google Chrome"
+  [pl_13]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint "Интегрирует ESLint в VS Code"
+  [pl_14]: https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons "Иконки для файлов в VSCode"
+  [pl_15]: https://marketplace.visualstudio.com/items?itemName=humy2833.ftp-simple "Простой FTP / SFTP"
+  [pl_16]: https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css "Завершение атрибута класса"
+
+
+  [pl_0]: https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete "Автозаполнение пути файла (Относительный путь - `./`, Абсолютный путь - `/`)"
+  [pl_0]: https://marketplace.visualstudio.com/items?itemName=ajshort.include-autocomplete "Поиск классов в CSS"
+
+  [pl_0]: https://github.com/sergiirocks/vscode-ext-color-highlight "Подсветка цвета"
 
 
 
