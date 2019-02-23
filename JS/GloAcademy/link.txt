@@ -5,3 +5,6 @@ Part-3: https://www.youtube.com/watch?v=-FTytB-b-A0
 
 Страница ВК: https://vk.com/wall-178180602_73
 Исходники: https://drive.google.com/file/d/1Dl6dCLHE5soeULItzox5WLipQy_vaMdD/view
+
+
+https://jsonplaceholder.typicode.com/
