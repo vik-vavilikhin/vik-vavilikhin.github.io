@@ -1,11 +1,17 @@
 
 #### [Редактор Visual Studio Code](https://code.visualstudio.com/)
-  * ##### [Список плагинов:](Screenshots/vscove_list_plugins.png)  
-  > [Align](https://marketplace.visualstudio.com/items?itemName=steve8708.Align "Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a") - Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a  
+  * ##### Список плагинов:
+  > [Align][pl01] - Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a  
   > [All Autocomplete](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight "Автозаполнение в коде на основе всех открытых редакторов") - Автозаполнение в коде на основе всех открытых редакторов  
   > [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete "Автозаполнение пути файла (Относительный путь - `./`, Абсолютный путь - `/`)") - Автозаполнение пути файла (Относительный путь - `./`, Абсолютный путь - `/`)  
   > [Color Highlight](https://github.com/sergiirocks/vscode-ext-color-highlight "Подсветка цвета") - Подсветка цвета  
   > [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color "Панель цветов") - Панель цветов  
+
+  [pl01]: https://marketplace.visualstudio.com/items?itemName=steve8708.Align "Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a"
+
+
+
+
   * #### [Темы оформления для Visual Studio Code](https://marketplace.visualstudio.com/search?term=theme&target=VSCode&category=All%20categories&sortBy=Relevance)  
   > [Theme - Seti-Monokai](https://marketplace.visualstudio.com/items?itemName=SmukkeKim.theme-setimonokai)  
   > [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)  
