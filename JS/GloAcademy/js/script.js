@@ -32,24 +32,24 @@ window.addEventListener('DOMContentLoaded', () => {
   
   loadContent('js/db.json', () => {
     const cartWrapper = document.querySelector('.cart__wrapper'),
-      cart      = document.querySelector('.cart'),
-      close     = document.querySelector('.cart__close'),
-      open      = document.querySelector('#cart'),
-      goodsBtn  = document.querySelectorAll('.goods__btn'),
-      products  = document.querySelectorAll('.goods__item'),
-      confirm   = document.querySelector('.confirm'),
-      badge     = document.querySelector('.nav__badge'),
-      totalCost = document.querySelector('.cart__total > span'),
-      titles    = document.querySelectorAll('.goods__title'),
-      empty     = cartWrapper.querySelector('.empty');
+          cart        = document.querySelector('.cart'),
+          close       = document.querySelector('.cart__close'),
+          open        = document.querySelector('#cart'),
+          goodsBtn    = document.querySelectorAll('.goods__btn'),
+          products    = document.querySelectorAll('.goods__item'),
+          confirm     = document.querySelector('.confirm'),
+          badge       = document.querySelector('.nav__badge'),
+          totalCost   = document.querySelector('.cart__total > span'),
+          titles      = document.querySelectorAll('.goods__title'),
+          empty       = cartWrapper.querySelector('.empty');
   
     function openCart() {
-      cart.style.display = 'block';
+      cart.style.display           = 'block';
       document.body.style.overflow = 'hidden';
     }
   
     function closeCart() {
-      cart.style.display = 'none';
+      cart.style.display           = 'none';
       document.body.style.overflow = '';
     }
   
@@ -63,10 +63,10 @@ window.addEventListener('DOMContentLoaded', () => {
   
     goodsBtn.forEach(function (btn, i) {
       btn.addEventListener('click', () => {
-        let item = products[i].cloneNode(true),
-          trigger = item.querySelector('button'),
-          removeBtn = document.createElement('div');
-        // empty     = cartWrapper.querySelector('.empty');
+        let item      = products[i].cloneNode(true),
+            trigger   = item.querySelector('button'),
+            removeBtn = document.createElement('div');
+            // empty     = cartWrapper.querySelector('.empty');
   
         trigger.remove();
   
@@ -107,7 +107,7 @@ window.addEventListener('DOMContentLoaded', () => {
         } else {
           counter--;
           confirm.style.transform = `translateY(-${counter}px)`;
-          confirm.style.opacity = `.${counter}`;
+          confirm.style.opacity   = `.${counter}`;
         }
       }
     }
