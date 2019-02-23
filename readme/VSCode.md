@@ -14,7 +14,7 @@
    11. [CSS Peek][pl_11] - Добавляет возможность просматривать идентификаторы CSS непосредственно из HTML и при необходимости перейти к ним в файле стилей.  
    12. [Debugger for Chrome][pl_12] - Расширение VS Code для отладки кода JavaScript в браузере Google Chrome.  
    13. [ESLint][pl_13] - Интегрирует ESLint в VS Code.  
-   14. [file-icons][pl_14] - Иконки для файлов в VSCode.  
+   14. [file-icons][pl_14] - Иконки для файлов в VS Code.  
    15. [ftp-simple][pl_15] - Простой FTP / SFTP.  
    16. [HTML CSS Support][pl_16] - Завершение атрибута класса.  
     - Завершение атрибута класса.  
@@ -23,6 +23,10 @@
     - Сканирует папку рабочего пространства для файлов CSS и SCSS.  
     - Поддерживает удаленные CSS-файлы.  
     - Использует vscode-css-languageservice  
+   17. [html tag wrapper][pl_17] - Оборачивает выбранный блок кода в HTML-тег нажатием Ctrl + I, можно изменить имя тега-обертки.  
+   18. [htmltagwrap][pl_18] - Обертывание выбранного кода в HTML-тег.  
+   19. [IntelliSense for CSS class names in HTML][pl_19] - Расширение VS Code, которое обеспечивает завершение имени класса CSS для class-атрибута HTML на основе определений, найденных в вашем рабочем пространстве или внешних файлах, на которые ссылается link-элемент.  
+   20. [jQuery Code Snippets][pl_20] - Более 130 сниппетов jQuery. Просто введите буквы «jq», чтобы получить список всех доступных фрагментов кода jQuery.  
   
 
    1. [Path Autocomplete][pl_01] - Автозаполнение пути файла (Относительный путь - `./`, Абсолютный путь - `/`)  
@@ -46,6 +50,10 @@
   [pl_14]: https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons "Иконки для файлов в VSCode"
   [pl_15]: https://marketplace.visualstudio.com/items?itemName=humy2833.ftp-simple "Простой FTP / SFTP"
   [pl_16]: https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css "Завершение атрибута класса"
+  [pl_17]: https://marketplace.visualstudio.com/items?itemName=hwencc.html-tag-wrapper "Оборачивает выбранный блок кода в HTML-тег"
+  [pl_18]: https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap "Обертывание выбранного кода в HTML-тег"
+  [pl_19]: https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion "Завершение имени класса CSS для class-атрибута HTML"
+  [pl_20]: https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets "Сниппеты jQuery"
 
 
   [pl_0]: https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete "Автозаполнение пути файла (Относительный путь - `./`, Абсолютный путь - `/`)"
