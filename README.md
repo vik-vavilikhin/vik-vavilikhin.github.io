@@ -7,7 +7,8 @@
 [JADE/PUG](readme/JADE-PUG.md) | 
 [NPM](readme/NPM.md) | 
 [JavaScript](readme/JavaScript.md) | 
-[markdown](readme/markdown.md) |
+[markdown](readme/markdown.md) | 
+[Git](readme/Git.md) | 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ### Наработки
