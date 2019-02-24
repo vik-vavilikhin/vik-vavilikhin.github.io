@@ -118,7 +118,8 @@
    1. [Theme - Seti-Monokai](https://marketplace.visualstudio.com/items?itemName=SmukkeKim.theme-setimonokai "Тема оформления Seti Monokai") - Тема оформления Seti Monokai.
 
 
-**"Настройки редактора Visual Studio Code")**  
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+### Настройки редактора Visual Studio Code
  ```
  {
   "files.defaultLanguage": "html",
