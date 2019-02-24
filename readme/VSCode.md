@@ -118,13 +118,7 @@
    1. [Theme - Seti-Monokai](https://marketplace.visualstudio.com/items?itemName=SmukkeKim.theme-setimonokai "Тема оформления Seti Monokai") - Тема оформления Seti Monokai.
 
 
-### [Adobe Photoshop CC 2017](http://www.adobe.com/ru/products/photoshop.html)
-### [Ссылка на скачивание патча для Mac](https://yadi.sk/d/cRmb_ho133xcvr)
-### [Ссылка на скачивание патча для Windows](http://photoshop-besplatno.ru/adobe-photoshop-cc.html)
-### [Сайт Punto Switcher](https://yandex.ru/soft/punto/)
-### [Зарегистрация на codepen](https://codepen.io)
-
- > **"Настройки редактора Visual Studio Code")**  
+**"Настройки редактора Visual Studio Code")**  
  ```
  {
   "files.defaultLanguage": "html",
@@ -272,7 +266,13 @@
   "git.confirmSync": false,
 }
  ```  
- 
-> _[Слайдер для фотографий fotorama](http://fotorama.io/ "Слайдер для фотографий fotorama")_  
-> _[Слайдер для любого контента slick](http://kenwheeler.github.io/slick/ "Слайдер для любого контента slick")_  
-> _[Слайдер с фотографиями и всплывающими окнами magnific-popup](http://dimsemenov.com/plugins/magnific-popup/ "Слайдер с фотографиями и всплывающими окнами magnific-popup")_  
+### [Adobe Photoshop CC 2017](http://www.adobe.com/ru/products/photoshop.html)
+### [Ссылка на скачивание патча для Mac](https://yadi.sk/d/cRmb_ho133xcvr)
+### [Ссылка на скачивание патча для Windows](http://photoshop-besplatno.ru/adobe-photoshop-cc.html)
+### [Сайт Punto Switcher](https://yandex.ru/soft/punto/)
+### [Зарегистрация на codepen](https://codepen.io)
+
+
+_[Слайдер для фотографий fotorama](http://fotorama.io/ "Слайдер для фотографий fotorama")_  
+_[Слайдер для любого контента slick](http://kenwheeler.github.io/slick/ "Слайдер для любого контента slick")_  
+_[Слайдер с фотографиями и всплывающими окнами magnific-popup](http://dimsemenov.com/plugins/magnific-popup/ "Слайдер с фотографиями и всплывающими окнами magnific-popup")_  
