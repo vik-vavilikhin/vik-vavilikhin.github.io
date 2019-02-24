@@ -63,16 +63,16 @@
    
    28. [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser "Открыть текущий файл в броузере") - Позволяет открывать текущий файл в браузере.
    
-   29. [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete "Автозаполнение пути файла") - Обеспечивает завершение пути для VS Code
-    - относительные пути (./)
-    - абсолютный путь к рабочему пространству (/)
-    - абсолютный путь к файловой системе (C:)
-    - пути относительно папки пользователя (~)
-    - исключения элементов через опцию path-autocomplete.excludedItems
-    - пакеты npm
-    - автоматическое предложение после выбора папки
-    - сопоставления через опцию path-autocomplete.pathMappings
-    - трансформации через опцию path-autocomplete.transformations
+   29. [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete "Автозаполнение пути файла") - Обеспечивает завершение пути для VS Code  
+    - относительные пути (./)  
+    - абсолютный путь к рабочему пространству (/)  
+    - абсолютный путь к файловой системе (C:)  
+    - пути относительно папки пользователя (~)  
+    - исключения элементов через опцию path-autocomplete.excludedItems  
+    - пакеты npm  
+    - автоматическое предложение после выбора папки  
+    - сопоставления через опцию path-autocomplete.pathMappings  
+    - трансформации через опцию path-autocomplete.transformations  
     - поддержка пути Windows с path-autocomplete.useBackslash
    
    30. [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug "Поддержка отладки PHP") - Поддержка отладки PHP для VS Code.
