@@ -4,8 +4,8 @@ window.addEventListener('DOMContentLoaded', () => {
   const loadContent = async (url, callback) => {
     await fetch(url)
       .then(response => response.json())
-      // .then(json => crtElement(json.goods));
-      .then(json => crtElement(json));
+      .then(json => crtElement(json.goods));
+      // .then(json => crtElement(json));
   
     callback();
   }
@@ -31,8 +31,8 @@ window.addEventListener('DOMContentLoaded', () => {
     });
   }
   
-  // loadContent('js/db.json', () => {
-  loadContent('http://localhost:3000/goods', () => {
+  loadContent('js/db.json', () => {
+  // loadContent('http://localhost:3000/goods', () => {
     const cartWrapper = document.querySelector('.cart__wrapper'),
           cart        = document.querySelector('.cart'),
           close       = document.querySelector('.cart__close'),
