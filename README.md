@@ -1,13 +1,4 @@
-| [VS Code](readme/VSCode.md) | [PHP](readme/PHP.md) | [______](_______) |
-
-
-## Фреймворк [Bootstrap][3].  
-  - [Всё для Bootstrap][3.1]. _Бесплатные адаптивные шаблоны и темы Bootstrap для сайтов, лучшие функциональные плагины для всех версий Bootstrap и готовые code сниппеты для сайта Bootstrap._  
-  - [Дополнения][3.2] для Bootstrap  
-
-[3]: https://getbootstrap.com/ "Bootstrap"
-[3.1]: http://bootstraptema.ru/ "Всё для Bootstrap"
-[3.2]: https://habr.com/ru/company/dataart/blog/258301/ "Дополнения для Bootstrap"
+| [VS Code](readme/VSCode.md) | [PHP](readme/PHP.md) | [Bootstrap](Bootstrap.md) |
 
 ## [Sass][4] - документация на русском языке. Что такое sass или scss?  
   - [Медиа запросы][4.1] в SASS (SASS Media Queries)  
