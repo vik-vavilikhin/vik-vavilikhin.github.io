@@ -6,13 +6,13 @@
   - [MDN web docs][js_1] - Ресурсы для разработчиков, от разработчиков.  
   - Современный учебник Javascript [learn.javascript.ru][js_2], начиная с основ, включающий в себя много тонкостей и фишек JavaScript/DOM.  
   - [Справочник Javascript][js_3].  
-  ***Плагины***
-    Плагин [instafeed.js][js_3.1] -, это очень простой способ добавить фотографии из Instagram на свой сайт. Не требуется jQuery, просто обычный javascript.  
+  ***Плагины***  
+    - [Instafeed.js][js_3.1] -, это очень простой способ добавить фотографии из Instagram на свой сайт. Не требуется jQuery, просто обычный javascript.  
 
   - Библиотека [jQuery][js_4] ([jQuery CDN][js_5] - последние стабильные версии).  
-    [Слайдер для фотографий fotorama][js_4.1]  
-    [Слайдер для любого контента slick][js_4.2]  
-    [Слайдер с фотографиями и всплывающими окнами magnific-popup][js_4.3]  
+    - [Слайдер для фотографий fotorama][js_4.1]  
+    - [Слайдер для любого контента slick][js_4.2]  
+    - [Слайдер с фотографиями и всплывающими окнами magnific-popup][js_4.3]  
 
 [js]: https://ru.wikipedia.org/wiki/JavaScript "JavaScript"
 [js_1]: https://developer.mozilla.org/ru/ "MDN web docs"
