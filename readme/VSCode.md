@@ -1,4 +1,4 @@
-| [Home](../README.md) | [PHP](readme/PHP.md) | [Bootstrap](readme/Bootstrap.md) | [Sass/Scss](readme/Sass.md) | [БЭМ](readme/БЭМ.md) | [JADE/PUG](readme/JADE-PUG.md) | [NPM](readme/NPM.md) | [JavaScript](readme/JavaScript.md) | [markdown](readme/markdown.md) |
+| [Home](../README.md) | [PHP](PHP.md) | [Bootstrap](Bootstrap.md) | [Sass/Scss](Sass.md) | [БЭМ](БЭМ.md) | [JADE/PUG](JADE-PUG.md) | [NPM](NPM.md) | [JavaScript](JavaScript.md) | [markdown](markdown.md) |
 
 ## [Редактор Visual Studio Code](https://code.visualstudio.com/)
   ### Список плагинов:

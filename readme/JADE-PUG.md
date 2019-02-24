@@ -1,4 +1,4 @@
-| [Home](../README.md) | [VS Code](readme/VSCode.md) | [PHP](readme/PHP.md) | [Bootstrap](readme/Bootstrap.md) | [Sass/Scss](readme/Sass.md) | [БЭМ](readme/БЭМ.md) | [NPM](readme/NPM.md) | [JavaScript](readme/JavaScript.md) | [markdown](readme/markdown.md) |
+| [Home](../README.md) | [VS Code](VSCode.md) | [PHP](PHP.md) | [Bootstrap](Bootstrap.md) | [Sass/Scss](Sass.md) | [БЭМ](БЭМ.md) | [NPM](NPM.md) | [JavaScript](JavaScript.md) | [markdown](markdown.md) |
 
 ## [JADE/PUG][7]  
   - [HTML to JADE/PUG][7.1] - онлайн сервис по конвертации кода HTML в код JADE/PUG  
