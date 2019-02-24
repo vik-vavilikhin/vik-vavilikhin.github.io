@@ -1,3 +1,5 @@
+| [Home](../README.md) |
+
 ## [NPM][8] (Node Package Manager)  
   менеджер пакетов, входящий в состав [Node.js][8.1]  
 

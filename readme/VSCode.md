@@ -1,3 +1,4 @@
+| [Home](../README.md) |
 
 ## [Редактор Visual Studio Code](https://code.visualstudio.com/)
   ### Список плагинов:

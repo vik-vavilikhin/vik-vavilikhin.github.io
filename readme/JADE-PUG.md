@@ -1,3 +1,5 @@
+| [Home](../README.md) |
+
 ## [JADE/PUG][7]  
   - [HTML to JADE/PUG][7.1] - онлайн сервис по конвертации кода HTML в код JADE/PUG  
   Примеры кода:  
