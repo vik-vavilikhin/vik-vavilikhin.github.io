@@ -14,4 +14,16 @@
   - [ALLFONT.RU](http://allfont.ru/)  - on-line библиотека шрифтов.  
   - [Font Awesome](https://fontawesome.com/)  - on-line библиотека иконочных шрифтов.  
   - [Fontello](http://fontello.com/)  - on-line библиотека иконочных шрифтов.  
-    _[Сборка иконок](https://webref.ru/layout/font-awesome/fontello) инструкция по использованию сборок шрифтов._
+    _[Сборка иконок](https://webref.ru/layout/font-awesome/fontello) инструкция по использованию сборок шрифтов._  
+
+### 
+
+
+### [Adobe Photoshop CC 2017](http://www.adobe.com/ru/products/photoshop.html)
+### [Ссылка на скачивание патча для Mac](https://yadi.sk/d/cRmb_ho133xcvr)
+### [Ссылка на скачивание патча для Windows](http://photoshop-besplatno.ru/adobe-photoshop-cc.html)
+### [Сайт Punto Switcher](https://yandex.ru/soft/punto/)
+### [Зарегистрация на codepen](https://codepen.io)
+
+
+
