@@ -19,6 +19,8 @@
 
    1. [Class autocomplete for HTML](https://marketplace.visualstudio.com/items?itemName=AESSoft.aessoft-class-autocomplete "Поиск классов в CSS") - Расширение автоматически сканирует активный HTML-файл на наличие ссылок на внешние таблицы стилей CSS. Когда таблица стилей найдена, имена классов извлекаются и становятся доступными для использования с функцией автозавершения кода в Visual Studio Code.
 
+   1. [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight "Подсветка кода цветов CSS") - Подсветка кода цветов CSS
+   
    1. [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color "Помощник с графическим интерфейсом для создания цветовых кодов CSS") - Помощник с графическим интерфейсом для создания цветовых кодов CSS.
 
    1. [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek "Добавляет возможность просматривать идентификаторы CSS") - Добавляет возможность просматривать идентификаторы CSS непосредственно из HTML и при необходимости перейти к ним в файле стилей.
@@ -97,29 +99,25 @@
    
    1. [Shell Launcher](https://marketplace.visualstudio.com/items?itemName=Tyriar.shell-launcher "Запусе нескольких оболочек в терминале") - Расширенная позволяет запускать одновременно несколько оболочек в терминале.
    
-   
+  1. [VSCode Browser Sync](https://marketplace.visualstudio.com/items?itemName=jasonlhy.vscode-browser-sync "Интегрированния синхронизация Browser Sync для VS Code") - Интегрированния синхронизация Browser Sync для VS Code.
+  
+  1. [vscode-styled-jsx](https://marketplace.visualstudio.com/items?itemName=blanu.vscode-styled-jsx "Подсветка синтаксиса jsx") - Подсветка синтаксиса jsx.
+  
+  1. [WooCommerce - Snippets & autocomplete](https://marketplace.visualstudio.com/items?itemName=claudiosanches.woocommerce "Сниппеты и автозаполнение для PHP") - Сниппеты и автозаполнение для PHP.
+  
+  1. [WordPress Snippet](https://marketplace.visualstudio.com/items?itemName=tungvn.wordpress-snippet "Коллекция сниппетов и автозаполнений WordPress") - Это коллекция сниппетов и автозаполнений WordPress для VS Code.
+  
+  1. [WordPress Snippets](https://marketplace.visualstudio.com/items?itemName=wordpresstoolbox.wordpress-toolbox "Коллекция сниппетов WordPress") - Это коллекция сниппетов WordPress для VS Code.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  ### [Темы оформления для Visual Studio Code](https://marketplace.visualstudio.com/search?term=theme&target=VSCode&category=All%20categories&sortBy=Relevance)  
    1. [One Dark Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.theme-onedark "Тема оформления One Dark Theme") - Тема оформления One Dark Theme основана на соответствующей теме редактора.
    
    1. [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai "Тема оформления One Monokai Theme") - Тема оформления One Monokai Theme.
    
    1. [Theme - Seti-Monokai](https://marketplace.visualstudio.com/items?itemName=SmukkeKim.theme-setimonokai "Тема оформления Seti Monokai") - Тема оформления Seti Monokai.
 
-  
 
-   4. [Color Highlight](https://github.com/sergiirocks/vscode-ext-color-highlight "Подсветка цвета") - Подсветка цвета
-
-
-  * #### [Темы оформления для Visual Studio Code](https://marketplace.visualstudio.com/search?term=theme&target=VSCode&category=All%20categories&sortBy=Relevance)  
-  > [Theme - Seti-Monokai](https://marketplace.visualstudio.com/items?itemName=SmukkeKim.theme-setimonokai)  
-  > [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)  
-  > [One Dark Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.theme-onedark)  
-  > [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons "Коллекция иконок для файлов") - Коллекция иконок для файлов  
-  * ##### [Настройки для Visual Studio Code](https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories&sortBy=Downloads)  
-  > [Russian Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru "Русский языковой пакет для Visual Studio Code") - Русский языковой пакет для Visual Studio Code  
-  > [Shell launcher](https://marketplace.visualstudio.com/items?itemName=Tyriar.shell-launcher "Конфигурация и запуск терминалов в редакторе") - Конфигурация и запуск терминалов в редакторе  
-  > [VSCode Browser Sync](https://marketplace.visualstudio.com/items?itemName=jasonlhy.vscode-browser-sync "Browser Sync для VSCode") - Browser Sync для VSCode без необходимости установки gulp  
-  * ##### [Синтаксические дополнениея для Visual Studio Code](https://marketplace.visualstudio.com/search?term=syntax&target=VSCode&category=All%20categories&sortBy=Relevance)  
-  > [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented "Синтаксис SASS") - Синтаксис SASS  
 ### [Adobe Photoshop CC 2017](http://www.adobe.com/ru/products/photoshop.html)
 ### [Ссылка на скачивание патча для Mac](https://yadi.sk/d/cRmb_ho133xcvr)
 ### [Ссылка на скачивание патча для Windows](http://photoshop-besplatno.ru/adobe-photoshop-cc.html)
