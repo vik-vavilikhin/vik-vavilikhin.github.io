@@ -1,12 +1,12 @@
 $(document).ready(function(){
   let slideIndex = 0;
   function showPhotos() {
-    const slides = $('.photo img');
+    const slides = $('#instafeed a');
     for(let i = 0; i < slides.length; i++) {
       $(slides[i]).hide();
     }
     
-    console.log(slideIndex);
+    // console.log(slideIndex);
     
     $(slides[slideIndex]).show();
     ++slideIndex;
@@ -14,7 +14,7 @@ $(document).ready(function(){
     if (slideIndex > slides.length - 1) {
       slideIndex = 0;
     }
-    setTimeout(showPhotos, 500);
+    setTimeout(showPhotos, 1000);
   }
   showPhotos();
 });
