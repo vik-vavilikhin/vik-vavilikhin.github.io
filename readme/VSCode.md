@@ -90,6 +90,14 @@
    36. [Pug/Jade Snippets](https://marketplace.visualstudio.com/items?itemName=amandeepmittal.pug "Pug/Jade сниппеты для VS Code") - Pug/Jade сниппеты для VS Code.
    
    37. [Pug (Jade) snippets](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-jade-snippets "Pug/Jade сниппеты для VS Code") - Предоставляет базовый набор фрагментов для Jade/Pug.
+   
+   37. [React PropTypes Intellisense](https://marketplace.visualstudio.com/items?itemName=OfHumanBondage.react-proptypes-intellisense "Расширение находит React PropTypes и добавляет их в список предложений") - Расширение находит React PropTypes и добавляет их в список предложений.
+   
+   38. [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client "REST Client позволяет отправлять HTTP-запрос и просматривать ответ непосредственно в VS Code") - REST Client позволяет отправлять HTTP-запрос и просматривать ответ непосредственно в VS Code.
+   
+   39. [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented "Подсветка синтаксиса Sass, автозаполнение и фрагменты для VS Code) - Подсветка синтаксиса Sass, автозаполнение и фрагменты для VSCode.
+   
+   40. [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss "Расширенная поддержка автозаполнения и рефакторинга SCSS для VS Code) - Расширенная поддержка автозаполнения и рефакторинга SCSS для VSCode.
 
   
 
