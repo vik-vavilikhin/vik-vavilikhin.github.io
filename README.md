@@ -1,7 +1,7 @@
 | [VS Code](readme/VSCode.md) | [PHP](readme/PHP.md) | [Bootstrap](readme/Bootstrap.md) | [Sass/Scss](readme/Sass.md) | [БЭМ](readme/БЭМ.md) | [JADE/PUG](readme/JADE-PUG.md) | [NPM](readme/NPM.md) | [JavaScript](readme/JavaScript.md) | [markdown](readme/markdown.md) |
 
-
-#### Наработки
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+### Наработки
 Jekyll ([репо][1], [демо][1.1]).  
 Интенсив по JS от Академии верстки ([репо][10], [демо][10.1]).  
 
