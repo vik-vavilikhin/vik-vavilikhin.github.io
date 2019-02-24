@@ -95,9 +95,9 @@
    
    38. [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client "REST Client позволяет отправлять HTTP-запрос и просматривать ответ непосредственно в VS Code") - REST Client позволяет отправлять HTTP-запрос и просматривать ответ непосредственно в VS Code.
    
-   39. [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented "Подсветка синтаксиса Sass, автозаполнение и фрагменты для VS Code) - Подсветка синтаксиса Sass, автозаполнение и фрагменты для VSCode.
+   39. [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented "Подсветка синтаксиса Sass, автозаполнение и фрагменты для VS Code") - Подсветка синтаксиса Sass, автозаполнение и фрагменты для VSCode.
    
-   40. [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss "Расширенная поддержка автозаполнения и рефакторинга SCSS для VS Code) - Расширенная поддержка автозаполнения и рефакторинга SCSS для VSCode.
+   40. [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss "Расширенная поддержка автозаполнения и рефакторинга SCSS для VS Code") - Расширенная поддержка автозаполнения и рефакторинга SCSS для VSCode.
 
   
 
