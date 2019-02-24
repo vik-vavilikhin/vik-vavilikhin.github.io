@@ -6,4 +6,12 @@
   - [uiGradients](https://uigradients.com/#GrapefruitSunset)  
 
 ### Шрифты
-  - [transfonter](https://transfonter.org/) - on-lime конвертор шрифтов
+  - [Transfonter](https://transfonter.org/) - on-line конвертор шрифтов.  
+  - [Online Font Converter](https://onlinefontconverter.com/) - on-line конвертор шрифтов.  
+  - [dafontFREE.net](https://www.dafontfree.net/) - on-line библиотека шрифтов.  
+  - [Google Fonts](https://fonts.google.com/) - on-line библиотека шрифтов.  
+  - [Русские](https://www.ph4.ru/fonts_fonts.php?ja=19b#) TrueType шрифты.  
+  - [ALLFONT.RU](http://allfont.ru/)  - on-line библиотека шрифтов.  
+  - [Font Awesome](https://fontawesome.com/)  - on-line библиотека иконочных шрифтов.  
+  - [Fontello](http://fontello.com/)  - on-line библиотека иконочных шрифтов.  
+    _[Сборка иконок](https://webref.ru/layout/font-awesome/fontello) инструкция по использованию сборок шрифтов._
