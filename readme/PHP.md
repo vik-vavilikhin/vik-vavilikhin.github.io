@@ -1,4 +1,4 @@
-| [Home](../README.md) |
+| [Home](../README.md) | [VS Code](readme/VSCode.md) | [Bootstrap](readme/Bootstrap.md) | [Sass/Scss](readme/Sass.md) | [БЭМ](readme/БЭМ.md) | [JADE/PUG](readme/JADE-PUG.md) | [NPM](readme/NPM.md) | [JavaScript](readme/JavaScript.md) | [markdown](readme/markdown.md) |
 
 ## [PHP][5] (рекурсивный акроним словосочетания PHP: Hypertext Preprocessor)  
 _Распространенный язык программирования общего назначения с открытым исходным кодом. PHP специально сконструирован для веб-разработок и его код может внедряться непосредственно в HTML._  
