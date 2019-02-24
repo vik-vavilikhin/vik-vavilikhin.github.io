@@ -47,20 +47,53 @@
 
    20. [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets "Сниппеты jQuery") - Более 130 сниппетов jQuery. Просто введите буквы «jq», чтобы получить список всех доступных фрагментов кода jQuery.
 
+   21. [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint "Интегрирует JSHint в VS Code") - Интегрирует JSHint в VS Code. JSHint - это линтер для JavaScript.
+
+   22. [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass "Компилирует файлы SASS/SCSS в файлы CSS") - Расширение VS Code, которое компилирует файлы SASS/SCSS в файлы CSS в режиме реального времени без перезагрузки браузера.
    
+   23. [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer "Запуск локального сервера") - Запускает локальный Сервер разработки со встроенным LiveReload.
+   
+   24. [Node.js Modules Intellisense](https://marketplace.visualstudio.com/items?itemName=leizongmin.node-module-intellisense "Автозаполнение модулей JavaScript/TypeScript в операторах импорта") - Плагин VS Code для автозаполнения модулей JavaScript/TypeScript в операторах импорта.
+   
+   25. [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense "Автозаполнение модулей npm в операторах импорта") - Плагин VS Code для автозаполнения модулей npm в операторах импорта.
+   
+   26. [One Dark Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.theme-onedark "Тема оформления One Dark Theme") - Тема оформления One Dark Theme основана на соответствующей теме редактора.
+   
+   27. [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai "Тема оформления One Monokai Theme") - Тема оформления One Monokai Theme.
+   
+   28. [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser "Открыть текущий файл в броузере") - Позволяет открывать текущий файл в браузере.
+   
+   29. [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete "Автозаполнение пути файла") - Обеспечивает завершение пути для VS Code
+    - относительные пути (./)
+    - абсолютный путь к рабочему пространству (/)
+    - абсолютный путь к файловой системе (C:)
+    - пути относительно папки пользователя (~)
+    - исключения элементов через опцию path-autocomplete.excludedItems
+    - пакеты npm
+    - автоматическое предложение после выбора папки
+    - сопоставления через опцию path-autocomplete.pathMappings
+    - трансформации через опцию path-autocomplete.transformations
+    - поддержка пути Windows с path-autocomplete.useBackslash
+   
+   30. [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug "Поддержка отладки PHP") - Поддержка отладки PHP для VS Code.
+   
+   31. [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker "Пакет DocBlocking для PHP") - Простой, зависимый от PHP пакет DocBlocking для PHP.
+   
+   32. [PHP Extension Pack](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-pack "Пакет расширений PHP для VS Code") - Включает в себя наиболее важные расширения, которые помогутначать разработку PHP в VS Code.
+   
+   33. [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client "Сервер языка PHP") - Высокопроизводительный и многофункциональный сервер языка PHP.
+   
+   34. [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense "Поддержка автозаполнения для PHP") - Расширенная поддержка автозаполнения и рефакторинга для PHP.
+   
+   35. [PHP Intellisense - Crane](https://marketplace.visualstudio.com/items?itemName=HvyIndustries.crane "Поддержка автозаполнения для PHP") - Расширение для повышения производительности VS Code, которое обеспечивает завершение кода для PHP. Он не имеет никаких зависимостей и в основном работает с проектами любого размера.
+   
+   36. [Pug/Jade Snippets](https://marketplace.visualstudio.com/items?itemName=amandeepmittal.pug "Pug/Jade сниппеты для VS Code") - Pug/Jade сниппеты для VS Code.
+   
+   37. [Pug (Jade) snippets](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-jade-snippets "Pug/Jade сниппеты для VS Code") - Предоставляет базовый набор фрагментов для Jade/Pug.
+
   
 
-   1. [Path Autocomplete][pl_01] - Автозаполнение пути файла (Относительный путь - `./`, Абсолютный путь - `/`)  
-   4. [Color Highlight][pl_04] - Подсветка цвета  
-
-
-
-  [pl_0]: https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete "Автозаполнение пути файла (Относительный путь - `./`, Абсолютный путь - `/`)"
-  [pl_0]: https://marketplace.visualstudio.com/items?itemName=ajshort.include-autocomplete "Поиск классов в CSS"
-
-  [pl_0]: https://github.com/sergiirocks/vscode-ext-color-highlight "Подсветка цвета"
-
-
+   4. [Color Highlight](https://github.com/sergiirocks/vscode-ext-color-highlight "Подсветка цвета") - Подсветка цвета
 
 
   * #### [Темы оформления для Visual Studio Code](https://marketplace.visualstudio.com/search?term=theme&target=VSCode&category=All%20categories&sortBy=Relevance)  
