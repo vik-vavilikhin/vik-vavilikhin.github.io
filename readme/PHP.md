@@ -1,12 +1,4 @@
-| [Home](../README.md) | 
-[VS Code](VSCode.md) | 
-[Bootstrap](Bootstrap.md) | 
-[Sass/Scss](Sass.md) | 
-[БЭМ](БЭМ.md) | 
-[JADE/PUG](JADE-PUG.md) | 
-[NPM](NPM.md) | 
-[JavaScript](JavaScript.md) | 
-[markdown](markdown.md) |
+| [Home](../README.md) |
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ## [PHP][php] (рекурсивный акроним словосочетания PHP: Hypertext Preprocessor)  

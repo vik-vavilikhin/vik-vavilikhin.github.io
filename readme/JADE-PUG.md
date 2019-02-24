@@ -1,12 +1,4 @@
-| [Home](../README.md) | 
-[VS Code](VSCode.md) | 
-[PHP](PHP.md) | 
-[Bootstrap](Bootstrap.md) | 
-[Sass/Scss](Sass.md) | 
-[БЭМ](БЭМ.md) | 
-[NPM](NPM.md) | 
-[JavaScript](JavaScript.md) | 
-[markdown](markdown.md) |
+| [Home](../README.md) |
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ## [JADE/PUG][jp]  

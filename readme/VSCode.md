@@ -1,12 +1,4 @@
-| [Home](../README.md) | 
-[PHP](PHP.md) | 
-[Bootstrap](Bootstrap.md) | 
-[Sass/Scss](Sass.md) | 
-[БЭМ](БЭМ.md) | 
-[JADE/PUG](JADE-PUG.md) | 
-[NPM](NPM.md) | 
-[JavaScript](JavaScript.md) | 
-[markdown](markdown.md) |
+| [Home](../README.md) |
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ## [Редактор Visual Studio Code](https://code.visualstudio.com/)

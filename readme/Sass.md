@@ -1,12 +1,4 @@
-| [Home](../README.md) | 
-[VS Code](VSCode.md) | 
-[PHP](PHP.md) | 
-[Bootstrap](Bootstrap.md) | 
-[БЭМ](БЭМ.md) | 
-[JADE/PUG](JADE-PUG.md) | 
-[NPM](NPM.md) | 
-[JavaScript](JavaScript.md) | 
-[markdown](markdown.md) |
+| [Home](../README.md) |
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ## [Sass][sass] - документация на русском языке. Что такое sass или scss?  
