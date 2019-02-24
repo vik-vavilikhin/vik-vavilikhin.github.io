@@ -1,8 +1,8 @@
 | [Home](../README.md) |
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-## [Редактор Visual Studio Code](https://code.visualstudio.com/)
-  ### Список плагинов:
+### [Редактор Visual Studio Code](https://code.visualstudio.com/)
+  #### Список плагинов:
    1. [ACF-Snippet](https://marketplace.visualstudio.com/items?itemName=anthonydiametrix.ACF-Snippet "Snippets for Visual Studio Code") - Snippets for Visual Studio Code : Advanced Custom Fields
 
    1. [Align](https://marketplace.visualstudio.com/items?itemName=steve8708.Align "Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a") - Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a
@@ -112,7 +112,7 @@
   1. [WordPress Snippets](https://marketplace.visualstudio.com/items?itemName=wordpresstoolbox.wordpress-toolbox "Коллекция сниппетов WordPress") - Это коллекция сниппетов WordPress для VS Code.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-  ### [Темы оформления для Visual Studio Code](https://marketplace.visualstudio.com/search?term=theme&target=VSCode&category=All%20categories&sortBy=Relevance)  
+  #### [Темы оформления для Visual Studio Code](https://marketplace.visualstudio.com/search?term=theme&target=VSCode&category=All%20categories&sortBy=Relevance)  
    1. [One Dark Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.theme-onedark "Тема оформления One Dark Theme") - Тема оформления One Dark Theme основана на соответствующей теме редактора.
    
    1. [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai "Тема оформления One Monokai Theme") - Тема оформления One Monokai Theme.
