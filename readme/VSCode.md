@@ -1,8 +1,8 @@
 
 ## [Редактор Visual Studio Code](https://code.visualstudio.com/)
   ### Список плагинов:
-   1. [ACF-Snippet](https://marketplace.visualstudio.com/items?itemName=anthonydiametrix.ACF-Snippet "Snippets for Visual Studio Code") - Snippets for Visual Studio Code : Advanced Custom Fields  
-   2. [Align][pl_02] - Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a  
+   1. [ACF-Snippet](https://marketplace.visualstudio.com/items?itemName=anthonydiametrix.ACF-Snippet "Snippets for Visual Studio Code") - Snippets for Visual Studio Code : Advanced Custom Fields
+   2. [Align](https://marketplace.visualstudio.com/items?itemName=steve8708.Align "Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a") - Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a
    3. [All Autocomplete][pl_03] - Обеспечивает автозаполнение элементов кода Visual Studio на основе всех открытых редакторов  
    4. [Apache Conf][pl_04] - Поддержка синтаксиса Apache conf для VS Code. Подсветка синтаксиса для файлов конфигурации Apache в коде Visual Studio.  
    5. [Auto Close Tag][pl_05] - Автоматически добавляет закрывающий тег HTML / XML, так же, как в IDE Visual Studio  или Sublime Text.  
@@ -34,8 +34,7 @@
 
 
 
-  [pl_01]: https://marketplace.visualstudio.com/items?itemName=anthonydiametrix.ACF-Snippet "Snippets for Visual Studio Code"
-  [pl_02]: https://marketplace.visualstudio.com/items?itemName=steve8708.Align "Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a"
+  
   [pl_03]: https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete "Автозаполнение в коде на основе всех открытых редакторов"
   [pl_04]: https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache "Поддержка синтаксиса Apache conf"
   [pl_05]: https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache "Автоматическое закрытие тегов HTML/XML"
