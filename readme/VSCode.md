@@ -8,6 +8,7 @@
 [JavaScript](JavaScript.md) | 
 [markdown](markdown.md) |
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ## [Редактор Visual Studio Code](https://code.visualstudio.com/)
   ### Список плагинов:
    1. [ACF-Snippet](https://marketplace.visualstudio.com/items?itemName=anthonydiametrix.ACF-Snippet "Snippets for Visual Studio Code") - Snippets for Visual Studio Code : Advanced Custom Fields

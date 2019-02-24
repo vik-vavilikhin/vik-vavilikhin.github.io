@@ -8,6 +8,7 @@
 [JavaScript](JavaScript.md) | 
 [markdown](markdown.md) |
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ## [NPM][npm] (Node Package Manager)  
   менеджер пакетов, входящий в состав [Node.js][npm_1]  
 

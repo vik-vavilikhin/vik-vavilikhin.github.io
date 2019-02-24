@@ -8,6 +8,7 @@
 [JavaScript](JavaScript.md) | 
 [markdown](markdown.md) |
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ## [Sass][sass] - документация на русском языке. Что такое sass или scss?  
   - [Медиа запросы][sass_1] в SASS (SASS Media Queries)  
   - [Основы][sass_2] Sass: @-правила и директивы  
