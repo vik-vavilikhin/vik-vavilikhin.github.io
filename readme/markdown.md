@@ -8,6 +8,6 @@
 [NPM](NPM.md) | 
 [JavaScript](JavaScript.md) |
 
-## Шпаргалка по синтаксису [markdown (маркдаун)][2].
+## Шпаргалка по синтаксису [markdown (маркдаун)][md].
 
-[2]: http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/#link12 "markdown"
+[md]: http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/#link12 "markdown"

@@ -8,8 +8,8 @@
 [JavaScript](JavaScript.md) | 
 [markdown](markdown.md) |
 
-## [NPM][8] (Node Package Manager)  
-  менеджер пакетов, входящий в состав [Node.js][8.1]  
+## [NPM][npm] (Node Package Manager)  
+  менеджер пакетов, входящий в состав [Node.js][npm_1]  
 
-[8]: https://www.npmjs.com/ "NPM"
-[8.1]: https://nodejs.org/en/ "Node.js"
+[npm]: https://www.npmjs.com/ "NPM"
+[npm_1]: https://nodejs.org/en/ "Node.js"
