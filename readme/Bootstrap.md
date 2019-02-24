@@ -1,4 +1,12 @@
-| [Home](../README.md) | [VS Code](VSCode.md) | [PHP](PHP.md) | [Sass/Scss](Sass.md) | [БЭМ](БЭМ.md) | [JADE/PUG](JADE-PUG.md) | [NPM](NPM.md) | [JavaScript](JavaScript.md) | [markdown](markdown.md) |
+| [Home](../README.md) | 
+[VS Code](VSCode.md) | 
+[PHP](PHP.md) | 
+[Sass/Scss](Sass.md) | 
+[БЭМ](БЭМ.md) | 
+[JADE/PUG](JADE-PUG.md) | 
+[NPM](NPM.md) | 
+[JavaScript](JavaScript.md) | 
+[markdown](markdown.md) |
 
 ## CSS-Фреймворк [Bootstrap][3].  
   - [Всё для Bootstrap][3.1]. Бесплатные адаптивные шаблоны и темы Bootstrap для сайтов, лучшие функциональные плагины для всех версий Bootstrap и готовые code сниппеты для сайта Bootstrap.  

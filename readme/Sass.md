@@ -1,4 +1,12 @@
-| [Home](../README.md) | [VS Code](VSCode.md) | [PHP](PHP.md) | [Bootstrap](Bootstrap.md) | [БЭМ](БЭМ.md) | [JADE/PUG](JADE-PUG.md) | [NPM](NPM.md) | [JavaScript](JavaScript.md) | [markdown](markdown.md) |
+| [Home](../README.md) | 
+[VS Code](VSCode.md) | 
+[PHP](PHP.md) | 
+[Bootstrap](Bootstrap.md) | 
+[БЭМ](БЭМ.md) | 
+[JADE/PUG](JADE-PUG.md) | 
+[NPM](NPM.md) | 
+[JavaScript](JavaScript.md) | 
+[markdown](markdown.md) |
 
 ## [Sass][4] - документация на русском языке. Что такое sass или scss?  
   - [Медиа запросы][4.1] в SASS (SASS Media Queries)  

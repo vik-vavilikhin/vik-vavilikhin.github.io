@@ -1,4 +1,12 @@
-| [Home](../README.md) | [VS Code](VSCode.md) | [PHP](PHP.md) | [Bootstrap](Bootstrap.md) | [Sass/Scss](Sass.md) | [БЭМ](БЭМ.md) | [JADE/PUG](JADE-PUG.md) | [NPM](NPM.md) | [JavaScript](JavaScript.md) |
+| [Home](../README.md) | 
+[VS Code](VSCode.md) | 
+[PHP](PHP.md) | 
+[Bootstrap](Bootstrap.md) | 
+[Sass/Scss](Sass.md) | 
+[БЭМ](БЭМ.md) | 
+[JADE/PUG](JADE-PUG.md) | 
+[NPM](NPM.md) | 
+[JavaScript](JavaScript.md) |
 
 ## Шпаргалка по синтаксису [markdown (маркдаун)][2].
 
