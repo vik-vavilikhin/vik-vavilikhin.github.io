@@ -1,7 +1,7 @@
 
 ## [Редактор Visual Studio Code](https://code.visualstudio.com/)
   ### Список плагинов:
-   1. [ACF-Snippet][pl_01] - Snippets for Visual Studio Code : Advanced Custom Fields  
+   1. [ACF-Snippet](https://marketplace.visualstudio.com/items?itemName=anthonydiametrix.ACF-Snippet "Snippets for Visual Studio Code") - Snippets for Visual Studio Code : Advanced Custom Fields  
    2. [Align][pl_02] - Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a  
    3. [All Autocomplete][pl_03] - Обеспечивает автозаполнение элементов кода Visual Studio на основе всех открытых редакторов  
    4. [Apache Conf][pl_04] - Поддержка синтаксиса Apache conf для VS Code. Подсветка синтаксиса для файлов конфигурации Apache в коде Visual Studio.  
