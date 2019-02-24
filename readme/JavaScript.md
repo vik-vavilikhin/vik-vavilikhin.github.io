@@ -8,13 +8,13 @@
   - [Справочник Javascript][js_3].  
   - Библиотека [jQuery][js_4] ([jQuery CDN][js_5] - последние стабильные версии).  
 
-    ***Плагины не требующие jQuery:***  
+    ***Плагины без jQuery:***  
     [Instafeed.js][js_3.1] -, это очень простой способ добавить фотографии из Instagram на свой сайт. Не требуется jQuery, просто обычный javascript.  
 
-    ***Плагины без jQuery:***  
-   [Слайдер для фотографий fotorama][js_4.1]  
-   [Слайдер для любого контента slick][js_4.2]  
-   [Слайдер с фотографиями и всплывающими окнами magnific-popup][js_4.3]  
+    ***Плагины под jQuery:***  
+   [Fotorama][js_4.1] слайдер для фотографий   
+   [Slick][js_4.2] слайдер для любого контента   
+   [Magnific-popup][js_4.3] слайдер с фотографиями и всплывающими окнами   
 
 [js]: https://ru.wikipedia.org/wiki/JavaScript "JavaScript"
 [js_1]: https://developer.mozilla.org/ru/ "MDN web docs"
