@@ -12,15 +12,22 @@
 [Полезняшки](readme/Useful.md) | 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Jekyll (
-[репо](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/Jekyll), 
-[демо](https://vik-vavilikhin.github.io/Jekyll/dist)
-).  
-Интенсив по JS от Академии верстки (
-[репо](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/JS/GloAcademy), 
-[демо](https://vik-vavilikhin.github.io/JS/GloAcademy)
-).  
-Джедай вёрстки #7. Проект S&Mitler. (
-[репо](https://github.com/vik-vavilikhin/S-Mitler), 
-[демо](https://vik-vavilikhin.github.io/S-Mitler/dist)
-).  
+### АКАДЕМИЯ ВЕРСТКИ
+ - Интенсив по JS (
+  [репо](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/JS/GloAcademy), 
+  [демо](https://vik-vavilikhin.github.io/JS/GloAcademy)
+  ).  
+- Веб-разработчик 10.0 (
+  [репо](https://github.com/vik-vavilikhin/GloAcademy), 
+  [демо](https://vik-vavilikhin.github.io/JS/GloAcademy)
+  ).  
+  
+### WebDesign Master.Уроки создания сайтов
+ - Jekyll (
+  [репо](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/Jekyll), 
+  [демо](https://vik-vavilikhin.github.io/Jekyll/dist)
+  ).  
+ - Джедай вёрстки #7. Проект S&Mitler. (
+  [репо](https://github.com/vik-vavilikhin/S-Mitler), 
+  [демо](https://vik-vavilikhin.github.io/S-Mitler/dist)
+  ).  
