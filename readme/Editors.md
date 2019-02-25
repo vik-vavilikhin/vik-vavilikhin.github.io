@@ -276,7 +276,7 @@
 }
  ```  
 
- ### <a name="Atom"></a> [Редактор Atom](https://atom.io/) ([GitHub](https://github.com/atom/atom/releases))
+ ### <a name="Atom"></a> [Редактор Atom](https://atom.io/), ([GitHub](https://github.com/atom/atom/releases))
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 1. [Плагины](#PluginsAtom).
 2. [Темы оформления редактора](#ThemesAtom).
