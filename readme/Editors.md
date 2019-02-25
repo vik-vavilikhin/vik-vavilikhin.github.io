@@ -1,12 +1,13 @@
-| [Home](../README.md) |
-[](#UpPage)
+| [Home](../README.md) |  
+  
+|[VS Code](#VSCode) | [Atom](#Atom) |
 
+### <a name="VSCode"></a> [Редактор Visual Studio Code](https://code.visualstudio.com/)
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 1. [Плагины](#Plugins).
 2. [Темы оформления редактора](#Themes).
 2. [Настройка VS Code](#Settings) (файл `settings.json`).
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-### [Редактор Visual Studio Code](https://code.visualstudio.com/)
   #### <a name="Plugins"></a> Список плагинов:
    1. [ACF-Snippet](https://marketplace.visualstudio.com/items?itemName=anthonydiametrix.ACF-Snippet "Snippets for Visual Studio Code") - Snippets for Visual Studio Code : Advanced Custom Fields
 
@@ -274,3 +275,5 @@
   "git.confirmSync": false,
 }
  ```  
+
+ ### <a name="Atom"></a> [Редактор Atom](https://atom.io/) ([GitHub](https://github.com/atom/atom/releases))

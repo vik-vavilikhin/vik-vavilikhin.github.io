@@ -1,5 +1,5 @@
 | 
-[VS Code](readme/VSCode.md) | 
+[Редакторы](readme/Editors.md) | 
 [PHP](readme/PHP.md) | 
 [Bootstrap](readme/Bootstrap.md) | 
 [Sass/Scss](readme/Sass.md) | 
