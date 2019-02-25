@@ -1,9 +1,14 @@
-| [Home](../README.md) |  
-  
-| [VS Code](#VSCode) | [Atom](#Atom) | [Sublime Text](#ST3) |
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-### <a name="VSCode"></a> [Редактор Visual Studio Code](https://code.visualstudio.com/)
+<p>
+  <span>| <a href="https://github.com/vik-vavilikhin/vik-vavilikhin.github.io">HOME</a> |</span>
+</p>
+<p>
+  <span>| <a href="#VSCode">VS Code</a> </span>
+  <span>| <a href="#Atom">Atom</a> </span>
+  <span>| <a href="#ST3">Sublime Text</a> </span>
+  |
+</p>
+<hr>
+<h3 id="VSCode"><a href="https://code.visualstudio.com/">Редактор Visual Studio Code</a></h3>
 1. [Плагины](#PluginsVSCode).
 2. [Темы оформления редактора](#ThemesVSCode).
 3. [Настройка VS Code](#SettingsVSCode) (файл `settings.json`).
