@@ -19,7 +19,7 @@
   ).  
 - [Веб-разработчик 10.0](https://study.up-skills.ru/teach/control/stream/view/id/6290544) (
   [репо](https://github.com/vik-vavilikhin/GloAcademy), 
-  [демо](https://vik-vavilikhin.github.io/JS/GloAcademy)
+  [демо](https://vik-vavilikhin.github.io/GloAcademy/in-work/)
   ).  
   
 ### [WebDesign Master. Уроки создания сайтов](https://webdesign-master.ru/)
