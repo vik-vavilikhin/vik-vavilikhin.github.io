@@ -312,7 +312,8 @@
 - Gist -	Установка GitHub Gist в sublime text 3  
   ___1. Устанавливаем___  
     preferences => Package Settings => Gits => Settings-Default  
-    `"token": "48286d9bd8e3840223ada7327072d40314b21194",`  
+    `"token": "<здесь внести номер токена от GitHub>",`  
+    [инструкция для создания токена](https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line)
   ___2. Настраиваем комбинацию клавиш___  
     preferences => Package Settings => Gits => Key Bindings-user  
     ```
