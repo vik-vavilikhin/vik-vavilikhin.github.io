@@ -1,14 +1,14 @@
 | [Home](../README.md) |  
   
-|[VS Code](#VSCode) | [Atom](#Atom) |
+| [VS Code](#VSCode) | [Atom](#Atom) |
 
 ### <a name="VSCode"></a> [Редактор Visual Studio Code](https://code.visualstudio.com/)
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-1. [Плагины](#Plugins).
-2. [Темы оформления редактора](#Themes).
-2. [Настройка VS Code](#Settings) (файл `settings.json`).
+1. [Плагины](#PluginsVSCode).
+2. [Темы оформления редактора](#ThemesVSCode).
+2. [Настройка VS Code](#SettingsVSCode) (файл `settings.json`).
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-  #### <a name="Plugins"></a> Список плагинов:
+  #### <a name="PluginsVSCode"></a> Список плагинов:
    1. [ACF-Snippet](https://marketplace.visualstudio.com/items?itemName=anthonydiametrix.ACF-Snippet "Snippets for Visual Studio Code") - Snippets for Visual Studio Code : Advanced Custom Fields
 
    1. [Align](https://marketplace.visualstudio.com/items?itemName=steve8708.Align "Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a") - Выравние кода. Mac: ctrl+cmd+a Linux/Windows: ctrl+alt+a
@@ -118,7 +118,7 @@
   1. [WordPress Snippets](https://marketplace.visualstudio.com/items?itemName=wordpresstoolbox.wordpress-toolbox "Коллекция сниппетов WordPress") - Это коллекция сниппетов WordPress для VS Code.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-  #### <a name="Themes"></a> [Темы оформления для Visual Studio Code](https://marketplace.visualstudio.com/search?term=theme&target=VSCode&category=All%20categories&sortBy=Relevance)  
+  #### <a name="ThemesVSCode"></a> [Темы оформления для Visual Studio Code](https://marketplace.visualstudio.com/search?term=theme&target=VSCode&category=All%20categories&sortBy=Relevance)  
    1. [One Dark Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.theme-onedark "Тема оформления One Dark Theme") - Тема оформления One Dark Theme основана на соответствующей теме редактора.
    
    1. [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai "Тема оформления One Monokai Theme") - Тема оформления One Monokai Theme.
@@ -127,7 +127,7 @@
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-### <a name="Settings"></a> Настройки редактора Visual Studio Code
+### <a name="SettingsVSCode"></a> Настройки редактора Visual Studio Code
  ```
  {
   "files.defaultLanguage": "html",
@@ -277,3 +277,8 @@
  ```  
 
  ### <a name="Atom"></a> [Редактор Atom](https://atom.io/) ([GitHub](https://github.com/atom/atom/releases))
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+1. [Плагины](#PluginsAtom).
+2. [Темы оформления редактора](#ThemesAtom).
+2. [Настройка VS Code](#SettingsAtom) (файл `settings.json`).
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
