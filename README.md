@@ -24,4 +24,4 @@ Jekyll ([репо][1], [демо][1.1]).
 [2.1]: https://vik-vavilikhin.github.io/JS/GloAcademy "Интенсив по JS"  
 
 [3]: https://github.com/vik-vavilikhin/S-Mitler "Джедай вёрстки #7. Проект S&Mitler."  
-[3.1]: https://vik-vavilikhin.github.io/S-Mitler/app/assets "Джедай вёрстки #7. Проект S&Mitler."  
+[3.1]: https://vik-vavilikhin.github.io/S-Mitler/dist "Джедай вёрстки #7. Проект S&Mitler."  
