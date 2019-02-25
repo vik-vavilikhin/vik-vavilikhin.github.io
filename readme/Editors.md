@@ -6,7 +6,7 @@
 ### <a name="VSCode"></a> [Редактор Visual Studio Code](https://code.visualstudio.com/)
 1. [Плагины](#PluginsVSCode).
 2. [Темы оформления редактора](#ThemesVSCode).
-2. [Настройка VS Code](#SettingsVSCode) (файл `settings.json`).
+3. [Настройка VS Code](#SettingsVSCode) (файл `settings.json`).
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
   #### <a name="PluginsVSCode"></a> Список плагинов:
    1. [ACF-Snippet](https://marketplace.visualstudio.com/items?itemName=anthonydiametrix.ACF-Snippet "Snippets for Visual Studio Code") - Snippets for Visual Studio Code : Advanced Custom Fields
@@ -283,7 +283,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
 1. [Плагины](#PluginsAtom).
 2. [Темы оформления редактора](#ThemesAtom).
-2. [Настройка Atom](#SettingsAtom) (файл `settings.json`).
+3. [Настройка Atom](#SettingsAtom) (файл `settings.json`).
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 1. [Harrix Блог](http://blog.harrix.org/article/6076) - Настройка Atom (full version). Полная инструкция по установке, настройке, работе с FAQ.  
@@ -298,7 +298,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 1. [Плагины](#PluginsST3).
 2. [Темы оформления редактора](#ThemesST3).
-2. [Настройка ST3](#SettingsST3).
+3. [Настройка ST3](#SettingsST3).
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 #### [LICENSE](http://appnee.com/sublime-text-3-universal-license-keys-collection-for-win-mac-linux/) - список лицензий.  
@@ -425,7 +425,7 @@
     "theme": "Soda Dark 3.sublime-theme"
   }
    ```
-#### <a name="SettingsST3"></a> Настройки и горячие клавиши  
+#### <a name="SettingsST3"></a> Настройки() и горячие клавиши  
 - [Синхронизация настроек](https://packagecontrol.io/docs/syncing) Sublime Text на нескольких ПК  
 1. Переместить папки Data в "облако"  
 2. На ПК, с которого копируются настройки, запустить CMD от имени администратора  
@@ -441,3 +441,4 @@ mklink /D "Data" "D:\Dropbox\Sublime Text 3\Data"`
     { "keys": ["ctrl+shift+t"], "command": "reindent" }
   ]
   ```
+4. [Видеокурс по редактору](https://www.youtube.com/playlist?list=PLPpaecEYRC8ZjBQ1OsGOKmxBF8lTTO4BZ)
