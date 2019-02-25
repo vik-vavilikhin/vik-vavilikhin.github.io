@@ -14,20 +14,20 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ### [АКАДЕМИЯ ВЕРСТКИ](https://glo-academy.ru/frontenddeveloper/)
  - [Интенсив по JS](https://www.youtube.com/watch?v=NHB0OJg9CMU) (
-  [репо](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/JS/GloAcademy), 
-  [демо](https://vik-vavilikhin.github.io/JS/GloAcademy)
+  [репо](https://github.com/vik-vavilikhin/IntensiveJS), 
+  [демо]()???
   ).  
 - [Веб-разработчик 10.0](https://study.up-skills.ru/teach/control/stream/view/id/6290544) (
-  [репо](https://github.com/vik-vavilikhin/GloAcademy), 
-  [демо](https://vik-vavilikhin.github.io/GloAcademy/in-work/)
+  [репо](https://github.com/vik-vavilikhin/WebMaster10), 
+  [демо]()???
   ).  
   
 ### [WebDesign Master. Уроки создания сайтов](https://webdesign-master.ru/)
  - Jekyll (
   [репо](https://github.com/vik-vavilikhin/Jekyll), 
-  [демо](https://vik-vavilikhin.github.io/WebDesignMaster/Jekyll/dist)
+  [демо]()???
   ).  
  - [Джедай вёрстки #7. Проект S&Mitler](https://www.youtube.com/watch?v=vWfRHtxy81Q&index=17&list=PLyf8LgkO_8q_-ELwz9tlMX8R5gMSRWNto). (
   [репо](https://github.com/vik-vavilikhin/S-Mitler), 
-  [демо](https://vik-vavilikhin.github.io/WebDesignMaster/S-Mitler/dist)
+  [демо]()???
   ).  
