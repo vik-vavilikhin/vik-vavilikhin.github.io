@@ -17,7 +17,7 @@ Jekyll ([репо][1], [демо][1.1]).
 Интенсив по JS от Академии верстки ([репо][2], [демо][2.1]).  
 Джедай вёрстки #7. Проект S&Mitler. ([репо][3], [демо][3.1]).  
 
-[1]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/Jekyll/dist "Jekyll"  
+[1]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/Jekyll "Jekyll"  
 [1.1]: https://vik-vavilikhin.github.io/Jekyll/dist "Jekyll"  
 
 [2]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/JS/GloAcademy "Интенсив по JS"  
