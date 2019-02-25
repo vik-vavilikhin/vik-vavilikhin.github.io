@@ -313,7 +313,7 @@
   ___1. Устанавливаем___  
     preferences => Package Settings => Gits => Settings-Default  
     `"token": "<здесь внести номер токена от GitHub>",`  
-    [инструкция для создания токена](https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line)
+    [инструкция для создания токена](https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line)  
   ___2. Настраиваем комбинацию клавиш___  
     preferences => Package Settings => Gits => Key Bindings-user  
     ```
@@ -427,15 +427,13 @@
    ```
 #### <a name="SettingsST3"></a> Настройки и горячие клавиши  
 - [Синхронизация настроек](https://packagecontrol.io/docs/syncing) Sublime Text на нескольких ПК  
-  1. Переместить папки Data в "облако"  
-  ___На машине используйте следующие инструкции:___  
-  2. Запустить CMD(командную строку) от имени администратора  
-	`cd c:\sublime text 3\Data  
-	mklink /D "Data" "D:\Dropbox\Sublime Text 3\Data"`  
-  ___На другой машине (ах) используйте следующие инструкции___  
-  3. Запустить CMD(командную строку) от имени администратора удалить католог Data в папке Sublime Text 3  
-	`cd c:\Sublime Text 3`  
-	`cmd /c mklink /D "Data" "C:\Users\<UserName>\Dropbox\Sublime Text 3\Data"`  
+1. Переместить папки Data в "облако"  
+2. На ПК, с которого копируются настройки, запустить CMD от имени администратора  
+`cd c:\sublime text 3\Data  
+mklink /D "Data" "D:\Dropbox\Sublime Text 3\Data"`  
+3. На ПК, куда синхронизируются настройки, запустить CMD от имени администратора удалить католог Data в папке Sublime Text 3  
+`cd c:\Sublime Text 3`  
+`cmd /c mklink /D "Data" "C:\Users\<UserName>\Dropbox\Sublime Text 3\Data"`  
   
 - Горячие клавиши - Настройка клавиш для выравнивания верстки  
   ```
