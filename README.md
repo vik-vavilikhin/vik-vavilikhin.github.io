@@ -15,19 +15,20 @@
 ### [АКАДЕМИЯ ВЕРСТКИ](https://glo-academy.ru/frontenddeveloper/)
  - [Интенсив по JS](https://www.youtube.com/watch?v=NHB0OJg9CMU) (
   [репо](https://github.com/vik-vavilikhin/IntensiveJS), 
-  [демо]()???
+  [демо](https://vik-vavilikhin.github.io/IntensiveJS/)
   ).  
 - [Веб-разработчик 10.0](https://study.up-skills.ru/teach/control/stream/view/id/6290544) (
   [репо](https://github.com/vik-vavilikhin/WebMaster10), 
-  [демо]()???
+  [демо-1](https://vik-vavilikhin.github.io/WebMaster10/in-work/dist/),
+  [демо-2](https://vik-vavilikhin.github.io/WebMaster10/video_50/dist/)
   ).  
   
 ### [WebDesign Master. Уроки создания сайтов](https://webdesign-master.ru/)
  - Jekyll (
   [репо](https://github.com/vik-vavilikhin/Jekyll), 
-  [демо]()???
+  [демо](https://vik-vavilikhin.github.io/Jekyll/dist/)???
   ).  
  - [Джедай вёрстки #7. Проект S&Mitler](https://www.youtube.com/watch?v=vWfRHtxy81Q&index=17&list=PLyf8LgkO_8q_-ELwz9tlMX8R5gMSRWNto). (
   [репо](https://github.com/vik-vavilikhin/S-Mitler), 
-  [демо]()???
+  [демо](https://vik-vavilikhin.github.io/S-Mitler/dist)
   ).  
