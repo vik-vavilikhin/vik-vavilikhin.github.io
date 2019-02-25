@@ -283,7 +283,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
 1. [Плагины](#PluginsAtom).
 2. [Темы оформления редактора](#ThemesAtom).
-2. [Настройка VS Code](#SettingsAtom) (файл `settings.json`).
+2. [Настройка Atom](#SettingsAtom) (файл `settings.json`).
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 1. [Harrix Блог](http://blog.harrix.org/article/6076) - Настройка Atom (full version). Полная инструкция по установке, настройке, работе с FAQ.  
