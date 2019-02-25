@@ -4,7 +4,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 1. [Плагины](#Plugins).
 2. [Темы оформления редактора](#Themes).
-2. [Настройка VS Code](#Settings) (файл settings.json).
+2. [Настройка VS Code](#Settings) (файл `settings.json`).
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ### [Редактор Visual Studio Code](https://code.visualstudio.com/)
   #### <a name="Plugins"></a> Список плагинов:
