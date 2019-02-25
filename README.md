@@ -12,9 +12,9 @@
 [Полезняшки](readme/Useful.md) | 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Jekyll ([репо][WDM_Jekyll], [демо][WDM_Jekyll.1]).  
-[WDM_Jekyll]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/Jekyll "Jekyll"  
-[WDM_Jekyll.1]: https://vik-vavilikhin.github.io/Jekyll/dist "Jekyll"  
+Jekyll ([репо][WDMJekyll], [демо][WDMJekyll.1]).  
+[WDMJekyll]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/Jekyll "Jekyll"  
+[WDMJekyll.1]: https://vik-vavilikhin.github.io/Jekyll/dist "Jekyll"  
 
 Интенсив по JS от Академии верстки ([репо][GLO_intensiveJS], [демо][GLO_intensiveJS.1]).  
 [GLO_intensiveJS]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/JS/GloAcademy "Интенсив по JS"  
