@@ -12,16 +12,14 @@
 [Полезняшки](readme/Useful.md) | 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-### Наработки
-Jekyll ([репо][1], [демо][1.1]).  
-Интенсив по JS от Академии верстки ([репо][2], [демо][2.1]).  
-Джедай вёрстки #7. Проект S&Mitler. ([репо][3], [демо][3.1]).  
+Jekyll ([репо][WDM_Jekyll], [демо][WDM_Jekyll.1]).  
+[WDM_Jekyll]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/Jekyll "Jekyll"  
+[WDM_Jekyll.1]: https://vik-vavilikhin.github.io/Jekyll/dist "Jekyll"  
 
-[1]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/Jekyll "Jekyll"  
-[1.1]: https://vik-vavilikhin.github.io/Jekyll/dist "Jekyll"  
+Интенсив по JS от Академии верстки ([репо][GLO_intensiveJS], [демо][GLO_intensiveJS.1]).  
+[GLO_intensiveJS]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/JS/GloAcademy "Интенсив по JS"  
+[GLO_intensiveJS_1]: https://vik-vavilikhin.github.io/JS/GloAcademy "Интенсив по JS"  
 
-[2]: https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/JS/GloAcademy "Интенсив по JS"  
-[2.1]: https://vik-vavilikhin.github.io/JS/GloAcademy "Интенсив по JS"  
-
-[3]: https://github.com/vik-vavilikhin/S-Mitler "Джедай вёрстки #7. Проект S&Mitler."  
-[3.1]: https://vik-vavilikhin.github.io/S-Mitler/dist "Джедай вёрстки #7. Проект S&Mitler."  
+Джедай вёрстки #7. Проект S&Mitler. ([репо][WDM_Jeday#7], [демо][WDM_Jeday#7.1]).  
+[WDM_Jeday#7]: https://github.com/vik-vavilikhin/S-Mitler "Джедай вёрстки #7. Проект S&Mitler."  
+[WDM_Jeday#7.1]: https://vik-vavilikhin.github.io/S-Mitler/dist "Джедай вёрстки #7. Проект S&Mitler."  
