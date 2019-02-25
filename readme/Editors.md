@@ -2,8 +2,8 @@
   
 | [VS Code](#VSCode) | [Atom](#Atom) |
 
-### <a name="VSCode"></a> [Редактор Visual Studio Code](https://code.visualstudio.com/)
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+### <a name="VSCode"></a> [Редактор Visual Studio Code](https://code.visualstudio.com/)
 1. [Плагины](#PluginsVSCode).
 2. [Темы оформления редактора](#ThemesVSCode).
 2. [Настройка VS Code](#SettingsVSCode) (файл `settings.json`).
@@ -276,8 +276,8 @@
 }
  ```  
 
- ### <a name="Atom"></a> [Редактор Atom](https://atom.io/), ([GitHub](https://github.com/atom/atom/releases))
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+### <a name="Atom"></a> [Редактор Atom](https://atom.io/), ([GitHub](https://github.com/atom/atom/releases))
 1. [Плагины](#PluginsAtom).
 2. [Темы оформления редактора](#ThemesAtom).
 2. [Настройка VS Code](#SettingsAtom) (файл `settings.json`).
