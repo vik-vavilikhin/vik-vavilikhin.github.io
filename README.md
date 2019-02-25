@@ -1,34 +1,43 @@
-| 
-[Редакторы](readme/Editors.md) | 
-[PHP](readme/PHP.md) | 
-[Bootstrap](readme/Bootstrap.md) | 
-[Sass/Scss](readme/Sass.md) | 
-[БЭМ](readme/БЭМ.md) | 
-[JADE/PUG](readme/JADE-PUG.md) | 
-[NPM](readme/NPM.md) | 
-[JavaScript](readme/JavaScript.md) | 
-[markdown](readme/markdown.md) | 
-[Git](readme/Git.md) | 
-[Полезняшки](readme/Useful.md) | 
+<p>
+  <span>| <a href="readme/Editors.md">Редакторы</a> </span>
+  <span>| <a href="readme/Bootstrap.md">Bootstrap</a> </span>
+  <span>| <a href="readme/Sass.md">Sass/Scss</a> </span>
+  <span>| <a href="readme/БЭМ.md">БЭМ</a> </span>
+  <span>| <a href="readme/JADE-PUG.md">JADE/PUG</a> </span>
+  <span>| <a href="readme/NPM.md">NPM</a> </span>
+  <span>| <a href="readme/JavaScript.md">JavaScript</a> </span>
+  <span>| <a href="readme/markdown.md">markdown</a> </span>
+  <span>| <a href="readme/Git.md">Git</a> </span>
+  <span>| <a href="readme/Useful.md">Полезняшки</a> </span>
+  |
+</p> 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-### [АКАДЕМИЯ ВЕРСТКИ](https://glo-academy.ru/frontenddeveloper/)
- - [Интенсив по JS](https://www.youtube.com/watch?v=NHB0OJg9CMU) (
-  [репо](https://github.com/vik-vavilikhin/IntensiveJS), 
-  [демо](https://vik-vavilikhin.github.io/IntensiveJS/)
-  ).  
-- [Веб-разработчик 10.0](https://study.up-skills.ru/teach/control/stream/view/id/6290544) (
-  [репо](https://github.com/vik-vavilikhin/WebMaster10), 
-  [демо-1](https://vik-vavilikhin.github.io/WebMaster10/in-work/dist/),
-  [демо-2](https://vik-vavilikhin.github.io/WebMaster10/video_50/dist/)
-  ).  
+<hr>
+<h3><a href="https://glo-academy.ru/frontenddeveloper/">АКАДЕМИЯ ВЕРСТКИ</a></h3>
+<ul>
+  <li>
+    <a href="https://www.youtube.com/watch?v=NHB0OJg9CMU">Интенсив по JS</a> 
+    (<a href="https://github.com/vik-vavilikhin/IntensiveJS">репо</a>, 
+    <a href="https://vik-vavilikhin.github.io/IntensiveJS/">демо</a>). 
+  </li>
+  <li>
+    <a href="https://study.up-skills.ru/teach/control/stream/view/id/6290544">Веб-разработчик 10.0</a> 
+    (<a href="https://github.com/vik-vavilikhin/WebMaster10">репо</a>, 
+    <a href="https://vik-vavilikhin.github.io/WebMaster10/in-work/dist/">демо-1</a>,
+    <a href="https://vik-vavilikhin.github.io/WebMaster10/video_50/dist/">демо-2</a>).  
+  </li>
+</ul>
   
-### [WebDesign Master. Уроки создания сайтов](https://webdesign-master.ru/)
- - Jekyll (
-  [репо](https://github.com/vik-vavilikhin/Jekyll), 
-  [демо](https://vik-vavilikhin.github.io/Jekyll/dist/)???
-  ).  
- - [Джедай вёрстки #7. Проект S&Mitler](https://www.youtube.com/watch?v=vWfRHtxy81Q&index=17&list=PLyf8LgkO_8q_-ELwz9tlMX8R5gMSRWNto). (
-  [репо](https://github.com/vik-vavilikhin/S-Mitler), 
-  [демо](https://vik-vavilikhin.github.io/S-Mitler/dist)
-  ).  
+<h3><a href="https://webdesign-master.ru/">WebDesign Master. Уроки создания сайтов</a></h3>
+<ul>
+  <li>
+    Jekyll 
+    (<a href="https://github.com/vik-vavilikhin/Jekyll">репо</a>, 
+    <a href="https://vik-vavilikhin.github.io/Jekyll/dist/">демо</a>???).
+  </li>
+  <li>
+    <a href="https://www.youtube.com/watch?v=vWfRHtxy81Q&index=17&list=PLyf8LgkO_8q_-ELwz9tlMX8R5gMSRWNto">Джедай вёрстки #7. Проект S&Mitler</a>. 
+    (<a href="https://github.com/vik-vavilikhin/S-Mitler">репо</a>, 
+    <a href="https://vik-vavilikhin.github.io/S-Mitler/dist">демо</a>).
+  </li>
+</ul>
