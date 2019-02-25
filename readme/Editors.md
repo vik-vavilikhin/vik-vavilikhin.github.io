@@ -1,6 +1,6 @@
 | [Home](../README.md) |  
   
-| [VS Code](#VSCode) | [Atom](#Atom) |
+| [VS Code](#VSCode) | [Atom](#Atom) | [Sublime Text](#ST3) |
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ### <a name="VSCode"></a> [Редактор Visual Studio Code](https://code.visualstudio.com/)
@@ -277,8 +277,168 @@
  ```  
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-### <a name="Atom"></a> [Редактор Atom](https://atom.io/), ([GitHub](https://github.com/atom/atom/releases))
+### <a name="Atom"></a> [Редактор Atom](https://atom.io/) - бесплатный, кросплатформенный текстовый редактор от [GitHub](https://github.com/atom/atom/releases).  
+Для того, чтобы ощутить его мощь, рекомендуем воспользоваться установкой дополнительных плагинов, таких как Emmet, позволяющий печатать меньше, делать больше,HTML Preview, позволяющий видеть все вносимые изменения в соседней вкладке, Live Server, позволяющий просматривать внесённые изменения в баузере.  
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
 1. [Плагины](#PluginsAtom).
 2. [Темы оформления редактора](#ThemesAtom).
 2. [Настройка VS Code](#SettingsAtom) (файл `settings.json`).
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+1. [Harrix Блог](http://blog.harrix.org/article/6076) - Настройка Atom (full version). Полная инструкция по установке, настройке, работе с FAQ.  
+2. [Настройки Atom для Front-end разработки](https://web.informatics.ru/edtr/atom/)  
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+### <a name="ST3"></a> [Редактор Sublime Text 3](https://www.sublimetext.com//)
+  Легенда. Единственный минус - он условно платный. Легко улучшается до полноценной IDE путём установки дополнений. Чтобы быстро и просто устанавливать дополнения, скачайте [Package control](https://packagecontrol.io/installation).  
+  
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+1. [Плагины](#PluginsST3).
+2. [Темы оформления редактора](#ThemesST3).
+2. [Настройка ST3](#SettingsST3).
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#### [LICENSE](http://appnee.com/sublime-text-3-universal-license-keys-collection-for-win-mac-linux/) - список лицензий.  
+#### <a name="PluginsST3"></a> Плагины и дополнения  
+- [Package control](https://packagecontrol.io/installation) - Tools => Instal Package Control  
+- Emmet - Плагин для скоростной верстки  
+- [Hayaku](https://habrahabr.ru/post/160057/) - Это сборник полезных скриптов, помогающих при быстрой веб-разработке  
+- Goto-CSS-Declaration - Плагин для быстрого поиска соответствующего класса в CSS, SASS, LESS  
+- [BufferScroll](https://github.com/titoBouzout/BufferScroll) - Сохранение позиции курсора в документе  
+- [CSScomb](http://websketches.ru/plugins/csscomb) - Утилита для сортировки CSS-свойств  				
+- Gist -	Установка GitHub Gist в sublime text 3  
+  ___1. Устанавливаем___  
+    preferences => Package Settings => Gits => Settings-Default  
+    `"token": "48286d9bd8e3840223ada7327072d40314b21194",`  
+  ___2. Настраиваем комбинацию клавиш___  
+    preferences => Package Settings => Gits => Key Bindings-user  
+    ```
+    [
+      { "keys": ["ctrl+k+i"], "command": "gist" },
+      { "keys": ["ctrl+k", "ctrl+p"], "command": "gist_private" },
+      { "keys": ["ctrl+k", "ctrl+s"], "command": "gist_update_file" },
+      { "keys": ["ctrl+k+o"], "command": "gist_list" },
+      { "keys": ["ctrl+k", "ctrl+["], "command": "insert_gist_list" },
+      { "keys": ["ctrl+k", "ctrl+]"], "command": "gist_add_file" }
+    ]
+    ```  
+  ___3. Об использовании___  
+    - Если комбинации клавиш настроенна, то для создания gist'а нужно 
+    просто выделить подходящий код и нажать ctrl+k+i, затем указать 
+    подходящее название, что выполняет код и выбрать название файла.  
+    - Чтобы использовать сохраненный ранее gist нужно нажать ctrl+k+o 
+    и выбрать код
+    
+  ___4. [Ресурс](http://rubycode.ru/sublime-text/70-nastroyka-github-gist-hranenie-i-ispolzovanie-koda.html)___  
+  
+- LiveReload -	Автообновление страницы  
+  Для корректной работы плагина LiveReload в Sublime Text 3 необходимо дописать  
+  preferences => Package Settings => LiveReload => Settings-user  
+  следующую конструкцию:  
+  ```
+  {
+    "enabled_plugins": [
+    "SimpleReloadPlugin",
+    "SimpleRefresh"
+    ]
+  }
+  ```  
+- AdvancedNewFile - Плагин позволяет быстро создавать файлы и папки в проекте вашего сайта  
+- [Tag](github.com/sublimetext/tag)	-	Плагин позволяет:  
+  * Get CSS Classes (Копирует все классы из файла HTML в буфер обмена)  
+  * Rename (Переназывает выделеный тег)  
+  * Close Tags (Закрывает незакрытые теги)  
+  * Fold Attributes  
+  * Insert as Tag  
+  * Lint Selection or Document  
+  * Auto-Format Tags on Document (Форматирует выделенный код)  
+  * Remove All Tags in Document (Удаляет все теги из файла оставляя только текст)  
+  * Remove All Tags in Selection (Удаляет все теги из выделеного фрагмента)  
+  * Remove Picked Tags in Document (Удаляет выбранные теги из файла)  
+  * Remove Picked Tags in Selection (Удаляет выбранные теги из выделеного фрагмента)  
+  * и другие...  
+- ColorPicker -	плагин для выбора цвета  
+  Настроить ColorPicker.sublime-settings  
+  ```
+  {
+    // For upper-case output (#ABCDEF), set "color_upper_case" to true
+    // For lower-case (#abcdef), use false
+    "color_upper_case": false,
+    // Set false to use the default windows colorpicker
+    "win_use_new_picker": false
+  }
+  ```
+  Настроить Default (Windows).sublime-keymap  
+  ```
+  [
+    // { "keys": ["ctrl+alt+c"], "command": "pick_color", "args": {} },
+    // { "keys": ["ctrl+alt+shift+c"], "command": "pick_color", "args": {"paste" : "true"} }
+    { "keys": ["ctrl+alt+c"], "command": "pick_color", "args": {"paste" : "true"} }
+  ]
+  ```
+- Color Highlighter	-	Плагины подсветки цветов  
+  preferences => Package Settings => Color Highlighter => Settings-user  
+  настройка, которая будет показывать превью цвета на фон  
+  ```
+  {
+    "ha_style": "filled" //Важно: кавычки должны быть двойными.
+  }
+  ```
+  Варианты переменной могут быть такими:  
+    * filled (заливка),  
+    * outlined (обводка),  
+    * none,  
+    * underlined (подчёркивание),  
+    * colored text (цвет текста)  
+- [SublimeLinter](https://habrahabr.ru/post/262137/) - Позволяет делать проверку кода на наличие синтаксических ошибок  
+- All Autocomplete -	Предлагает вам возможные варианты завершения вводимого текста  
+- AutoFileName -	Дополняет код при написании путей до файлов в вёрстке  
+- BracketHighlighter - Подсветка скобок, тегов в Sublime Text 3  
+- [CSSFontFamily](https://github.com/lcdsantos/CSSFontFamily) - Плагин подсказывает название шрифта  
+- Minifier - Минификация разметки  
+- Jade - Компиляция SASS в Sublime Text 3  
+- Sass - Подсветка синтаксиса SASS  
+- SideBarEnhancements - Множество дополнительных функций контекстного меню в сайдбаре  
+  
+#### <a name="ThemesST3"></a> Темы  
+- Theme - Soda - Тема для Sublime Text  
+  ```
+  {
+    "auto_complete": false,
+    "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+    "font_size": 13,
+    "highlight_line": true,
+    "ignored_packages":
+    [
+      "Vintage"
+    ],
+    "line_padding_bottom": 1,
+    "line_padding_top": 1,
+    "margin": 3,
+    "soda_classic_tabs": true,
+    "soda_folder_icons": true,
+    "tab_size": 3,
+    "theme": "Soda Dark 3.sublime-theme"
+  }
+   ```
+#### <a name="SettingsST3"></a> Настройки и горячие клавиши  
+- [Синхронизация настроек](https://packagecontrol.io/docs/syncing) Sublime Text на нескольких ПК  
+  1. Переместить папки Data в "облако"  
+  ___На машине используйте следующие инструкции:___  
+  2. Запустить CMD(командную строку) от имени администратора  
+	`cd c:\sublime text 3\Data  
+	mklink /D "Data" "D:\Dropbox\Sublime Text 3\Data"`  
+  ___На другой машине (ах) используйте следующие инструкции___  
+  3. Запустить CMD(командную строку) от имени администратора удалить католог Data в папке Sublime Text 3  
+	`cd c:\Sublime Text 3`  
+	`cmd /c mklink /D "Data" "C:\Users\<UserName>\Dropbox\Sublime Text 3\Data"`  
+  
+- Горячие клавиши - Настройка клавиш для выравнивания верстки  
+  ```
+  [
+    { "keys": ["ctrl+shift+t"], "command": "reindent" }
+  ]
+  ```
