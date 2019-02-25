@@ -13,7 +13,7 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ### [АКАДЕМИЯ ВЕРСТКИ](https://glo-academy.ru/frontenddeveloper/)
- - Интенсив по JS (
+ - [Интенсив по JS](https://www.youtube.com/watch?v=NHB0OJg9CMU) (
   [репо](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io/tree/master/JS/GloAcademy), 
   [демо](https://vik-vavilikhin.github.io/JS/GloAcademy)
   ).  
