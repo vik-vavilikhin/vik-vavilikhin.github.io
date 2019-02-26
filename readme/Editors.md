@@ -9,7 +9,7 @@
 </p>
 
 <hr>
-<h2 id="VSCode"><a href="https://code.visualstudio.com/">Редактор Visual Studio Code</a></h2>
+<h2 id="VSCode">Редактор <a href="https://code.visualstudio.com/">Visual Studio Code</a></h2>
 <ol>
   <li><a href="#PluginsVSCode">Плагины</a>.</li>
   <li><a href="#ThemesVSCode">Темы оформления редактора</a>.</li>
@@ -47,43 +47,43 @@
   </li>
   
   <li>
-    [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer "Подсвечивает парные скобки") - Подсвечивает парные скобки. У каждой пары свой цвет.
+    <a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer">Bracket Pair Colorizer</a> - Подсвечивает парные скобки. У каждой пары свой цвет.
   </li>
   
   <li>
-    [Class autocomplete for HTML](https://marketplace.visualstudio.com/items?itemName=AESSoft.aessoft-class-autocomplete "Поиск классов в CSS") - Расширение автоматически сканирует активный HTML-файл на наличие ссылок на внешние таблицы стилей CSS. Когда таблица стилей найдена, имена классов извлекаются и становятся доступными для использования с функцией автозавершения кода в Visual Studio Code.
+    <a href="https://marketplace.visualstudio.com/items?itemName=AESSoft.aessoft-class-autocomplete">Class autocomplete for HTML</a> - Расширение автоматически сканирует активный HTML-файл на наличие ссылок на внешние таблицы стилей CSS. Когда таблица стилей найдена, имена классов извлекаются и становятся доступными для использования с функцией автозавершения кода в Visual Studio Code.
   </li>
   
   <li>
-    [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight "Подсветка кода цветов CSS") - Подсветка кода цветов CSS
+    <a href="https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight">Color Highlight</a> - Подсветка кода цветов CSS
   </li>
      
   <li>
-    [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color "Помощник с графическим интерфейсом для создания цветовых кодов CSS") - Помощник с графическим интерфейсом для создания цветовых кодов CSS.
+    <a href="https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color">Color Picker</a> - Помощник с графическим интерфейсом для создания цветовых кодов CSS.
   </li>
   
   <li>
-    [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek "Добавляет возможность просматривать идентификаторы CSS") - Добавляет возможность просматривать идентификаторы CSS непосредственно из HTML и при необходимости перейти к ним в файле стилей.
+    <a href="https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek">CSS Peek</a> - Добавляет возможность просматривать идентификаторы CSS непосредственно из HTML и при необходимости перейти к ним в файле стилей.
   </li>
   
   <li>
-    [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome "Отладки кода JavaScript в браузере Google Chrome") - Расширение VS Code для отладки кода JavaScript в браузере Google Chrome.
+    <a href="https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome">Debugger for Chrome</a> - Расширение VS Code для отладки кода JavaScript в браузере Google Chrome.
   </li>
   
   <li>
-    [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint "Интегрирует ESLint в VS Code") - Интегрирует ESLint в VS Code.
+    <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">ESLint</a> - Интегрирует ESLint в VS Code.
   </li>
   
   <li>
-    [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons "Иконки для файлов в VSCode") - Иконки для файлов в VS Code.
+    <a href="https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons">file-icons</a> - Иконки для файлов в VS Code.
   </li>
   
   <li>
-    [ftp-simple](https://marketplace.visualstudio.com/items?itemName=humy2833.ftp-simple "Простой FTP / SFTP") - Простой FTP / SFTP.
+    <a href="https://marketplace.visualstudio.com/items?itemName=humy2833.ftp-simple">ftp-simple</a> - Простой FTP / SFTP.
   </li>
   
   <li>
-    [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css "Завершение атрибута класса") - Завершение атрибута класса.
+    <a href="https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css">HTML CSS Support</a> - Завершение атрибута класса.
     <ul>
       <li>Завершение атрибута класса.</li>
       <li>Идентификатор завершения атрибута.</li>
@@ -95,291 +95,299 @@
   </li>
   
   <li>
-    [html tag wrapper](https://marketplace.visualstudio.com/items?itemName=hwencc.html-tag-wrapper "Оборачивает выбранный блок кода в HTML-тег") - Оборачивает выбранный блок кода в HTML-тег нажатием Ctrl + I, можно изменить имя тега-обертки.
+    <a href="https://marketplace.visualstudio.com/items?itemName=hwencc.html-tag-wrapper">html tag wrapper</a> - Оборачивает выбранный блок кода в HTML-тег нажатием Ctrl + I, можно изменить имя тега-обертки.
   </li>
   
   <li>
-    [htmltagwrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap "Обертывание выбранного кода в HTML-тег") - Обертывание выбранного кода в HTML-тег.
+    <a href="https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap">htmltagwrap</a> - Обертывание выбранного кода в HTML-тег.
   </li>
   
   <li>
-    [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion "Завершение имени класса CSS для class-атрибута HTML") - Расширение VS Code, которое обеспечивает завершение имени класса CSS для class-атрибута HTML на основе определений, найденных в вашем рабочем пространстве или внешних файлах, на которые ссылается link-элемент.
+    <a href="https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion">IntelliSense for CSS class names in HTML</a> - Расширение VS Code, которое обеспечивает завершение имени класса CSS для class-атрибута HTML на основе определений, найденных в вашем рабочем пространстве или внешних файлах, на которые ссылается link-элемент.
   </li>
   
   <li>
-    [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets "Сниппеты jQuery") - Более 130 сниппетов jQuery. Просто введите буквы «jq», чтобы получить список всех доступных фрагментов кода jQuery.
+    <a href="https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets">jQuery Code Snippets</a> - Более 130 сниппетов jQuery. Просто введите буквы «jq», чтобы получить список всех доступных фрагментов кода jQuery.
   </li>
   
   <li>
-    [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint "Интегрирует JSHint в VS Code") - Интегрирует JSHint в VS Code. JSHint - это линтер для JavaScript.
+    <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint">jshint</a> - Интегрирует JSHint в VS Code. JSHint - это линтер для JavaScript.
   </li>
   
   <li>
-    [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass "Компилирует файлы SASS/SCSS в файлы CSS") - Расширение VS Code, которое компилирует файлы SASS/SCSS в файлы CSS в режиме реального времени без перезагрузки браузера.
+    <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass">Live Sass Compiler</a> - Расширение VS Code, которое компилирует файлы SASS/SCSS в файлы CSS в режиме реального времени без перезагрузки браузера.
   </li>
      
   <li>
-    [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer "Запуск локального сервера") - Запускает локальный Сервер разработки со встроенным LiveReload.
+    <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> - Запускает локальный Сервер разработки со встроенным LiveReload.
   </li>
      
   <li>
-    [Node.js Modules Intellisense](https://marketplace.visualstudio.com/items?itemName=leizongmin.node-module-intellisense "Автозаполнение модулей JavaScript/TypeScript в операторах импорта") - Плагин VS Code для автозаполнения модулей JavaScript/TypeScript в операторах импорта.
+    <a href="https://marketplace.visualstudio.com/items?itemName=leizongmin.node-module-intellisense">Node.js Modules Intellisense</a> - Плагин VS Code для автозаполнения модулей JavaScript/TypeScript в операторах импорта.
   </li>
      
   <li>
-    [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense "Автозаполнение модулей npm в операторах импорта") - Плагин VS Code для автозаполнения модулей npm в операторах импорта.
+    <a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense">npm Intellisense</a> - Плагин VS Code для автозаполнения модулей npm в операторах импорта.
   </li>
      
   <li>
-    [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser "Открыть текущий файл в броузере") - Позволяет открывать текущий файл в браузере.
+    <a href="https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser">open in browser</a> - Позволяет открывать текущий файл в браузере.
   </li>
      
   <li>
-    [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete "Автозаполнение пути файла") - Обеспечивает завершение пути для VS Code  
+    <a href="https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete">Path Autocomplete</a> - Обеспечивает завершение пути для VS Code  
     <ul>
-      <li>относительные пути (./)  </li>
-      <li>абсолютный путь к рабочему пространству (/)  </li>
-      <li>абсолютный путь к файловой системе (C:)  </li>
-      <li>пути относительно папки пользователя (~)  </li>
-      <li>исключения элементов через опцию path-autocomplete.excludedItems  </li>
-      <li>пакеты npm  </li>
-      <li>автоматическое предложение после выбора папки  </li>
-      <li>сопоставления через опцию path-autocomplete.pathMappings  </li>
-      <li>трансформации через опцию path-autocomplete.transformations  </li>
+      <li>относительные пути (./)</li>
+      <li>абсолютный путь к рабочему пространству (/)</li>
+      <li>абсолютный путь к файловой системе (C:)</li>
+      <li>пути относительно папки пользователя (~)</li>
+      <li>исключения элементов через опцию path-autocomplete.excludedItems</li>
+      <li>пакеты npm</li>
+      <li>автоматическое предложение после выбора папки</li>
+      <li>сопоставления через опцию path-autocomplete.pathMappings</li>
+      <li>трансформации через опцию path-autocomplete.transformations</li>
       <li>поддержка пути Windows с path-autocomplete.useBackslash</li>
     </ul>
   </li>
      
   <li>
-    [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug "Поддержка отладки PHP") - Поддержка отладки PHP для VS Code.
+    <a href="https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug">PHP Debug</a> - Поддержка отладки PHP для VS Code.
   </li>
      
   <li>
-    [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker "Пакет DocBlocking для PHP") - Простой, зависимый от PHP пакет DocBlocking для PHP.
+    <a href="https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker">PHP DocBlocker</a> - Простой, зависимый от PHP пакет DocBlocking для PHP.
   </li>
      
   <li>
-    [PHP Extension Pack](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-pack "Пакет расширений PHP для VS Code") - Включает в себя наиболее важные расширения, которые помогутначать разработку PHP в VS Code.
+    <a href="https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-pack">PHP Extension Pack</a> - Включает в себя наиболее важные расширения, которые помогутначать разработку PHP в VS Code.
   </li>
      
   <li>
-    [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client "Сервер языка PHP") - Высокопроизводительный и многофункциональный сервер языка PHP.
+    <a href="https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client">PHP Intelephense</a> - Высокопроизводительный и многофункциональный сервер языка PHP.
   </li>
      
   <li>
-    [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense "Поддержка автозаполнения для PHP") - Расширенная поддержка автозаполнения и рефакторинга для PHP.
+    <a href="https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense">PHP IntelliSense</a> - Расширенная поддержка автозаполнения и рефакторинга для PHP.
   </li>
      
   <li>
-    [PHP Intellisense - Crane](https://marketplace.visualstudio.com/items?itemName=HvyIndustries.crane "Поддержка автозаполнения для PHP") - Расширение для повышения производительности VS Code, которое обеспечивает завершение кода для PHP. Он не имеет никаких зависимостей и в основном работает с проектами любого размера.
+    <a href="https://marketplace.visualstudio.com/items?itemName=HvyIndustries.crane">PHP Intellisense - Crane</a> - Расширение для повышения производительности VS Code, которое обеспечивает завершение кода для PHP. Он не имеет никаких зависимостей и в основном работает с проектами любого размера.
   </li>
      
   <li>
-    [Pug/Jade Snippets](https://marketplace.visualstudio.com/items?itemName=amandeepmittal.pug "Pug/Jade сниппеты для VS Code") - Pug/Jade сниппеты для VS Code.
+    <a href="https://marketplace.visualstudio.com/items?itemName=amandeepmittal.pug">Pug/Jade Snippets</a> - Pug/Jade сниппеты для VS Code.
   </li>
      
   <li>
-    [Pug (Jade) snippets](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-jade-snippets "Pug/Jade сниппеты для VS Code") - Предоставляет базовый набор фрагментов для Jade/Pug.
+    <a href="https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-jade-snippets">Pug (Jade) snippets</a> - Предоставляет базовый набор фрагментов для Jade/Pug.
   </li>
      
   <li>
-    [React PropTypes Intellisense](https://marketplace.visualstudio.com/items?itemName=OfHumanBondage.react-proptypes-intellisense "Расширение находит React PropTypes и добавляет их в список предложений") - Расширение находит React PropTypes и добавляет их в список предложений.
+    <a href="https://marketplace.visualstudio.com/items?itemName=OfHumanBondage.react-proptypes-intellisense">React PropTypes Intellisense</a> - Расширение находит React PropTypes и добавляет их в список предложений.
   </li>
      
   <li>
-    [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client "REST Client позволяет отправлять HTTP-запрос и просматривать ответ непосредственно в VS Code") - REST Client позволяет отправлять HTTP-запрос и просматривать ответ непосредственно в VS Code.
+    <a href="https://marketplace.visualstudio.com/items?itemName=humao.rest-client">REST Client</a> - REST Client позволяет отправлять HTTP-запрос и просматривать ответ непосредственно в VS Code.
   </li>
      
   <li>
-    [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented "Подсветка синтаксиса Sass, автозаполнение и фрагменты для VS Code") - Подсветка синтаксиса Sass, автозаполнение и фрагменты для VSCode.
+    <a href="https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented">Sass</a> - Подсветка синтаксиса Sass, автозаполнение и фрагменты для VSCode.
   </li>
      
   <li>
-    [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss "Расширенная поддержка автозаполнения и рефакторинга SCSS для VS Code") - Расширенная поддержка автозаполнения и рефакторинга SCSS для VSCode.
+    <a href="https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss">SCSS IntelliSense</a> - Расширенная поддержка автозаполнения и рефакторинга SCSS для VSCode.
   </li>
      
   <li>
-    [Shell Launcher](https://marketplace.visualstudio.com/items?itemName=Tyriar.shell-launcher "Запусе нескольких оболочек в терминале") - Расширенная позволяет запускать одновременно несколько оболочек в терминале.
+    <a href="https://marketplace.visualstudio.com/items?itemName=Tyriar.shell-launcher">Shell Launcher</a> - Расширенная позволяет запускать одновременно несколько оболочек в терминале.
   </li>
      
   <li>
-    [VSCode Browser Sync](https://marketplace.visualstudio.com/items?itemName=jasonlhy.vscode-browser-sync "Интегрированния синхронизация Browser Sync для VS Code") - Интегрированния синхронизация Browser Sync для VS Code.
+    <a href="https://marketplace.visualstudio.com/items?itemName=jasonlhy.vscode-browser-sync">VSCode Browser Sync</a> - Интегрированния синхронизация Browser Sync для VS Code.
   </li>
     
   <li>
-    [vscode-styled-jsx](https://marketplace.visualstudio.com/items?itemName=blanu.vscode-styled-jsx "Подсветка синтаксиса jsx") - Подсветка синтаксиса jsx.
+    <a href="https://marketplace.visualstudio.com/items?itemName=blanu.vscode-styled-jsx">vscode-styled-jsx</a> - Подсветка синтаксиса jsx.
   </li>
     
   <li>
-    [WooCommerce - Snippets & autocomplete](https://marketplace.visualstudio.com/items?itemName=claudiosanches.woocommerce "Сниппеты и автозаполнение для PHP") - Сниппеты и автозаполнение для PHP.
+    <a href="https://marketplace.visualstudio.com/items?">WooCommerce - Snippets & autocomplete</a> - Сниппеты и автозаполнение для PHP.
   </li>
     
   <li>
-    [WordPress Snippet](https://marketplace.visualstudio.com/items?itemName=tungvn.wordpress-snippet "Коллекция сниппетов и автозаполнений WordPress") - Это коллекция сниппетов и автозаполнений WordPress для VS Code.
+    <a href="https://marketplace.visualstudio.com/items?itemName=tungvn.wordpress-snippet">WordPress Snippet</a> - Это коллекция сниппетов и автозаполнений WordPress для VS Code.
   </li>
     
   <li>
-    [WordPress Snippets](https://marketplace.visualstudio.com/items?itemName=wordpresstoolbox.wordpress-toolbox "Коллекция сниппетов WordPress") - Это коллекция сниппетов WordPress для VS Code.
+    <a href="https://marketplace.visualstudio.com/items?itemName=wordpresstoolbox.wordpress-toolbox">WordPress Snippets</a> - Это коллекция сниппетов WordPress для VS Code.
   </li>
 </ol>
 
 <hr>
-  #### <a name="ThemesVSCode"></a> [Темы оформления для Visual Studio Code](https://marketplace.visualstudio.com/search?term=theme&target=VSCode&category=All%20categories&sortBy=Relevance)  
-   1. [One Dark Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.theme-onedark "Тема оформления One Dark Theme") - Тема оформления One Dark Theme основана на соответствующей теме редактора.
-   
-   1. [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai "Тема оформления One Monokai Theme") - Тема оформления One Monokai Theme.
-   
-   1. [Theme - Seti-Monokai](https://marketplace.visualstudio.com/items?itemName=SmukkeKim.theme-setimonokai "Тема оформления Seti Monokai") - Тема оформления Seti Monokai.
+<h2 id="ThemesVSCode"><a href="https://marketplace.visualstudio.com/search?term=theme&target=VSCode&category=All%20categories&sortBy=Relevance">Темы оформления</a> для <a href="https://code.visualstudio.com/">Visual Studio Code</a></h2>
 
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-### <a name="SettingsVSCode"></a> Настройки редактора Visual Studio Code
- ```
- {
-  "files.defaultLanguage": "html",
-  "files.autoSave": "onFocusChange",
-  "open-in-browser.default": "Chrome",
-  "emmet.triggerExpansionOnTab": true,
-
-  "window.menuBarVisibility": "toggle",
-  "window.zoomLevel": 0,
-
-  "workbench.startupEditor": "newUntitledFile",
-  // "workbench.statusBar.feedback.visible": false,
-  "workbench.statusBar.visible": true,
-  "workbench.editor.tabSizing": "shrink",
-  "workbench.sideBar.location": "left",
-  "workbench.colorTheme": "Seti Monokai",
-  "workbench.iconTheme": "file-icons",
-  "workbench.colorCustomizations": {
-    "editorIndentGuide.activeBackground": "#5c5c5c"
-  },
-
-  "editor.tabSize": 2,
-  // "editor.insertSpaces": false,
-  "editor.detectIndentation": false,
-  "editor.glyphMargin": false,
-  "editor.smoothScrolling": true,
-  "editor.multiCursorModifier": "ctrlCmd",
-  "editor.formatOnPaste": true,
-  "editor.renderWhitespace": "boundary",
-  "editor.fontSize": 15,
-  "editor.renderLineHighlight": "line",
-
-  // ========== Настройка длины строки ===============
-  // Установить перенос строки по достижении края области редактора
-  // "editor.wordWrap": "on",
-  // Установить ширину строки (символов)
-  "editor.wordWrapColumn": 93,
-  // Установить перенос строки при достижении установленной ширины
-  "editor.wordWrap": "wordWrapColumn",
-  // Установить вертикальную линию на границе, установленной ширины
-  "editor.rulers": [93],
-
-  // ========== Настройка всплывающих поодсказок =====
-  // убирает ВСЕ всплывающие подсказки
-  // P.S. Чтобы отобразить подсказки
-  // нажать: `ctrl+k ctrl+i` или через поиск `F1 > Show Hover`
-  // "editor.hover.enabled": false,
-  // убирает всплывающие подсказки в HTML
-  // "[html]": {
-  //   "editor.hover.enabled": false
-  // },
-  "editor.quickSuggestions": {
-    // "other": false,
-    "comments": false,
-    "strings": false
-  },
-  
-  // ========== Настройка терминала ==================
-  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\bash.exe",
-  "shellLauncher.shells.windows": [
-    // Для запуска:
-    // 	Ctrl+Shift+P ==> Shell launcher
-    {
-      "shell": "C:\\Windows\\sysnative\\cmd.exe",
-      "label": "cmd"
-    },
-    {
-      "shell": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-      "label": "PowerShell"
-    },
-    {
-      "shell": "C:\\WINDOWS\\System32\\bash.exe",
-      "label": "Bash"
-    },
-    {
-      "shell": "D:\\Git\\git-cmd.exe",
-      "label": "Git-cmd"
-    }
-  ],
-  
-  // ========== PHP ==================================
-  "php.suggest.basic": false,
-  "php.executablePath": "D:/xampp/php/php.exe",
-  "php.validate.executablePath": "D:/xampp/php/php.exe",
-
-  // ========== React.js =============================
-  "files.associations": {
-    "*.js": "javascriptreact"
-  },
-  
-  "emmet.syntaxProfiles": {
-    "javascript": "jsx"
-  },
-  
-  "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
-  },
-  
-  "workbench.panel.defaultLocation": "right",
-  "breadcrumbs.symbolSortOrder": "type",
-  "eslint.validate": [
-    "javascript",
-    "javascriptreact",
-    {
-      "language": "html",
-      "autoFix": true
-    }
-  ],
-  
-  // ========== Live Sass Compile ====================
-  "liveSassCompile.settings.generateMap": false,
-  "liveSassCompile.settings.excludeList": [
-    "**/node_modules/**",
-    ".vscode/**"
-  ],
-  "liveSassCompile.settings.formats": [
-    // This is Default.
-    // {
-    //   "format": "expanded",
-    //   "extensionName": ".css",
-    //   "savePath": null
-    // },
-    // You can add more
-    {
-      "format": "compressed",
-      "extensionName": ".css",
-      "savePath": "/css"
-    },
-    // More Complex
-    // {
-    //   "format": "compressed",
-    //   "extensionName": ".min.css",
-    //   "savePath": "~/../css/"
-    // },
+<ol>
+  <li>
+    <a href="https://marketplace.visualstudio.com/items?">One Dark Theme</a> - Тема оформления One Dark Theme основана на соответствующей теме редактора.
+  </li>
     
-    // My settings.
-    // {
-    //   "format": "expanded",
-    //   "extensionName": ".css",
-    //   "savePath": "/"
-    // },
-  ],
-  "git.enableSmartCommit": true,
-  "git.autofetch": true,
-  "git.confirmSync": false,
-}
+  <li>
+    <a href="https://marketplace.visualstudio.com/items?">One Monokai Theme</a> - Тема оформления One Monokai Theme.
+  </li>
+    
+  <li>
+    <a href="https://marketplace.visualstudio.com/items?itemName=SmukkeKim.theme-setimonokai">Theme - Seti-Monokai</a> - Тема оформления Seti Monokai.
+  </li>
+</ol>
+
+<hr>
+<h3 id="SettingsVSCode">Настройки редактора <a href="https://code.visualstudio.com/">Visual Studio Code</a></h3>
+ ```
+<pre> {</pre>
+<pre>  "files.defaultLanguage": "html",</pre>
+<pre>  "files.autoSave": "onFocusChange",</pre>
+<pre>  "open-in-browser.default": "Chrome",</pre>
+<pre>  "emmet.triggerExpansionOnTab": true,</pre>
+<pre></pre>
+<pre>  "window.menuBarVisibility": "toggle",</pre>
+<pre>  "window.zoomLevel": 0,</pre>
+<pre></pre>
+<pre>  "workbench.startupEditor": "newUntitledFile",</pre>
+<pre>  // "workbench.statusBar.feedback.visible": false,</pre>
+<pre>  "workbench.statusBar.visible": true,</pre>
+<pre>  "workbench.editor.tabSizing": "shrink",</pre>
+<pre>  "workbench.sideBar.location": "left",</pre>
+<pre>  "workbench.colorTheme": "Seti Monokai",</pre>
+<pre>  "workbench.iconTheme": "file-icons",</pre>
+<pre>  "workbench.colorCustomizations": {</pre>
+<pre>    "editorIndentGuide.activeBackground": "#5c5c5c"</pre>
+<pre>  },</pre>
+<pre></pre>
+<pre>  "editor.tabSize": 2,</pre>
+<pre>  // "editor.insertSpaces": false,</pre>
+<pre>  "editor.detectIndentation": false,</pre>
+<pre>  "editor.glyphMargin": false,</pre>
+<pre>  "editor.smoothScrolling": true,</pre>
+<pre>  "editor.multiCursorModifier": "ctrlCmd",</pre>
+<pre>  "editor.formatOnPaste": true,</pre>
+<pre>  "editor.renderWhitespace": "boundary",</pre>
+<pre>  "editor.fontSize": 15,</pre>
+<pre>  "editor.renderLineHighlight": "line",</pre>
+<pre></pre>
+<pre>  // ========== Настройка длины строки ===============</pre>
+<pre>  // Установить перенос строки по достижении края области редактора</pre>
+<pre>  // "editor.wordWrap": "on",</pre>
+<pre>  // Установить ширину строки (символов)</pre>
+<pre>  "editor.wordWrapColumn": 93,</pre>
+<pre>  // Установить перенос строки при достижении установленной ширины</pre>
+<pre>  "editor.wordWrap": "wordWrapColumn",</pre>
+<pre>  // Установить вертикальную линию на границе, установленной ширины</pre>
+<pre>  "editor.rulers": [93],</pre>
+<pre></pre>
+<pre>  // ========== Настройка всплывающих поодсказок =====</pre>
+<pre>  // убирает ВСЕ всплывающие подсказки</pre>
+<pre>  // P.S. Чтобы отобразить подсказки</pre>
+<pre>  // нажать: `ctrl+k ctrl+i` или через поиск `F1 > Show Hover`</pre>
+<pre>  // "editor.hover.enabled": false,</pre>
+<pre>  // убирает всплывающие подсказки в HTML</pre>
+<pre>  // "[html]": {</pre>
+<pre>  //   "editor.hover.enabled": false</pre>
+<pre>  // },</pre>
+<pre>  "editor.quickSuggestions": {</pre>
+<pre>    // "other": false,</pre>
+<pre>    "comments": false,</pre>
+<pre>    "strings": false</pre>
+<pre>  },</pre>
+<pre>  </pre>
+<pre>  // ========== Настройка терминала ==================</pre>
+<pre>  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\bash.exe",</pre>
+<pre>  "shellLauncher.shells.windows": [</pre>
+<pre>    // Для запуска:</pre>
+<pre>    // 	Ctrl+Shift+P ==> Shell launcher</pre>
+<pre>    {</pre>
+<pre>      "shell": "C:\\Windows\\sysnative\\cmd.exe",</pre>
+<pre>      "label": "cmd"</pre>
+<pre>    },</pre>
+<pre>    {</pre>
+<pre>      "shell": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",</pre>
+<pre>      "label": "PowerShell"</pre>
+<pre>    },</pre>
+<pre>    {</pre>
+<pre>      "shell": "C:\\WINDOWS\\System32\\bash.exe",</pre>
+<pre>      "label": "Bash"</pre>
+<pre>    },</pre>
+<pre>    {</pre>
+<pre>      "shell": "D:\\Git\\git-cmd.exe",</pre>
+<pre>      "label": "Git-cmd"</pre>
+<pre>    }</pre>
+<pre>  ],</pre>
+<pre>  </pre>
+<pre>  // ========== PHP ==================================</pre>
+<pre>  "php.suggest.basic": false,</pre>
+<pre>  "php.executablePath": "D:/xampp/php/php.exe",</pre>
+<pre>  "php.validate.executablePath": "D:/xampp/php/php.exe",</pre>
+<pre></pre>
+<pre>  // ========== React.js =============================</pre>
+<pre>  "files.associations": {</pre>
+<pre>    "*.js": "javascriptreact"</pre>
+<pre>  },</pre>
+<pre>  </pre>
+<pre>  "emmet.syntaxProfiles": {</pre>
+<pre>    "javascript": "jsx"</pre>
+<pre>  },</pre>
+<pre>  </pre>
+<pre>  "emmet.includeLanguages": {</pre>
+<pre>    "javascript": "javascriptreact"</pre>
+<pre>  },</pre>
+<pre>  </pre>
+<pre>  "workbench.panel.defaultLocation": "right",</pre>
+<pre>  "breadcrumbs.symbolSortOrder": "type",</pre>
+<pre>  "eslint.validate": [</pre>
+<pre>    "javascript",</pre>
+<pre>    "javascriptreact",</pre>
+<pre>    {</pre>
+<pre>      "language": "html",</pre>
+<pre>      "autoFix": true</pre>
+<pre>    }</pre>
+<pre>  ],</pre>
+<pre>  </pre>
+<pre>  // ========== Live Sass Compile ====================</pre>
+<pre>  "liveSassCompile.settings.generateMap": false,</pre>
+<pre>  "liveSassCompile.settings.excludeList": [</pre>
+<pre>    "**/node_modules/**",</pre>
+<pre>    ".vscode/**"</pre>
+<pre>  ],</pre>
+<pre>  "liveSassCompile.settings.formats": [</pre>
+<pre>    // This is Default.</pre>
+<pre>    // {</pre>
+<pre>    //   "format": "expanded",</pre>
+<pre>    //   "extensionName": ".css",</pre>
+<pre>    //   "savePath": null</pre>
+<pre>    // },</pre>
+<pre>    // You can add more</pre>
+<pre>    {</pre>
+<pre>      "format": "compressed",</pre>
+<pre>      "extensionName": ".css",</pre>
+<pre>      "savePath": "/css"</pre>
+<pre>    },</pre>
+<pre>    // More Complex</pre>
+<pre>    // {</pre>
+<pre>    //   "format": "compressed",</pre>
+<pre>    //   "extensionName": ".min.css",</pre>
+<pre>    //   "savePath": "~/../css/"</pre>
+<pre>    // },</pre>
+<pre>    </pre>
+<pre>    // My settings.</pre>
+<pre>    // {</pre>
+<pre>    //   "format": "expanded",</pre>
+<pre>    //   "extensionName": ".css",</pre>
+<pre>    //   "savePath": "/"</pre>
+<pre>    // },</pre>
+<pre>  ],</pre>
+<pre>  "git.enableSmartCommit": true,</pre>
+<pre>  "git.autofetch": true,</pre>
+<pre>  "git.confirmSync": false,</pre>
+<pre>}</pre>
  ```  
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
