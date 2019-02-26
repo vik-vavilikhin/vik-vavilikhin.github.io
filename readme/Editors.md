@@ -449,16 +449,16 @@
   </li>			
   <li>
     Gist -	Установка GitHub Gist в sublime text 3
-  <ol>
-  <li>
-    <i><b>Установка:</b></i><br>
-    <code>preferences => Package Settings => Gits => Settings-Default</code><br>
-    <code>`"token": "<здесь внести номер токена от GitHub>",`</code><br>
-    <a href="https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line">инструкция</a> для создания токена
-  </li>
-  <li>
-    <i><b>Настраиваем комбинацию клавиш</b></i><br>
-    <code>preferences => Package Settings => Gits => Key Bindings-user</code>
+    <ol>
+      <li>
+        <i><b>Установка:</b></i><br>
+        <code>preferences => Package Settings => Gits => Settings-Default</code><br>
+        <code>`"token": "<здесь внести номер токена от GitHub>",`</code><br>
+        <a href="https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line">инструкция</a> для создания токена
+      </li>
+      <li>
+        <i><b>Настраиваем комбинацию клавиш</b></i><br>
+        <code>preferences => Package Settings => Gits => Key Bindings-user</code>
 <pre>
 [
   { "keys": ["ctrl+k+i"], "command": "gist" },
@@ -469,29 +469,29 @@
   { "keys": ["ctrl+k", "ctrl+]"], "command": "gist_add_file" }
 ]
 </pre>
-  </li>
-  <li>
-    <i><b>Об использовании</b></i>
-    <ul>
-      <li>
-        Если комбинации клавиш настроенна, то для создания gist'а нужно 
-        просто выделить подходящий код и нажать <code>ctrl+k+i</code>, затем указать 
-        подходящее название, что выполняет код и выбрать название файла.
-      </li>  
-      <li>
-        Чтобы использовать сохраненный ранее gist нужно нажать <code>ctrl+k+o</code> 
-        и выбрать код
       </li>
-    </ul>
-  </li>
-  <li>
-    <a href="http://rubycode.ru/sublime-text/70-nastroyka-github-gist-hranenie-i-ispolzovanie-koda.html"><i><b>Установка GitHub Gist</b></i></a>
-  </li>
-  </ol> 
+      <li>
+        <i><b>Об использовании</b></i>
+        <ul>
+          <li>
+            Если комбинации клавиш настроенна, то для создания gist'а нужно 
+            просто выделить подходящий код и нажать <code>ctrl+k+i</code>, затем указать 
+            подходящее название, что выполняет код и выбрать название файла.
+          </li>  
+          <li>
+            Чтобы использовать сохраненный ранее gist нужно нажать <code>ctrl+k+o</code> 
+            и выбрать код
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="http://rubycode.ru/sublime-text/70-nastroyka-github-gist-hranenie-i-ispolzovanie-koda.html"><i><b>Установка GitHub Gist</b></i></a>
+      </li>
+    </ol> 
   </li>
     
   <li>
-    LiveReload -	Автообновление страницы<br>
+    LiveReload -	Автообновление страницы
     Для корректной работы плагина LiveReload в Sublime Text 3 необходимо дописать<br>  
     <code>preferences => Package Settings => LiveReload => Settings-user</code><br> 
     следующую конструкцию:
@@ -504,99 +504,151 @@
 }
 </pre>
   </li>
-  <li>AdvancedNewFile - Плагин позволяет быстро создавать файлы и папки в проекте вашего сайта</li> 
-  <li>[Tag](github.com/sublimetext/tag)	-	Плагин позволяет:</li>
-    * Get CSS Classes (Копирует все классы из файла HTML в буфер обмена)  
-    * Rename (Переназывает выделеный тег)  
-    * Close Tags (Закрывает незакрытые теги)  
-    * Fold Attributes  
-    * Insert as Tag  
-    * Lint Selection or Document  
-    * Auto-Format Tags on Document (Форматирует выделенный код)  
-    * Remove All Tags in Document (Удаляет все теги из файла оставляя только текст)  
-    * Remove All Tags in Selection (Удаляет все теги из выделеного фрагмента)  
-    * Remove Picked Tags in Document (Удаляет выбранные теги из файла)  
-    * Remove Picked Tags in Selection (Удаляет выбранные теги из выделеного фрагмента)  
-    * и другие...  
-  <li>ColorPicker -	плагин для выбора цвета</li>
-    Настроить ColorPicker.sublime-settings  
-    ```
-    {
-      // For upper-case output (#ABCDEF), set "color_upper_case" to true
-      // For lower-case (#abcdef), use false
-      "color_upper_case": false,
-      // Set false to use the default windows colorpicker
-      "win_use_new_picker": false
-    }
-    ```
-    Настроить Default (Windows).sublime-keymap  
-    ```
-    [
-      // { "keys": ["ctrl+alt+c"], "command": "pick_color", "args": {} },
-      // { "keys": ["ctrl+alt+shift+c"], "command": "pick_color", "args": {"paste" : "true"} }
-      { "keys": ["ctrl+alt+c"], "command": "pick_color", "args": {"paste" : "true"} }
-    ]
-    ```
-  <li>Color Highlighter	-	Плагины подсветки цветов</li>
-    preferences => Package Settings => Color Highlighter => Settings-user  
+  <li>
+    AdvancedNewFile - Плагин позволяет быстро создавать файлы и папки в проекте вашего сайта
+  </li> 
+  <li>
+    <a href="github.com/sublimetext/tag">Tag</a>	-	Плагин позволяет:
+    <ul>
+      <li>Get CSS Classes (Копирует все классы из файла HTML в буфер обмена)</li>
+      <li>Rename (Переназывает выделеный тег)</li>
+      <li>Close Tags (Закрывает незакрытые теги)</li>
+      <li>Fold Attributes</li>
+      <li>Insert as Tag</li>
+      <li>Lint Selection or Document</li>
+      <li>Auto-Format Tags on Document (Форматирует выделенный код)</li>
+      <li>Remove All Tags in Document (Удаляет все теги из файла оставляя только текст)</li>
+      <li>Remove All Tags in Selection (Удаляет все теги из выделеного фрагмента)</li>
+      <li>Remove Picked Tags in Document (Удаляет выбранные теги из файла)</li>
+      <li>Remove Picked Tags in Selection (Удаляет выбранные теги из выделеного фрагмента)</li>
+      <li>и другие...</li>
+    </ul>
+  </li>
+  <li>
+    ColorPicker -	плагин для выбора цвета<br>
+    Настроить <code>ColorPicker.sublime-settings</code>  
+<pre>
+{
+  // For upper-case output (#ABCDEF), set "color_upper_case" to true
+  // For lower-case (#abcdef), use false
+  "color_upper_case": false,
+  // Set false to use the default windows colorpicker
+  "win_use_new_picker": false
+}
+</pre>
+    Настроить <code>Default (Windows).sublime-keymap</code>  
+<pre>
+[
+  // { "keys": ["ctrl+alt+c"], "command": "pick_color", "args": {} },
+  // { "keys": ["ctrl+alt+shift+c"], "command": "pick_color", "args": {"paste" : "true"} }
+  { "keys": ["ctrl+alt+c"], "command": "pick_color", "args": {"paste" : "true"} }
+]
+</pre>
+  </li>
+  <li>
+    Color Highlighter	-	Плагины подсветки цветов<br>
+    <code>preferences => Package Settings => Color Highlighter => Settings-user</code><br>  
     настройка, которая будет показывать превью цвета на фон  
-    ```
-    {
-      "ha_style": "filled" //Важно: кавычки должны быть двойными.
-    }
-    ```
+<pre>
+{
+  "ha_style": "filled" //Важно: кавычки должны быть двойными.
+}
+</pre>
     Варианты переменной могут быть такими:  
-      * filled (заливка),  
-      * outlined (обводка),  
-      * none,  
-      * underlined (подчёркивание),  
-      * colored text (цвет текста)  
-  <li>[SublimeLinter](https://habrahabr.ru/post/262137/) - Позволяет делать проверку кода наналичие синтаксических ошибок</li>
-  <li>All Autocomplete -	Предлагает вам возможные варианты завершения вводимого текста</li>
-  <li>AutoFileName -	Дополняет код при написании путей до файлов в вёрстке</li>
-  <li>BracketHighlighter - Подсветка скобок, тегов в Sublime Text 3</li>
-  <li>[CSSFontFamily](https://github.com/lcdsantos/CSSFontFamily) - Плагин подсказываетназвание шрифта</li>
-  <li>Minifier - Минификация разметки</li>
-  <li>Jade - Компиляция SASS в Sublime Text 3</li>
-  <li>Sass - Подсветка синтаксиса SASS</li>
-  <li>SideBarEnhancements - Множество дополнительных функций контекстного меню в сайдбаре</li>
+    <ul>
+      <li>filled (заливка),</li>
+      <li>outlined (обводка),</li>
+      <li>none,</li>
+      <li>underlined (подчёркивание),</li>
+      <li>colored text (цвет текста)</li>
+    </ul>  
+  </li>
+  <li>
+    <a href="https://habrahabr.ru/post/262137/">SublimeLinter</a>- Позволяет делать проверку кода наналичие синтаксических ошибок
+  </li>
+  <li>
+    All Autocomplete -	Предлагает вам возможные варианты завершения вводимого текста
+  </li>
+  <li>
+    AutoFileName -	Дополняет код при написании путей до файлов в вёрстке
+  </li>
+  <li>
+    BracketHighlighter - Подсветка скобок, тегов в Sublime Text 3
+  </li>
+  <li>
+    <a href="https://github.com/lcdsantos/CSSFontFamily">CSSFontFamily</a>- Плагин подсказываетназвание шрифта
+  </li>
+  <li>
+    Minifier - Минификация разметки
+  </li>
+  <li>
+    Jade - Компиляция SASS в Sublime Text 3
+  </li>
+  <li>
+    Sass - Подсветка синтаксиса SASS
+  </li>
+  <li>
+    SideBarEnhancements - Множество дополнительных функций контекстного меню в сайдбаре
+  </li>
 </ul>
     
-  #### <a name="ThemesST3"></a> Темы  
-  - Theme - Soda - Тема для Sublime Text  
-    ```
-    {
-      "auto_complete": false,
-      "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-      "font_size": 13,
-      "highlight_line": true,
-      "ignored_packages":
-      [
-        "Vintage"
-      ],
-      "line_padding_bottom": 1,
-      "line_padding_top": 1,
-      "margin": 3,
-      "soda_classic_tabs": true,
-      "soda_folder_icons": true,
-      "tab_size": 3,
-      "theme": "Soda Dark 3.sublime-theme"
-    }
-     ```
-#### <a name="SettingsST3"></a> Настройки() и горячие клавиши  
-- [Синхронизация настроек](https://packagecontrol.io/docs/syncing) Sublime Text на нескольких ПК  
-1. Переместить папки Data в "облако"  
-2. На ПК, с которого копируются настройки, запустить CMD от имени администратора  
-`cd c:\sublime text 3\Data  
-mklink /D "Data" "D:\Dropbox\Sublime Text 3\Data"`  
-3. На ПК, куда синхронизируются настройки, запустить CMD от имени администратора удалить католог Data в папке Sublime Text 3  
-`cd c:\Sublime Text 3`  
-`cmd /c mklink /D "Data" "C:\Users\<UserName>\Dropbox\Sublime Text 3\Data"`  
+<h3 id="ThemesST3">Темы</h3> 
+<ul>
+  <li>
+    Theme - Soda - Тема для Sublime Text  
+<pre>
+{
+  "auto_complete": false,
+  "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+  "font_size": 13,
+  "highlight_line": true,
+  "ignored_packages":
+[
+  "Vintage"
+],
+  "line_padding_bottom": 1,
+  "line_padding_top": 1,
+  "margin": 3,
+  "soda_classic_tabs": true,
+  "soda_folder_icons": true,
+  "tab_size": 3,
+  "theme": "Soda Dark 3.sublime-theme"
+}
+</pre>
+  </li>
+</ul>
+
+<h3 id="SettingsST3">Настройки и горячие клавиши</h3>
+<ul>
+
+  <li>
+    <a href="https://www.youtube.com/playlist?list=PLPpaecEYRC8ZjBQ1OsGOKmxBF8lTTO4BZ">Видеокурс</a> по редактору
+  </li>
+  <li>
+    <a href="https://packagecontrol.io/docs/syncing">Синхронизация настроек</a> Sublime Text на нескольких ПК
+    <ol>
+      <li>
+        Переместить папки Data в "облако"
+      </li>
+      <li>
+        На ПК, с которого копируются настройки, запустить CMD от имени администратора<br>
+        <code>cd c:\sublime text 3\Data</code><br>
+        <code>mklink /D "Data" "D:\Dropbox\Sublime Text 3\Data"</code>
+      </li>
+      <li>
+        На ПК, куда синхронизируются настройки, запустить CMD от имени администратора удалить католог Data в папке Sublime Text 3<br>
+        <code>cd c:\Sublime Text 3</code><br>
+        <code>cmd /c mklink /D "Data" "C:\Users\<UserName>\Dropbox\Sublime Text 3\Data"</code>
+      </li>
+    </ol>
+  </li>
   
-- Горячие клавиши - Настройка клавиш для выравнивания верстки  
-  ```
-  [
-    { "keys": ["ctrl+shift+t"], "command": "reindent" }
-  ]
-  ```
-4. [Видеокурс по редактору](https://www.youtube.com/playlist?list=PLPpaecEYRC8ZjBQ1OsGOKmxBF8lTTO4BZ)
+  <li>
+    Горячие клавиши - Настройка клавиш для выравнивания верстки
+<pre>
+[
+  { "keys": ["ctrl+shift+t"], "command": "reindent" }
+]
+</pre>
+  </li>
+</ul>
