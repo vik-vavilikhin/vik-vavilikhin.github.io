@@ -459,7 +459,7 @@
       <li>
         Настраиваем комбинацию клавиш<br>
         <code>preferences => Package Settings => Gits => Key Bindings-user</code>
-          <pre>
+<pre>
 [
   { "keys": ["ctrl+k+i"], "command": "gist" },
   { "keys": ["ctrl+k", "ctrl+p"], "command": "gist_private" },
@@ -468,16 +468,25 @@
   { "keys": ["ctrl+k", "ctrl+["], "command": "insert_gist_list" },
   { "keys": ["ctrl+k", "ctrl+]"], "command": "gist_add_file" }
 ]
-          </pre>
+</pre>
       </li>
-      <li>3. Об использовании</li>
-      - Если комбинации клавиш настроенна, то для создания gist'а нужно 
-      просто выделить подходящий код и нажать ctrl+k+i, затем указать 
-      подходящее название, что выполняет код и выбрать название файла.  
-      - Чтобы использовать сохраненный ранее gist нужно нажать ctrl+k+o 
-      и выбрать код
-      
-    <li>4. [Ресурс](http://rubycode.ru/sublime-text/70-nastroyka-github-gist-hranenie-i-ispolzovanie-koda.html)</li>
+      <li>
+        Об использовании
+        <ul>
+          <li>
+            Если комбинации клавиш настроенна, то для создания gist'а нужно 
+            просто выделить подходящий код и нажать <code>ctrl+k+i</code>, затем указать 
+            подходящее название, что выполняет код и выбрать название файла.
+          </li>  
+          <li>
+            Чтобы использовать сохраненный ранее gist нужно нажать <code>ctrl+k+o</code> 
+            и выбрать код
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="http://rubycode.ru/sublime-text/70-nastroyka-github-gist-hranenie-i-ispolzovanie-koda.html">Установка GitHub Gist</a>
+      </li>
   </ol> 
   </li>
     
