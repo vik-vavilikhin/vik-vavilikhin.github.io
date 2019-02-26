@@ -298,7 +298,7 @@
     "comments": false,
     "strings": false
   },
-
+  
   // ========== Настройка терминала ==================
   "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\bash.exe",
   "shellLauncher.shells.windows": [
@@ -321,7 +321,7 @@
       "label": "Git-cmd"
     }
   ],
-
+  
   // ========== PHP ==================================
   "php.suggest.basic": false,
   "php.executablePath": "D:/xampp/php/php.exe",
@@ -331,15 +331,15 @@
   "files.associations": {
     "*.js": "javascriptreact"
   },
-
+  
   "emmet.syntaxProfiles": {
     "javascript": "jsx"
   },
-
+  
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
-
+  
   "workbench.panel.defaultLocation": "right",
   "breadcrumbs.symbolSortOrder": "type",
   "eslint.validate": [
@@ -350,7 +350,7 @@
       "autoFix": true
     }
   ],
-
+  
   // ========== Live Sass Compile ====================
   "liveSassCompile.settings.generateMap": false,
   "liveSassCompile.settings.excludeList": [
@@ -376,7 +376,7 @@
     //   "extensionName": ".min.css",
     //   "savePath": "~/../css/"
     // },
-
+    
     // My settings.
     // {
     //   "format": "expanded",
@@ -389,7 +389,6 @@
   "git.confirmSync": false,
 }
 </pre>
- ```  
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ### <a name="Atom"></a> [Редактор Atom](https://atom.io/) - бесплатный, кросплатформенный текстовый редактор от [GitHub](https://github.com/atom/atom/releases).  
