@@ -243,7 +243,7 @@
 <hr>
 <h3 id="SettingsVSCode">Настройки редактора <a href="https://code.visualstudio.com/">Visual Studio Code</a></h3>  
 
-```
+<pre>
 {
   "files.defaultLanguage": "html",
   "files.autoSave": "onFocusChange",
@@ -389,157 +389,189 @@
   "git.autofetch": true,
   "git.confirmSync": false,
 }
- ```  
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-### <a name="Atom"></a> [Редактор Atom](https://atom.io/) - бесплатный, кросплатформенный текстовый редактор от [GitHub](https://github.com/atom/atom/releases).  
-Для того, чтобы ощутить его мощь, рекомендуем воспользоваться установкой дополнительных плагинов, таких как Emmet, позволяющий печатать меньше, делать больше,HTML Preview, позволяющий видеть все вносимые изменения в соседней вкладке, Live Server, позволяющий просматривать внесённые изменения в баузере.  
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-1. [Плагины](#PluginsAtom).
-2. [Темы оформления редактора](#ThemesAtom).
-3. [Настройка Atom](#SettingsAtom) (файл `settings.json`).
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-1. [Harrix Блог](http://blog.harrix.org/article/6076) - Настройка Atom (full version). Полная инструкция по установке, настройке, работе с FAQ.  
-2. [Настройки Atom для Front-end разработки](https://web.informatics.ru/edtr/atom/)  
-
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-### <a name="ST3"></a> [Редактор Sublime Text 3](https://www.sublimetext.com//)
-  Легенда. Единственный минус - он условно платный. Легко улучшается до полноценной IDE путём установки дополнений. Чтобы быстро и просто устанавливать дополнения, скачайте [Package control](https://packagecontrol.io/installation).  
+</pre>
   
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-1. [Плагины](#PluginsST3).
-2. [Темы оформления редактора](#ThemesST3).
-3. [Настройка ST3](#SettingsST3).
+<hr>
+<h2 id="Atom">Редактор <a href="https://atom.io/">Atom</a> - бесплатный, кросплатформенный текстовый редактор от <a href="https://github.com/atom/atom/releases">GitHub</a>.
+</h2>
+  
+<p>
+  Для того, чтобы ощутить его мощь, рекомендуем воспользоваться установкой дополнительных плагинов, таких как Emmet, позволяющий печатать меньше, делать больше,HTML Preview, позволяющий видеть все вносимые изменения в соседней вкладке, Live Server, позволяющий просматривать внесённые изменения в баузере.
+</p>
+<hr>
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-#### [LICENSE](http://appnee.com/sublime-text-3-universal-license-keys-collection-for-win-mac-linux/) - список лицензий.  
-#### <a name="PluginsST3"></a> Плагины и дополнения  
-- [Package control](https://packagecontrol.io/installation) - Tools => Instal Package Control  
-- Emmet - Плагин для скоростной верстки  
-- [Hayaku](https://habrahabr.ru/post/160057/) - Это сборник полезных скриптов, помогающих при быстрой веб-разработке  
-- Goto-CSS-Declaration - Плагин для быстрого поиска соответствующего класса в CSS, SASS, LESS  
-- [BufferScroll](https://github.com/titoBouzout/BufferScroll) - Сохранение позиции курсора в документе  
-- [CSScomb](http://websketches.ru/plugins/csscomb) - Утилита для сортировки CSS-свойств  				
-- Gist -	Установка GitHub Gist в sublime text 3  
-  ___1. Устанавливаем___  
-    preferences => Package Settings => Gits => Settings-Default  
-    `"token": "<здесь внести номер токена от GitHub>",`  
-    [инструкция для создания токена](https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line)  
-  ___2. Настраиваем комбинацию клавиш___  
-    preferences => Package Settings => Gits => Key Bindings-user  
+<ol>
+  <li><a href="#PluginsAtom">Плагины</a>.</li>
+  <li><a href="#ThemesAtom">Темы оформления</a> редактора.</li>
+  <li><a href="#SettingsAtom">Настройка Atom</a> (файл <code>settings.json</code>).</li>
+</ol>
+<hr>
+
+<ol>
+  <li>Harrix Блог - <a href="http://blog.harrix.org/article/6076">Настройка Atom (full version)</a>. Полная инструкция по установке, настройке, работе с FAQ.</li>
+  <li><a href="https://web.informatics.ru/edtr/atom/">Настройки Atom</a> для Front-end разработки</li>
+</ol>  
+
+<hr>
+<h2 id="ST3">Редактор <a href="https://www.sublimetext.com/">Sublime Text 3</a></h2>
+<p>
+  Легенда. Единственный минус - он условно платный. Легко улучшается до полноценной IDE путём установки дополнений. Чтобы быстро и просто устанавливать дополнения, скачайте <a href="https://packagecontrol.io/installation">Package control</a>.
+</p>
+<hr>
+
+<ol>
+  <li><a href="#PluginsST3">Плагины</a>.</li>
+  <li><a href="#ThemesST3">Темы</a> оформления редактора.</li>
+  <li><a href="#SettingsST3">Настройка</a> Sublime Text 3.</li>
+</ol>
+<hr>
+
+<h3><a href="http://appnee.com/sublime-text-3-universal-license-keys-collection-for-win-mac-linux/">LICENSE</a> - список лицензий.</h3>
+<h3 id="PluginsST3">Плагины и дополнения</h3>
+<ul>
+  <li>
+    <a href="https://packagecontrol.io/installation">Package control</a>. Установка: <code>Tools => Instal Package Control</code>
+  </li>
+  <li>
+    Emmet - Плагин для скоростной верстки
+  </li>
+  <li>
+    <a href="https://habrahabr.ru/post/160057/">Hayaku</a> - Это сборник полезных скриптов, помогающих при быстрой веб-разработке
+  </li>
+  <li>
+    Goto-CSS-Declaration - Плагин для быстрого поиска соответствующего класса в CSS, SASS, LESS
+  </li>
+  <li>
+    <a href="https://github.com/titoBouzout/BufferScroll">BufferScroll</a> - Сохранение позиции курсора в документе
+  </li>
+  <li>
+    <a href=""http://websketches.ru/plugins/csscomb>CSScomb</a> - Утилита для сортировки CSS-свойств
+  </li>			
+  <li>
+    Gist -	Установка GitHub Gist в sublime text 3
+    <ol>
+      <li>
+        Установка:<br>
+        <code>preferences => Package Settings => Gits => Settings-Default</code><br>
+        <code>`"token": "<здесь внести номер токена от GitHub>",`</code><br>
+        <a href="https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line">инструкция</a> для создания токена
+      </li>
+      <li>
+        Настраиваем комбинацию клавиш<br>
+        <code>preferences => Package Settings => Gits => Key Bindings-user</code>
+          <pre>
+[
+  { "keys": ["ctrl+k+i"], "command": "gist" },
+  { "keys": ["ctrl+k", "ctrl+p"], "command": "gist_private" },
+  { "keys": ["ctrl+k", "ctrl+s"], "command": "gist_update_file" },
+  { "keys": ["ctrl+k+o"], "command": "gist_list" },
+  { "keys": ["ctrl+k", "ctrl+["], "command": "insert_gist_list" },
+  { "keys": ["ctrl+k", "ctrl+]"], "command": "gist_add_file" }
+]
+          </pre>
+      </li>
+      <li>3. Об использовании</li>
+      - Если комбинации клавиш настроенна, то для создания gist'а нужно 
+      просто выделить подходящий код и нажать ctrl+k+i, затем указать 
+      подходящее название, что выполняет код и выбрать название файла.  
+      - Чтобы использовать сохраненный ранее gist нужно нажать ctrl+k+o 
+      и выбрать код
+      
+    <li>4. [Ресурс](http://rubycode.ru/sublime-text/70-nastroyka-github-gist-hranenie-i-ispolzovanie-koda.html)</li>
+  </ol> 
+  </li>
+    
+  <li>LiveReload -	Автообновление страницы</li>
+    Для корректной работы плагина LiveReload в Sublime Text 3 необходимо дописать  
+    preferences => Package Settings => LiveReload => Settings-user  
+    следующую конструкцию:  
+    ```
+    {
+      "enabled_plugins": [
+      "SimpleReloadPlugin",
+      "SimpleRefresh"
+      ]
+    }
+    ```  
+  <li>AdvancedNewFile - Плагин позволяет быстро создавать файлы и папки в проекте вашего сайта</li> 
+  <li>[Tag](github.com/sublimetext/tag)	-	Плагин позволяет:</li>
+    * Get CSS Classes (Копирует все классы из файла HTML в буфер обмена)  
+    * Rename (Переназывает выделеный тег)  
+    * Close Tags (Закрывает незакрытые теги)  
+    * Fold Attributes  
+    * Insert as Tag  
+    * Lint Selection or Document  
+    * Auto-Format Tags on Document (Форматирует выделенный код)  
+    * Remove All Tags in Document (Удаляет все теги из файла оставляя только текст)  
+    * Remove All Tags in Selection (Удаляет все теги из выделеного фрагмента)  
+    * Remove Picked Tags in Document (Удаляет выбранные теги из файла)  
+    * Remove Picked Tags in Selection (Удаляет выбранные теги из выделеного фрагмента)  
+    * и другие...  
+  <li>ColorPicker -	плагин для выбора цвета</li>
+    Настроить ColorPicker.sublime-settings  
+    ```
+    {
+      // For upper-case output (#ABCDEF), set "color_upper_case" to true
+      // For lower-case (#abcdef), use false
+      "color_upper_case": false,
+      // Set false to use the default windows colorpicker
+      "win_use_new_picker": false
+    }
+    ```
+    Настроить Default (Windows).sublime-keymap  
     ```
     [
-      { "keys": ["ctrl+k+i"], "command": "gist" },
-      { "keys": ["ctrl+k", "ctrl+p"], "command": "gist_private" },
-      { "keys": ["ctrl+k", "ctrl+s"], "command": "gist_update_file" },
-      { "keys": ["ctrl+k+o"], "command": "gist_list" },
-      { "keys": ["ctrl+k", "ctrl+["], "command": "insert_gist_list" },
-      { "keys": ["ctrl+k", "ctrl+]"], "command": "gist_add_file" }
+      // { "keys": ["ctrl+alt+c"], "command": "pick_color", "args": {} },
+      // { "keys": ["ctrl+alt+shift+c"], "command": "pick_color", "args": {"paste" : "true"} }
+      { "keys": ["ctrl+alt+c"], "command": "pick_color", "args": {"paste" : "true"} }
     ]
-    ```  
-  ___3. Об использовании___  
-    - Если комбинации клавиш настроенна, то для создания gist'а нужно 
-    просто выделить подходящий код и нажать ctrl+k+i, затем указать 
-    подходящее название, что выполняет код и выбрать название файла.  
-    - Чтобы использовать сохраненный ранее gist нужно нажать ctrl+k+o 
-    и выбрать код
+    ```
+  <li>Color Highlighter	-	Плагины подсветки цветов</li>
+    preferences => Package Settings => Color Highlighter => Settings-user  
+    настройка, которая будет показывать превью цвета на фон  
+    ```
+    {
+      "ha_style": "filled" //Важно: кавычки должны быть двойными.
+    }
+    ```
+    Варианты переменной могут быть такими:  
+      * filled (заливка),  
+      * outlined (обводка),  
+      * none,  
+      * underlined (подчёркивание),  
+      * colored text (цвет текста)  
+  <li>[SublimeLinter](https://habrahabr.ru/post/262137/) - Позволяет делать проверку кода наналичие синтаксических ошибок</li>
+  <li>All Autocomplete -	Предлагает вам возможные варианты завершения вводимого текста</li>
+  <li>AutoFileName -	Дополняет код при написании путей до файлов в вёрстке</li>
+  <li>BracketHighlighter - Подсветка скобок, тегов в Sublime Text 3</li>
+  <li>[CSSFontFamily](https://github.com/lcdsantos/CSSFontFamily) - Плагин подсказываетназвание шрифта</li>
+  <li>Minifier - Минификация разметки</li>
+  <li>Jade - Компиляция SASS в Sublime Text 3</li>
+  <li>Sass - Подсветка синтаксиса SASS</li>
+  <li>SideBarEnhancements - Множество дополнительных функций контекстного меню в сайдбаре</li>
+</ul>
     
-  ___4. [Ресурс](http://rubycode.ru/sublime-text/70-nastroyka-github-gist-hranenie-i-ispolzovanie-koda.html)___  
-  
-- LiveReload -	Автообновление страницы  
-  Для корректной работы плагина LiveReload в Sublime Text 3 необходимо дописать  
-  preferences => Package Settings => LiveReload => Settings-user  
-  следующую конструкцию:  
-  ```
-  {
-    "enabled_plugins": [
-    "SimpleReloadPlugin",
-    "SimpleRefresh"
-    ]
-  }
-  ```  
-- AdvancedNewFile - Плагин позволяет быстро создавать файлы и папки в проекте вашего сайта  
-- [Tag](github.com/sublimetext/tag)	-	Плагин позволяет:  
-  * Get CSS Classes (Копирует все классы из файла HTML в буфер обмена)  
-  * Rename (Переназывает выделеный тег)  
-  * Close Tags (Закрывает незакрытые теги)  
-  * Fold Attributes  
-  * Insert as Tag  
-  * Lint Selection or Document  
-  * Auto-Format Tags on Document (Форматирует выделенный код)  
-  * Remove All Tags in Document (Удаляет все теги из файла оставляя только текст)  
-  * Remove All Tags in Selection (Удаляет все теги из выделеного фрагмента)  
-  * Remove Picked Tags in Document (Удаляет выбранные теги из файла)  
-  * Remove Picked Tags in Selection (Удаляет выбранные теги из выделеного фрагмента)  
-  * и другие...  
-- ColorPicker -	плагин для выбора цвета  
-  Настроить ColorPicker.sublime-settings  
-  ```
-  {
-    // For upper-case output (#ABCDEF), set "color_upper_case" to true
-    // For lower-case (#abcdef), use false
-    "color_upper_case": false,
-    // Set false to use the default windows colorpicker
-    "win_use_new_picker": false
-  }
-  ```
-  Настроить Default (Windows).sublime-keymap  
-  ```
-  [
-    // { "keys": ["ctrl+alt+c"], "command": "pick_color", "args": {} },
-    // { "keys": ["ctrl+alt+shift+c"], "command": "pick_color", "args": {"paste" : "true"} }
-    { "keys": ["ctrl+alt+c"], "command": "pick_color", "args": {"paste" : "true"} }
-  ]
-  ```
-- Color Highlighter	-	Плагины подсветки цветов  
-  preferences => Package Settings => Color Highlighter => Settings-user  
-  настройка, которая будет показывать превью цвета на фон  
-  ```
-  {
-    "ha_style": "filled" //Важно: кавычки должны быть двойными.
-  }
-  ```
-  Варианты переменной могут быть такими:  
-    * filled (заливка),  
-    * outlined (обводка),  
-    * none,  
-    * underlined (подчёркивание),  
-    * colored text (цвет текста)  
-- [SublimeLinter](https://habrahabr.ru/post/262137/) - Позволяет делать проверку кода на наличие синтаксических ошибок  
-- All Autocomplete -	Предлагает вам возможные варианты завершения вводимого текста  
-- AutoFileName -	Дополняет код при написании путей до файлов в вёрстке  
-- BracketHighlighter - Подсветка скобок, тегов в Sublime Text 3  
-- [CSSFontFamily](https://github.com/lcdsantos/CSSFontFamily) - Плагин подсказывает название шрифта  
-- Minifier - Минификация разметки  
-- Jade - Компиляция SASS в Sublime Text 3  
-- Sass - Подсветка синтаксиса SASS  
-- SideBarEnhancements - Множество дополнительных функций контекстного меню в сайдбаре  
-  
-#### <a name="ThemesST3"></a> Темы  
-- Theme - Soda - Тема для Sublime Text  
-  ```
-  {
-    "auto_complete": false,
-    "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-    "font_size": 13,
-    "highlight_line": true,
-    "ignored_packages":
-    [
-      "Vintage"
-    ],
-    "line_padding_bottom": 1,
-    "line_padding_top": 1,
-    "margin": 3,
-    "soda_classic_tabs": true,
-    "soda_folder_icons": true,
-    "tab_size": 3,
-    "theme": "Soda Dark 3.sublime-theme"
-  }
-   ```
+  #### <a name="ThemesST3"></a> Темы  
+  - Theme - Soda - Тема для Sublime Text  
+    ```
+    {
+      "auto_complete": false,
+      "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+      "font_size": 13,
+      "highlight_line": true,
+      "ignored_packages":
+      [
+        "Vintage"
+      ],
+      "line_padding_bottom": 1,
+      "line_padding_top": 1,
+      "margin": 3,
+      "soda_classic_tabs": true,
+      "soda_folder_icons": true,
+      "tab_size": 3,
+      "theme": "Soda Dark 3.sublime-theme"
+    }
+     ```
 #### <a name="SettingsST3"></a> Настройки() и горячие клавиши  
 - [Синхронизация настроек](https://packagecontrol.io/docs/syncing) Sublime Text на нескольких ПК  
 1. Переместить папки Data в "облако"  
