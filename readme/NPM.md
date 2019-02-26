@@ -6,7 +6,7 @@
 <h2><a href="https://www.npmjs.com/">NPM</a> (Node Package Manager)</h2>
 <p>менеджер пакетов, входящий в состав <a href="https://nodejs.org/en/">Node.js</a></p>
 <hr>
-<p>С помощью npm-check-updates можно узнать какие зависимости обновились с момента их установки с помощью npm/bower.<br>
+<c>С помощью <code>npm-check-updates</code> можно узнать какие зависимости обновились с момента их установки с помощью npm/bower.<br>
 Устанавливаем:</p>
 <code>$ npm i -g npm-check-updates</code>
 
