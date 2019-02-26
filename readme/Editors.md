@@ -243,151 +243,153 @@
 <hr>
 <h3 id="SettingsVSCode">Настройки редактора <a href="https://code.visualstudio.com/">Visual Studio Code</a></h3>
  ```
-<pre> {</pre>
-<pre>  "files.defaultLanguage": "html",</pre>
-<pre>  "files.autoSave": "onFocusChange",</pre>
-<pre>  "open-in-browser.default": "Chrome",</pre>
-<pre>  "emmet.triggerExpansionOnTab": true,</pre>
-<pre></pre>
-<pre>  "window.menuBarVisibility": "toggle",</pre>
-<pre>  "window.zoomLevel": 0,</pre>
-<pre></pre>
-<pre>  "workbench.startupEditor": "newUntitledFile",</pre>
-<pre>  // "workbench.statusBar.feedback.visible": false,</pre>
-<pre>  "workbench.statusBar.visible": true,</pre>
-<pre>  "workbench.editor.tabSizing": "shrink",</pre>
-<pre>  "workbench.sideBar.location": "left",</pre>
-<pre>  "workbench.colorTheme": "Seti Monokai",</pre>
-<pre>  "workbench.iconTheme": "file-icons",</pre>
-<pre>  "workbench.colorCustomizations": {</pre>
-<pre>    "editorIndentGuide.activeBackground": "#5c5c5c"</pre>
-<pre>  },</pre>
-<pre></pre>
-<pre>  "editor.tabSize": 2,</pre>
-<pre>  // "editor.insertSpaces": false,</pre>
-<pre>  "editor.detectIndentation": false,</pre>
-<pre>  "editor.glyphMargin": false,</pre>
-<pre>  "editor.smoothScrolling": true,</pre>
-<pre>  "editor.multiCursorModifier": "ctrlCmd",</pre>
-<pre>  "editor.formatOnPaste": true,</pre>
-<pre>  "editor.renderWhitespace": "boundary",</pre>
-<pre>  "editor.fontSize": 15,</pre>
-<pre>  "editor.renderLineHighlight": "line",</pre>
-<pre></pre>
-<pre>  // ========== Настройка длины строки ===============</pre>
-<pre>  // Установить перенос строки по достижении края области редактора</pre>
-<pre>  // "editor.wordWrap": "on",</pre>
-<pre>  // Установить ширину строки (символов)</pre>
-<pre>  "editor.wordWrapColumn": 93,</pre>
-<pre>  // Установить перенос строки при достижении установленной ширины</pre>
-<pre>  "editor.wordWrap": "wordWrapColumn",</pre>
-<pre>  // Установить вертикальную линию на границе, установленной ширины</pre>
-<pre>  "editor.rulers": [93],</pre>
-<pre></pre>
-<pre>  // ========== Настройка всплывающих поодсказок =====</pre>
-<pre>  // убирает ВСЕ всплывающие подсказки</pre>
-<pre>  // P.S. Чтобы отобразить подсказки</pre>
-<pre>  // нажать: `ctrl+k ctrl+i` или через поиск `F1 > Show Hover`</pre>
-<pre>  // "editor.hover.enabled": false,</pre>
-<pre>  // убирает всплывающие подсказки в HTML</pre>
-<pre>  // "[html]": {</pre>
-<pre>  //   "editor.hover.enabled": false</pre>
-<pre>  // },</pre>
-<pre>  "editor.quickSuggestions": {</pre>
-<pre>    // "other": false,</pre>
-<pre>    "comments": false,</pre>
-<pre>    "strings": false</pre>
-<pre>  },</pre>
-<pre>  </pre>
-<pre>  // ========== Настройка терминала ==================</pre>
-<pre>  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\bash.exe",</pre>
-<pre>  "shellLauncher.shells.windows": [</pre>
-<pre>    // Для запуска:</pre>
-<pre>    // 	Ctrl+Shift+P ==> Shell launcher</pre>
-<pre>    {</pre>
-<pre>      "shell": "C:\\Windows\\sysnative\\cmd.exe",</pre>
-<pre>      "label": "cmd"</pre>
-<pre>    },</pre>
-<pre>    {</pre>
-<pre>      "shell": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",</pre>
-<pre>      "label": "PowerShell"</pre>
-<pre>    },</pre>
-<pre>    {</pre>
-<pre>      "shell": "C:\\WINDOWS\\System32\\bash.exe",</pre>
-<pre>      "label": "Bash"</pre>
-<pre>    },</pre>
-<pre>    {</pre>
-<pre>      "shell": "D:\\Git\\git-cmd.exe",</pre>
-<pre>      "label": "Git-cmd"</pre>
-<pre>    }</pre>
-<pre>  ],</pre>
-<pre>  </pre>
-<pre>  // ========== PHP ==================================</pre>
-<pre>  "php.suggest.basic": false,</pre>
-<pre>  "php.executablePath": "D:/xampp/php/php.exe",</pre>
-<pre>  "php.validate.executablePath": "D:/xampp/php/php.exe",</pre>
-<pre></pre>
-<pre>  // ========== React.js =============================</pre>
-<pre>  "files.associations": {</pre>
-<pre>    "*.js": "javascriptreact"</pre>
-<pre>  },</pre>
-<pre>  </pre>
-<pre>  "emmet.syntaxProfiles": {</pre>
-<pre>    "javascript": "jsx"</pre>
-<pre>  },</pre>
-<pre>  </pre>
-<pre>  "emmet.includeLanguages": {</pre>
-<pre>    "javascript": "javascriptreact"</pre>
-<pre>  },</pre>
-<pre>  </pre>
-<pre>  "workbench.panel.defaultLocation": "right",</pre>
-<pre>  "breadcrumbs.symbolSortOrder": "type",</pre>
-<pre>  "eslint.validate": [</pre>
-<pre>    "javascript",</pre>
-<pre>    "javascriptreact",</pre>
-<pre>    {</pre>
-<pre>      "language": "html",</pre>
-<pre>      "autoFix": true</pre>
-<pre>    }</pre>
-<pre>  ],</pre>
-<pre>  </pre>
-<pre>  // ========== Live Sass Compile ====================</pre>
-<pre>  "liveSassCompile.settings.generateMap": false,</pre>
-<pre>  "liveSassCompile.settings.excludeList": [</pre>
-<pre>    "**/node_modules/**",</pre>
-<pre>    ".vscode/**"</pre>
-<pre>  ],</pre>
-<pre>  "liveSassCompile.settings.formats": [</pre>
-<pre>    // This is Default.</pre>
-<pre>    // {</pre>
-<pre>    //   "format": "expanded",</pre>
-<pre>    //   "extensionName": ".css",</pre>
-<pre>    //   "savePath": null</pre>
-<pre>    // },</pre>
-<pre>    // You can add more</pre>
-<pre>    {</pre>
-<pre>      "format": "compressed",</pre>
-<pre>      "extensionName": ".css",</pre>
-<pre>      "savePath": "/css"</pre>
-<pre>    },</pre>
-<pre>    // More Complex</pre>
-<pre>    // {</pre>
-<pre>    //   "format": "compressed",</pre>
-<pre>    //   "extensionName": ".min.css",</pre>
-<pre>    //   "savePath": "~/../css/"</pre>
-<pre>    // },</pre>
-<pre>    </pre>
-<pre>    // My settings.</pre>
-<pre>    // {</pre>
-<pre>    //   "format": "expanded",</pre>
-<pre>    //   "extensionName": ".css",</pre>
-<pre>    //   "savePath": "/"</pre>
-<pre>    // },</pre>
-<pre>  ],</pre>
-<pre>  "git.enableSmartCommit": true,</pre>
-<pre>  "git.autofetch": true,</pre>
-<pre>  "git.confirmSync": false,</pre>
-<pre>}</pre>
+<pre>
+  {
+    "files.defaultLanguage": "html",
+    "files.autoSave": "onFocusChange",
+    "open-in-browser.default": "Chrome",
+    "emmet.triggerExpansionOnTab": true,
+  
+    "window.menuBarVisibility": "toggle",
+    "window.zoomLevel": 0,
+  
+    "workbench.startupEditor": "newUntitledFile",
+    // "workbench.statusBar.feedback.visible": false,
+    "workbench.statusBar.visible": true,
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.sideBar.location": "left",
+    "workbench.colorTheme": "Seti Monokai",
+    "workbench.iconTheme": "file-icons",
+    "workbench.colorCustomizations": {
+      "editorIndentGuide.activeBackground": "#5c5c5c"
+    },
+  
+    "editor.tabSize": 2,
+    // "editor.insertSpaces": false,
+    "editor.detectIndentation": false,
+    "editor.glyphMargin": false,
+    "editor.smoothScrolling": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.fontSize": 15,
+    "editor.renderLineHighlight": "line",
+  
+    // ========== Настройка длины строки ===============
+    // Установить перенос строки по достижении края области редактора
+    // "editor.wordWrap": "on",
+    // Установить ширину строки (символов)
+    "editor.wordWrapColumn": 93,
+    // Установить перенос строки при достижении установленной ширины
+    "editor.wordWrap": "wordWrapColumn",
+    // Установить вертикальную линию на границе, установленной ширины
+    "editor.rulers": [93],
+  
+    // ========== Настройка всплывающих поодсказок =====
+    // убирает ВСЕ всплывающие подсказки
+    // P.S. Чтобы отобразить подсказки
+    // нажать: `ctrl+k ctrl+i` или через поиск `F1 > Show Hover`
+    // "editor.hover.enabled": false,
+    // убирает всплывающие подсказки в HTML
+    // "[html]": {
+    //   "editor.hover.enabled": false
+    // },
+    "editor.quickSuggestions": {
+      // "other": false,
+      "comments": false,
+      "strings": false
+    },
+    
+    // ========== Настройка терминала ==================
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\bash.exe",
+    "shellLauncher.shells.windows": [
+      // Для запуска:
+      // 	Ctrl+Shift+P ==> Shell launcher
+      {
+        "shell": "C:\\Windows\\sysnative\\cmd.exe",
+        "label": "cmd"
+      },
+      {
+        "shell": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "label": "PowerShell"
+      },
+      {
+        "shell": "C:\\WINDOWS\\System32\\bash.exe",
+        "label": "Bash"
+      },
+      {
+        "shell": "D:\\Git\\git-cmd.exe",
+        "label": "Git-cmd"
+      }
+    ],
+    
+    // ========== PHP ==================================
+    "php.suggest.basic": false,
+    "php.executablePath": "D:/xampp/php/php.exe",
+    "php.validate.executablePath": "D:/xampp/php/php.exe",
+  
+    // ========== React.js =============================
+    "files.associations": {
+      "*.js": "javascriptreact"
+    },
+    
+    "emmet.syntaxProfiles": {
+      "javascript": "jsx"
+    },
+    
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    
+    "workbench.panel.defaultLocation": "right",
+    "breadcrumbs.symbolSortOrder": "type",
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      {
+        "language": "html",
+        "autoFix": true
+      }
+    ],
+    
+    // ========== Live Sass Compile ====================
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.excludeList": [
+      "**/node_modules/**",
+      ".vscode/**"
+    ],
+    "liveSassCompile.settings.formats": [
+      // This is Default.
+      // {
+      //   "format": "expanded",
+      //   "extensionName": ".css",
+      //   "savePath": null
+      // },
+      // You can add more
+      {
+        "format": "compressed",
+        "extensionName": ".css",
+        "savePath": "/css"
+      },
+      // More Complex
+      // {
+      //   "format": "compressed",
+      //   "extensionName": ".min.css",
+      //   "savePath": "~/../css/"
+      // },
+      
+      // My settings.
+      // {
+      //   "format": "expanded",
+      //   "extensionName": ".css",
+      //   "savePath": "/"
+      // },
+    ],
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+  }
+</pre>
  ```  
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
