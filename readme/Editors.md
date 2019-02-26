@@ -1,4 +1,4 @@
-<p>
+<p style="font-weight: bold;">
   <span>| <a href="https://github.com/vik-vavilikhin/vik-vavilikhin.github.io">HOME</a> |</span>
 </p>
 <p>
