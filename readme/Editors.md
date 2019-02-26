@@ -241,7 +241,7 @@
 </ol>
 
 <hr>
-<h3 id="SettingsVSCode">Настройки редактора <a href="https://code.visualstudio.com/">Visual Studio Code</a></h3>
+<h3 id="SettingsVSCode">Настройки редактора <a href="https://code.visualstudio.com/">Visual Studio Code</a></h3>  
  ```
 {
   "files.defaultLanguage": "html",
