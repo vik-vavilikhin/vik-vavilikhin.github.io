@@ -242,7 +242,7 @@
 
 <hr>
 <h3 id="SettingsVSCode">Настройки редактора <a href="https://code.visualstudio.com/">Visual Studio Code</a></h3>  
-<s>
+<p>
   <span>{</span>
   <span>  "files.defaultLanguage": "html",</span>
   <span>  "files.autoSave": "onFocusChange",</span>
