@@ -39,6 +39,6 @@
   <li>
     <a href="https://www.youtube.com/watch?v=vWfRHtxy81Q&index=17&list=PLyf8LgkO_8q_-ELwz9tlMX8R5gMSRWNto">Джедай вёрстки #7. Проект S&Mitler</a>. 
     (<a href="https://github.com/vik-vavilikhin/S-Mitler">репо</a>, 
-    <a href="https://vik-vavilikhin.github.io/S-Mitler/dist">демо</a>).
+    <a href="https://vik-vavilikhin.github.io/S-Mitler/app">демо</a>).
   </li>
 </ul>
