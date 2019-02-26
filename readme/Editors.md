@@ -1,3 +1,4 @@
+
 <p style="font-weight: bold;">
   <span>| <a href="https://github.com/vik-vavilikhin/vik-vavilikhin.github.io">HOME</a> |</span>
 </p>
@@ -449,7 +450,7 @@
   </li>			
   <li>
     Gist -	Установка GitHub Gist в sublime text 3
-    <ol>
+    <ol style="list-style-type: upper-alpha;">
       <li>
         <i><b>Установка:</b></i><br>
         <code>preferences => Package Settings => Gits => Settings-Default</code><br>
