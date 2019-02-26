@@ -1,30 +1,46 @@
-| [Home](../README.md) |
+<p>
+  <span>| <a href="https://github.com/vik-vavilikhin/vik-vavilikhin.github.io">HOME</a> |</span>
+</p>
+<hr>
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-### [PHP][php] (рекурсивный акроним словосочетания PHP: Hypertext Preprocessor)  
-_Распространенный язык программирования общего назначения с открытым исходным кодом. PHP специально сконструирован для веб-разработок и его код может внедряться непосредственно в HTML._  
+<h2><a href="http://php.net/">PHP</a> (рекурсивный акроним словосочетания PHP: Hypertext Preprocessor)</h2>  
+<p>Распространенный язык программирования общего назначения с открытым исходным кодом. PHP специально сконструирован для веб-разработок и его код может внедряться непосредственно в HTML.</p>
 
-  #### [Yii][php_1]. PHP-фреймворк: быстрый, безопасный и эффективный.
-  ***Установка Yii на OpenServer:***  
-   1. [toster.ru][php_1.1]  
-   2. [web-sprints.ru][php_1.2]  
-   3. [wemarus.ru][php_1.3]  
-   4. [it-stop.ru][php_1.4]  
-   5. [d1mon.com][php_1.5]  
+<h3><a href="https://www.yiiframework.com/">Yii</a>. PHP-фреймворк: быстрый, безопасный и эффективный.</h3>
+<ol>
+  <u><i>Установка Yii на OpenServer:</i></u>
+  <li>
+    <a href="https://toster.ru/q/170497">toster.ru</a>
+  </li>
+  <li>
+    <a href="http://web-sprints.ru/ustanovka-yii2-na-openserver/">web-sprints.ru</a>
+  </li>
+  <li>
+    <a href="http://wemarus.ru/yii-2/319-ustanovka-yii-na-openserver.html">wemarus.ru</a>
+  </li>
+  <li>
+    <a href="https://it-stop.ru/razrabotka-sajtov/ustanovka-yii2-na-openserver/">it-stop.ru</a>
+  </li>
+  <li>
+    <a href="https://d1mon.com/n/1355">d1mon.com</a>
+  </li>
+</ol>
 
-  #### [WordPress][php_2] — свободное программное обеспечение, которое поможет вам создать красивый сайт, блог или веб-приложение.
-   1. **На [WP-Kama][php_2.1] вы найдете:** статьи по веб-разработке преимущественно по WordPress; готовые функции и классы для WordPress; большую коллекцию базовых функции WordPress, с примерами, на русском; список со всеми функциями и хуками WordPress.  
-   2. [Underscores][php_2.2] - создание стартовой темы для WorldPress.  
-   3. [Все о Wordpress][php_2.3]  
-
-[php]: http://php.net/ "PHP"
-[php_1]: https://www.yiiframework.com/ "www.yiiframework.com"
-[php_1.1]: https://toster.ru/q/170497 "toster.ru"
-[php_1.2]: http://web-sprints.ru/ustanovka-yii2-na-openserver/ "web-sprints.ru"
-[php_1.3]: http://wemarus.ru/yii-2/319-ustanovka-yii-na-openserver.html "wemarus.ru"
-[php_1.4]: https://it-stop.ru/razrabotka-sajtov/ustanovka-yii2-na-openserver/ "it-stop.ru"
-[php_1.5]: https://d1mon.com/n/1355 "d1mon.com"
-[php_2]: https://ru.wordpress.org/ "WordPress"
-[php_2.1]: https://wp-kama.ru/ "wp-kama.ru"
-[php_2.2]: http://underscores.me/ "underscores.me"
-[php_2.3]: http://wpnews.ru/ "wpnews.ru"
+<h3><a href="https://ru.wordpress.org/">WordPress</a> — свободное программное обеспечение, которое поможет вам создать красивый сайт, блог или веб-приложение.</h3>
+<ol>
+  <li>
+    <b>На <a href="https://wp-kama.ru/">WP-Kama</a> вы найдете</b>: 
+    <ul>
+      <li>статьи по веб-разработке преимущественно по WordPress;</li>
+      <li>готовые функции и классы для WordPress;</li>
+      <li>большую коллекцию базовых функции WordPress, с примерами, на русском;</li>
+      <li>список со всеми функциями и хуками WordPress.</li>
+    </ul>
+  </li>
+  <li>
+    <a href="http://underscores.me/">Underscores</a> - создание стартовой темы для WorldPress.
+  </li>
+  <li>
+    <a href="http://wpnews.ru/">Все о Wordpress</a>
+  </li>
+</ol>

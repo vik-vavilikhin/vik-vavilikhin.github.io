@@ -1,8 +1,7 @@
-| [Home](../README.md) |
+<p>
+  <span>| <a href="https://github.com/vik-vavilikhin/vik-vavilikhin.github.io">HOME</a> |</span>
+</p>
+<hr>
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-### [NPM][npm] (Node Package Manager)  
-  менеджер пакетов, входящий в состав [Node.js][npm_1]  
-
-[npm]: https://www.npmjs.com/ "NPM"
-[npm_1]: https://nodejs.org/en/ "Node.js"
+<h2><a href="https://www.npmjs.com/">NPM</a> (Node Package Manager)</h2>
+<p>менеджер пакетов, входящий в состав <a href="https://nodejs.org/en/">Node.js</a></p>
