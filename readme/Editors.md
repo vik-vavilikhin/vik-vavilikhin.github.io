@@ -242,153 +242,152 @@
 
 <hr>
 <h3 id="SettingsVSCode">Настройки редактора <a href="https://code.visualstudio.com/">Visual Studio Code</a></h3>  
-<p>
-  
-  {
-    "files.defaultLanguage": "html",
-    "files.autoSave": "onFocusChange",
-    "open-in-browser.default": "Chrome",
-    "emmet.triggerExpansionOnTab": true,
-  
-    "window.menuBarVisibility": "toggle",
-    "window.zoomLevel": 0,
-  
-    "workbench.startupEditor": "newUntitledFile",
-    // "workbench.statusBar.feedback.visible": false,
-    "workbench.statusBar.visible": true,
-    "workbench.editor.tabSizing": "shrink",
-    "workbench.sideBar.location": "left",
-    "workbench.colorTheme": "Seti Monokai",
-    "workbench.iconTheme": "file-icons",
-    "workbench.colorCustomizations": {
-      "editorIndentGuide.activeBackground": "#5c5c5c"
-    },
-  
-    "editor.tabSize": 2,
-    // "editor.insertSpaces": false,
-    "editor.detectIndentation": false,
-    "editor.glyphMargin": false,
-    "editor.smoothScrolling": true,
-    "editor.multiCursorModifier": "ctrlCmd",
-    "editor.formatOnPaste": true,
-    "editor.renderWhitespace": "boundary",
-    "editor.fontSize": 15,
-    "editor.renderLineHighlight": "line",
-  
-    // ========== Настройка длины строки ===============
-    // Установить перенос строки по достижении края области редактора
-    // "editor.wordWrap": "on",
-    // Установить ширину строки (символов)
-    "editor.wordWrapColumn": 93,
-    // Установить перенос строки при достижении установленной ширины
-    "editor.wordWrap": "wordWrapColumn",
-    // Установить вертикальную линию на границе, установленной ширины
-    "editor.rulers": [93],
-  
-    // ========== Настройка всплывающих поодсказок =====
-    // убирает ВСЕ всплывающие подсказки
-    // P.S. Чтобы отобразить подсказки
-    // нажать: `ctrl+k ctrl+i` или через поиск `F1 > Show Hover`
-    // "editor.hover.enabled": false,
-    // убирает всплывающие подсказки в HTML
-    // "[html]": {
-    //   "editor.hover.enabled": false
-    // },
-    "editor.quickSuggestions": {
-      // "other": false,
-      "comments": false,
-      "strings": false
-    },
-    
-    // ========== Настройка терминала ==================
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\bash.exe",
-    "shellLauncher.shells.windows": [
-      // Для запуска:
-      // 	Ctrl+Shift+P ==> Shell launcher
-      {
-        "shell": "C:\\Windows\\sysnative\\cmd.exe",
-        "label": "cmd"
-      },
-      {
-        "shell": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-        "label": "PowerShell"
-      },
-      {
-        "shell": "C:\\WINDOWS\\System32\\bash.exe",
-        "label": "Bash"
-      },
-      {
-        "shell": "D:\\Git\\git-cmd.exe",
-        "label": "Git-cmd"
-      }
-    ],
-    
-    // ========== PHP ==================================
-    "php.suggest.basic": false,
-    "php.executablePath": "D:/xampp/php/php.exe",
-    "php.validate.executablePath": "D:/xampp/php/php.exe",
-  
-    // ========== React.js =============================
-    "files.associations": {
-      "*.js": "javascriptreact"
-    },
-    
-    "emmet.syntaxProfiles": {
-      "javascript": "jsx"
-    },
-    
-    "emmet.includeLanguages": {
-      "javascript": "javascriptreact"
-    },
-    
-    "workbench.panel.defaultLocation": "right",
-    "breadcrumbs.symbolSortOrder": "type",
-    "eslint.validate": [
-      "javascript",
-      "javascriptreact",
-      {
-        "language": "html",
-        "autoFix": true
-      }
-    ],
-    
-    // ========== Live Sass Compile ====================
-    "liveSassCompile.settings.generateMap": false,
-    "liveSassCompile.settings.excludeList": [
-      "**/node_modules/**",
-      ".vscode/**"
-    ],
-    "liveSassCompile.settings.formats": [
-      // This is Default.
-      // {
-      //   "format": "expanded",
-      //   "extensionName": ".css",
-      //   "savePath": null
-      // },
-      // You can add more
-      {
-        "format": "compressed",
-        "extensionName": ".css",
-        "savePath": "/css"
-      },
-      // More Complex
-      // {
-      //   "format": "compressed",
-      //   "extensionName": ".min.css",
-      //   "savePath": "~/../css/"
-      // },
-      
-      // My settings.
-      // {
-      //   "format": "expanded",
-      //   "extensionName": ".css",
-      //   "savePath": "/"
-      // },
-    ],
-    "git.enableSmartCommit": true,
-    "git.autofetch": true,
-    "git.confirmSync": false,
-  }
+<s>
+  <span>{</span>
+  <span>  "files.defaultLanguage": "html",</span>
+  <span>  "files.autoSave": "onFocusChange",</span>
+  <span>  "open-in-browser.default": "Chrome",</span>
+  <span>  "emmet.triggerExpansionOnTab": true,</span>
+  <span>  </span>
+  <span>  "window.menuBarVisibility": "toggle",</span>
+  <span>  "window.zoomLevel": 0,</span>
+  <span></span>
+  <span>  "workbench.startupEditor": "newUntitledFile",</span>
+  <span>  // "workbench.statusBar.feedback.visible": false,</span>
+  <span>  "workbench.statusBar.visible": true,</span>
+  <span>  "workbench.editor.tabSizing": "shrink",</span>
+  <span>  "workbench.sideBar.location": "left",</span>
+  <span>  "workbench.colorTheme": "Seti Monokai",</span>
+  <span>  "workbench.iconTheme": "file-icons",</span>
+  <span>  "workbench.colorCustomizations": {</span>
+  <span>    "editorIndentGuide.activeBackground": "#5c5c5c"</span>
+  <span>  },</span>
+  <span></span>
+  <span>  "editor.tabSize": 2,</span>
+  <span>  // "editor.insertSpaces": false,</span>
+  <span>  "editor.detectIndentation": false,</span>
+  <span>  "editor.glyphMargin": false,</span>
+  <span>  "editor.smoothScrolling": true,</span>
+  <span>  "editor.multiCursorModifier": "ctrlCmd",</span>
+  <span>  "editor.formatOnPaste": true,</span>
+  <span>  "editor.renderWhitespace": "boundary",</span>
+  <span>  "editor.fontSize": 15,</span>
+  <span>  "editor.renderLineHighlight": "line",</span>
+  <span></span>
+  <span>  // ========== Настройка длины строки ===============</span>
+  <span>  // Установить перенос строки по достижении края области редактора</span>
+  <span>  // "editor.wordWrap": "on",</span>
+  <span>  // Установить ширину строки (символов)</span>
+  <span>  "editor.wordWrapColumn": 93,</span>
+  <span>  // Установить перенос строки при достижении установленной ширины</span>
+  <span>  "editor.wordWrap": "wordWrapColumn",</span>
+  <span>  // Установить вертикальную линию на границе, установленной ширины</span>
+  <span>  "editor.rulers": [93],</span>
+  <span></span>
+  <span>  // ========== Настройка всплывающих поодсказок =====</span>
+  <span>  // убирает ВСЕ всплывающие подсказки</span>
+  <span>  // P.S. Чтобы отобразить подсказки</span>
+  <span>  // нажать: `ctrl+k ctrl+i` или через поиск `F1 > Show Hover`</span>
+  <span>  // "editor.hover.enabled": false,</span>
+  <span>  // убирает всплывающие подсказки в HTML</span>
+  <span>  // "[html]": {</span>
+  <span>  //   "editor.hover.enabled": false</span>
+  <span>  // },</span>
+  <span>  "editor.quickSuggestions": {</span>
+  <span>    // "other": false,</span>
+  <span>    "comments": false,</span>
+  <span>    "strings": false</span>
+  <span>  },</span>
+  <span>  </span>
+  <span>  // ========== Настройка терминала ==================</span>
+  <span>  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\bash.exe",</span>
+  <span>  "shellLauncher.shells.windows": [</span>
+  <span>    // Для запуска:</span>
+  <span>    // 	Ctrl+Shift+P ==> Shell launcher</span>
+  <span>    {</span>
+  <span>      "shell": "C:\\Windows\\sysnative\\cmd.exe",</span>
+  <span>      "label": "cmd"</span>
+  <span>    },</span>
+  <span>    {</span>
+  <span>      "shell": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",</span>
+  <span>      "label": "PowerShell"</span>
+  <span>    },</span>
+  <span>    {</span>
+  <span>      "shell": "C:\\WINDOWS\\System32\\bash.exe",</span>
+  <span>      "label": "Bash"</span>
+  <span>    },</span>
+  <span>    {</span>
+  <span>      "shell": "D:\\Git\\git-cmd.exe",</span>
+  <span>      "label": "Git-cmd"</span>
+  <span>    }</span>
+  <span>  ],</span>
+  <span>  </span>
+  <span>  // ========== PHP ==================================</span>
+  <span>  "php.suggest.basic": false,</span>
+  <span>  "php.executablePath": "D:/xampp/php/php.exe",</span>
+  <span>  "php.validate.executablePath": "D:/xampp/php/php.exe",</span>
+  <span></span>
+  <span>  // ========== React.js =============================</span>
+  <span>  "files.associations": {</span>
+  <span>    "*.js": "javascriptreact"</span>
+  <span>  },</span>
+  <span>  </span>
+  <span>  "emmet.syntaxProfiles": {</span>
+  <span>    "javascript": "jsx"</span>
+  <span>  },</span>
+  <span>  </span>
+  <span>  "emmet.includeLanguages": {</span>
+  <span>    "javascript": "javascriptreact"</span>
+  <span>  },</span>
+  <span>  </span>
+  <span>  "workbench.panel.defaultLocation": "right",</span>
+  <span>  "breadcrumbs.symbolSortOrder": "type",</span>
+  <span>  "eslint.validate": [</span>
+  <span>    "javascript",</span>
+  <span>    "javascriptreact",</span>
+  <span>    {</span>
+  <span>      "language": "html",</span>
+  <span>      "autoFix": true</span>
+  <span>    }</span>
+  <span>  ],</span>
+  <span>  </span>
+  <span>  // ========== Live Sass Compile ====================</span>
+  <span>  "liveSassCompile.settings.generateMap": false,</span>
+  <span>  "liveSassCompile.settings.excludeList": [</span>
+  <span>    "**/node_modules/**",</span>
+  <span>    ".vscode/**"</span>
+  <span>  ],</span>
+  <span>  "liveSassCompile.settings.formats": [</span>
+  <span>    // This is Default.</span>
+  <span>    // {</span>
+  <span>    //   "format": "expanded",</span>
+  <span>    //   "extensionName": ".css",</span>
+  <span>    //   "savePath": null</span>
+  <span>    // },</span>
+  <span>    // You can add more</span>
+  <span>    {</span>
+  <span>      "format": "compressed",</span>
+  <span>      "extensionName": ".css",</span>
+  <span>      "savePath": "/css"</span>
+  <span>    },</span>
+  <span>    // More Complex</span>
+  <span>    // {</span>
+  <span>    //   "format": "compressed",</span>
+  <span>    //   "extensionName": ".min.css",</span>
+  <span>    //   "savePath": "~/../css/"</span>
+  <span>    // },</span>
+  <span>    </span>
+  <span>    // My settings.</span>
+  <span>    // {</span>
+  <span>    //   "format": "expanded",</span>
+  <span>    //   "extensionName": ".css",</span>
+  <span>    //   "savePath": "/"</span>
+  <span>    // },</span>
+  <span>  ],</span>
+  <span>  "git.enableSmartCommit": true,</span>
+  <span>  "git.autofetch": true,</span>
+  <span>  "git.confirmSync": false,</span>
+  <span>}</span>
 </p>
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
