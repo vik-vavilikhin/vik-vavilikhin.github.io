@@ -449,16 +449,16 @@
   </li>			
   <li>
     Gist -	Установка GitHub Gist в sublime text 3
-    <ol>
-      <li>
-        Установка:<br>
-        <code>preferences => Package Settings => Gits => Settings-Default</code><br>
-        <code>`"token": "<здесь внести номер токена от GitHub>",`</code><br>
-        <a href="https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line">инструкция</a> для создания токена
-      </li>
-      <li>
-        Настраиваем комбинацию клавиш<br>
-        <code>preferences => Package Settings => Gits => Key Bindings-user</code>
+  <ol>
+  <li>
+    <i><b>Установка:</b></i><br>
+    <code>preferences => Package Settings => Gits => Settings-Default</code><br>
+    <code>`"token": "<здесь внести номер токена от GitHub>",`</code><br>
+    <a href="https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line">инструкция</a> для создания токена
+  </li>
+  <li>
+    <i><b>Настраиваем комбинацию клавиш</b></i><br>
+    <code>preferences => Package Settings => Gits => Key Bindings-user</code>
 <pre>
 [
   { "keys": ["ctrl+k+i"], "command": "gist" },
@@ -469,39 +469,41 @@
   { "keys": ["ctrl+k", "ctrl+]"], "command": "gist_add_file" }
 ]
 </pre>
-      </li>
+  </li>
+  <li>
+    <i><b>Об использовании</b></i>
+    <ul>
       <li>
-        Об использовании
-        <ul>
-          <li>
-            Если комбинации клавиш настроенна, то для создания gist'а нужно 
-            просто выделить подходящий код и нажать <code>ctrl+k+i</code>, затем указать 
-            подходящее название, что выполняет код и выбрать название файла.
-          </li>  
-          <li>
-            Чтобы использовать сохраненный ранее gist нужно нажать <code>ctrl+k+o</code> 
-            и выбрать код
-          </li>
-        </ul>
-      </li>
+        Если комбинации клавиш настроенна, то для создания gist'а нужно 
+        просто выделить подходящий код и нажать <code>ctrl+k+i</code>, затем указать 
+        подходящее название, что выполняет код и выбрать название файла.
+      </li>  
       <li>
-        <a href="http://rubycode.ru/sublime-text/70-nastroyka-github-gist-hranenie-i-ispolzovanie-koda.html">Установка GitHub Gist</a>
+        Чтобы использовать сохраненный ранее gist нужно нажать <code>ctrl+k+o</code> 
+        и выбрать код
       </li>
+    </ul>
+  </li>
+  <li>
+    <a href="http://rubycode.ru/sublime-text/70-nastroyka-github-gist-hranenie-i-ispolzovanie-koda.html"><i><b>Установка GitHub Gist</b></i></a>
+  </li>
   </ol> 
   </li>
     
-  <li>LiveReload -	Автообновление страницы</li>
-    Для корректной работы плагина LiveReload в Sublime Text 3 необходимо дописать  
-    preferences => Package Settings => LiveReload => Settings-user  
-    следующую конструкцию:  
-    ```
-    {
-      "enabled_plugins": [
-      "SimpleReloadPlugin",
-      "SimpleRefresh"
-      ]
-    }
-    ```  
+  <li>
+    LiveReload -	Автообновление страницы<br>
+    Для корректной работы плагина LiveReload в Sublime Text 3 необходимо дописать<br>  
+    <code>preferences => Package Settings => LiveReload => Settings-user</code><br> 
+    следующую конструкцию:
+<pre>
+{
+  "enabled_plugins": [
+  "SimpleReloadPlugin",
+  "SimpleRefresh"
+  ]
+}
+</pre>
+  </li>
   <li>AdvancedNewFile - Плагин позволяет быстро создавать файлы и папки в проекте вашего сайта</li> 
   <li>[Tag](github.com/sublimetext/tag)	-	Плагин позволяет:</li>
     * Get CSS Classes (Копирует все классы из файла HTML в буфер обмена)  
