@@ -242,16 +242,16 @@
 
 <hr>
 <h3 id="SettingsVSCode">Настройки редактора <a href="https://code.visualstudio.com/">Visual Studio Code</a></h3>
-<pre>
+ ```
 {
   "files.defaultLanguage": "html",
   "files.autoSave": "onFocusChange",
   "open-in-browser.default": "Chrome",
   "emmet.triggerExpansionOnTab": true,
-  
+
   "window.menuBarVisibility": "toggle",
   "window.zoomLevel": 0,
-  
+
   "workbench.startupEditor": "newUntitledFile",
   // "workbench.statusBar.feedback.visible": false,
   "workbench.statusBar.visible": true,
@@ -262,7 +262,7 @@
   "workbench.colorCustomizations": {
     "editorIndentGuide.activeBackground": "#5c5c5c"
   },
-  
+
   "editor.tabSize": 2,
   // "editor.insertSpaces": false,
   "editor.detectIndentation": false,
@@ -273,7 +273,7 @@
   "editor.renderWhitespace": "boundary",
   "editor.fontSize": 15,
   "editor.renderLineHighlight": "line",
-  
+
   // ========== Настройка длины строки ===============
   // Установить перенос строки по достижении края области редактора
   // "editor.wordWrap": "on",
@@ -388,7 +388,7 @@
   "git.autofetch": true,
   "git.confirmSync": false,
 }
-</pre>
+ ```  
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ### <a name="Atom"></a> [Редактор Atom](https://atom.io/) - бесплатный, кросплатформенный текстовый редактор от [GitHub](https://github.com/atom/atom/releases).  
