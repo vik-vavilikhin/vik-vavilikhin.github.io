@@ -1,15 +1,17 @@
 <p>
   <span>| <a href="readme/Editors.md">Редакторы</a> </span>
-  <span>| <a href="readme/Bootstrap.md">Bootstrap</a> </span>
-  <span>| <a href="readme/Sass.md">Sass/Scss</a> </span>
+  <!-- <span>| <a href="readme/Bootstrap.md">Bootstrap</a> </span> -->
+  <span>| <a href="readme/NPM.md">NPM</a> </span>
   <span>| <a href="readme/БЭМ.md">БЭМ</a> </span>
+  <span>| <a href="readme/Git.md">Git</a> </span>
+
+  <span>| <a href="readme/HTML-CSS.md">HTML/CSS</a> </span>
+  <span>| <a href="readme/Sass.md">Sass/Scss</a> </span>
+  <span>| <a href="readme/JavaScript.md">JavaScript</a> </span>
   <span>| <a href="readme/JADE-PUG.md">JADE/PUG</a> </span>
   <span>| <a href="readme/PHP.md">PHP</a> </span>
-  <span>| <a href="readme/NPM.md">NPM</a> </span>
-  <span>| <a href="readme/JavaScript.md">JavaScript</a> </span>
   <span>| <a href="readme/markdown.md">markdown</a> </span>
-  <span>| <a href="readme/Git.md">Git</a> </span>
-  <span>| <a href="readme/HTML-CSS.md">HTML/CSS</a> </span>
+  
   <span>| <a href="readme/Useful.md">Полезняшки</a> </span>
   |
 </p> 
