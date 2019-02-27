@@ -32,6 +32,9 @@
       <li>
         <a href="http://dimsemenov.com/plugins/magnific-popup/">Magnific-popup</a> - слайдер с фотографиями и всплывающими окнами
       </li>
+      <li>
+        <a href="https://mmenujs.com/">Mmenu</a> - Меню для смартфона, планшета и рабочего стола
+      </li>
     </ul>
   </li>
 </ul>

@@ -453,7 +453,7 @@
       <li>
         <i><b>Установка:</b></i><br>
         <code>preferences => Package Settings => Gits => Settings-Default</code><br>
-        <code>`"token": "<здесь внести номер токена от GitHub>",`</code><br>
+        <code>"token": "<здесь внести номер токена от GitHub>"</code><br>
         <a href="https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line">инструкция</a> для создания токена
       </li>
       <li>
