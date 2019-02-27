@@ -5,10 +5,12 @@
   <span>| <a href="#VSCode">VS Code</a> </span>
   <span>| <a href="#Atom">Atom</a> </span>
   <span>| <a href="#ST3">Sublime Text</a> </span>
+  <span>| <a href="#PhpStorm">PhpStorm</a> </span>
   |
 </p>
 
 <hr>
+<!-- ----------------------------------------------------------- -->
 <h2 id="VSCode">Редактор <a href="https://code.visualstudio.com/">Visual Studio Code</a></h2>
 <ol>
   <li><a href="#PluginsVSCode">Плагины</a>.</li>
@@ -224,6 +226,7 @@
 </ol>
 
 <hr>
+<!-- ----------------------------------------------------------- -->
 <h2 id="ThemesVSCode"><a href="https://marketplace.visualstudio.com/search?term=theme&target=VSCode&category=All%20categories&sortBy=Relevance">Темы оформления</a> для <a href="https://code.visualstudio.com/">Visual Studio Code</a></h2>
 
 <ol>
@@ -241,6 +244,7 @@
 </ol>
 
 <hr>
+<!-- ----------------------------------------------------------- -->
 <h3 id="SettingsVSCode">Настройки редактора <a href="https://code.visualstudio.com/">Visual Studio Code</a></h3>  
 
 <pre>
@@ -392,33 +396,38 @@
 </pre>
   
 <hr>
+<!-- ----------------------------------------------------------- -->
 <h2 id="Atom">Редактор <a href="https://atom.io/">Atom</a> - бесплатный, кросплатформенный текстовый редактор от <a href="https://github.com/atom/atom/releases">GitHub</a>.
 </h2>
   
 <p>
   Для того, чтобы ощутить его мощь, рекомендуем воспользоваться установкой дополнительных плагинов, таких как Emmet, позволяющий печатать меньше, делать больше,HTML Preview, позволяющий видеть все вносимые изменения в соседней вкладке, Live Server, позволяющий просматривать внесённые изменения в баузере.
 </p>
-<hr>
 
+<hr>
+<!-- ----------------------------------------------------------- -->
 <ol>
   <li><a href="#PluginsAtom">Плагины</a>.</li>
   <li><a href="#ThemesAtom">Темы оформления</a> редактора.</li>
-  <li><a href="#SettingsAtom">Настройка Atom</a> (файл <code>settings.json</code>).</li>
+  <li><a href="#SettingsAtom">Настройка Atom</a></li>
 </ol>
-<hr>
 
+<hr>
+<!-- ----------------------------------------------------------- -->
 <ol>
   <li>Harrix Блог - <a href="http://blog.harrix.org/article/6076">Настройка Atom (full version)</a>. Полная инструкция по установке, настройке, работе с FAQ.</li>
   <li><a href="https://web.informatics.ru/edtr/atom/">Настройки Atom</a> для Front-end разработки</li>
 </ol>  
 
 <hr>
+<!-- ----------------------------------------------------------- -->
 <h2 id="ST3">Редактор <a href="https://www.sublimetext.com/">Sublime Text 3</a></h2>
 <p>
   Легенда. Единственный минус - он условно платный. Легко улучшается до полноценной IDE путём установки дополнений. Чтобы быстро и просто устанавливать дополнения, скачайте <a href="https://packagecontrol.io/installation">Package control</a>.
 </p>
-<hr>
 
+<hr>
+<!-- ----------------------------------------------------------- -->
 <ol>
   <li><a href="#PluginsST3">Плагины</a>.</li>
   <li><a href="#ThemesST3">Темы</a> оформления редактора.</li>
@@ -652,3 +661,13 @@
 </pre>
   </li>
 </ul>
+
+<hr>
+<!-- ----------------------------------------------------------- -->
+<h2 id="#PhpStorm">Редактор <a href="https://www.jetbrains.com/phpstorm/">PhpStorm</a></h2>
+<ol>
+  <li><a href="#PluginsPhpStorm">Плагины</a>.</li>
+  <li><a href="#ThemesPhpStorm">Темы оформления редактора</a>.</li>
+  <li><a href="#SettingsPhpStorm">Настройка PhpStorm</a></li>
+</ol>
+<hr>
