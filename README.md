@@ -4,7 +4,9 @@
   | <a href="readme/БЭМ.md">БЭМ</a>
   | <a href="readme/Git.md">Git</a>
   |
+</p>
 
+<p>
   <!-- | <a href="readme/Bootstrap.md">Bootstrap</a> -->
   | <a href="readme/HTML-CSS.md">HTML/CSS</a>
   | <a href="readme/Sass.md">Sass/Scss</a>
@@ -13,7 +15,9 @@
   | <a href="readme/PHP.md">PHP</a>
   | <a href="readme/markdown.md">markdown</a>
   |
-  
+<p>
+
+<p>
   | <a href="readme/Useful.md">Полезняшки</a>
   |
 </p> 
