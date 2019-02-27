@@ -6,12 +6,12 @@
 <h2><a href="https://www.npmjs.com/">NPM</a> (Node Package Manager)</h2>
 <p>менеджер пакетов, входящий в состав <a href="https://nodejs.org/en/">Node.js</a></p>
 <hr>
-<c>С помощью <code>npm-check-updates</code> можно узнать какие зависимости обновились с момента их установки с помощью npm/bower.<br>
+<p>С помощью <code>npm-check-updates</code> можно узнать какие зависимости обновились с момента их установки с помощью npm/bower.<br>
 Устанавливаем:</p>
 <code>$ npm i -g npm-check-updates</code>
 
 <p>И проверяем что в package.json устарело:</p>
-<code>$ ncu</code>
+<code>$ ncu</code><br>
 <pre>
 # async          ^1.4.2  →  ^2.0.0-rc.2
 # cheerio       ^0.19.0  →      ^0.20.0
@@ -24,14 +24,14 @@
 </pre>
 
 <p>Проверяем что есть нового для bower.json:</p>
-<code>$ ncu -m bower</code>
+<code>$ ncu -m bower</code><br>
 <pre>
 # angular  ~1.4.9  →  ~1.5.3
 #
 # Run with -u to upgrade bower.json
 </pre>
 
-<c>Обновить версии пакетов в package.json/bower.json можно ключом <code>-u</code> (Windows), <code>-a</code> (Linux):</p>
+<p>Обновить версии пакетов в package.json/bower.json можно ключом <code>-u</code> (Windows), <code>-a</code> (Linux):</p>
 <pre>
   $ ncu -u
   $ ncu -m bower -u
