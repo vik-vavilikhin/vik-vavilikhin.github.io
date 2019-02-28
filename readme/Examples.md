@@ -29,5 +29,6 @@
 <ul>
   <li>MenuCSS - меню на чистом CSS.  
     (<a href="https://github.com/vik-vavilikhin/MenuCSS">репо</a>, 
-    <a href="https://vik-vavilikhin.github.io/MenuCSS/dist/">демо</a>).</li>
+    <a href="https://vik-vavilikhin.github.io/MenuCSS/dist/">демо</a>).
+  </li>
 </ul>
