@@ -1,8 +1,9 @@
 <p>
   <span>| <a href="https://github.com/vik-vavilikhin/vik-vavilikhin.github.io">HOME</a> |</span>
 </p>
-<hr>
 
+<hr>
+<!-- ----------------------------------------------------------- -->
 <h2><a href="https://ru.wikipedia.org/wiki/JavaScript">JavaScript</a></h2> 
 <h3>Учебники и справочники:</h3>
 <ul>
