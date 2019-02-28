@@ -7,7 +7,6 @@
 </p>
 
 <p>
-  <!-- | <a href="readme/Bootstrap.md">Bootstrap</a> -->
   | <a href="readme/HTML-CSS.md">HTML/CSS</a>
   | <a href="readme/Sass.md">Sass/Scss</a>
   | <a href="readme/JavaScript.md">JavaScript</a>
