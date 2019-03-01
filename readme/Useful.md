@@ -29,6 +29,21 @@
   <li><a href="http://fontello.com/">Fontello</a> - on-line библиотека иконочных шрифтов. <sub><i><a href="https://webref.ru/layout/font-awesome/fontello">Сборка шрифтов</a> нструкция по использованию.</i></li></sub>
 </ul>
 
+<i>Таблица насыщенности шрифтов <code>font-weight</code></i>
+<!-- ``` -->
+ Weight |           Name            |
+:------:|:--------------------------|
+100     | Thin (Hairline)           |
+200     | Extra Light (Ultra Light) |
+300     | Light                     |
+400     | Normal                    |
+500     | Medium                    |
+600     | Semi Bold (Demi Bold)     |
+700     | Bold                      |
+800     | Extra Bold (Ultra Bold)   |
+900     | Black (Heavy)             |
+<!-- ``` -->
+
 <h3>Набор программ для работы со шрифтами</h3>
 <ul>
   <strong><u><a href="https://fontmassive.com/">FontMassive Pack</a> - Официальная траница.</u></strong>
