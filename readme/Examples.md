@@ -25,6 +25,14 @@
     <a href="https://vik-vavilikhin.github.io/S-Mitler/app">демо</a>).</li>
 </ul>
 
+<h3>Prizm</h3>
+<ul>
+  <li>Prizm 
+    (<a href="https://github.com/vik-vavilikhin/Prizm">репозиторий</a>, 
+    <a href="https://vik-vavilikhin.github.io/Prizm/app">демо</a>).</li>
+</ul>
+
+
 <h3>Блоки. Элементы. Модификаторы</h3>
 <ul>
   <li>MenuCSS - меню на чистом CSS.  
