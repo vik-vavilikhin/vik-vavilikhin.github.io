@@ -74,6 +74,12 @@
   <li><a href="https://www.vectorizer.io/">Vectorizer</a>. Преобразование растровых изображений, таких как PNG, BMP и JPEG, в масштабируемую векторную графику (SVG)</li>
   <br><!-- ==================== -->
   <li><a href="http://instant-eyedropper.com/">Instant Eyedropper</a>. Бесплатный инструмент для определения цвета для веб-мастеров, который распознает и автоматически вставляет в буфер обмена HTML-код цвета любого пикселя на экране одним щелчком мыши.</li>
+  <li><u>Бесплатные фотографии</u>
+    <ul>
+      <li><a href="https://stocksnap.io/">StockSnap.io</a></li>
+      <li><a href="https://www.freepik.com/">freepik</a></li>
+    </ul>
+  </li>
 </ul>
 
 <hr>
