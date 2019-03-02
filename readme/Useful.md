@@ -38,13 +38,12 @@ _Таблица насыщенности шрифтов `font-weight`_
 
 ### Набор программ для работы со шрифтами
 **<u>[FontMassive Pack](https://fontmassive.com/) - Официальная траница.</u>**
-<li><a href="https://fontmassive.com/fm.php">FontMassive</a> - Менеджер шрифтов. Просмотр начертаний в едином списке.</li>
-<li><a href="https://fontmassive.com/fd.php">FontDerect</a> - Распознавание шрифтов на изображении.</li>
-<li><a href="https://fontmassive.com/ft.php">FontTemp</a> - Временная установка шрифтов.</li>
+- [FontMassive](https://fontmassive.com/fm.php) - Менеджер шрифтов. Просмотр начертаний в едином списке.
+- [FontDerect](https://fontmassive.com/fd.php) - Распознавание шрифтов на изображении.
+- [FontTemp](https://fontmassive.com/ft.php) - Временная установка шрифтов.
 
-<hr>
-<!-- ----------------------------------------------------------- -->
-<h2>Работа с графикой</h2>
+-------------------------------------------------------------------------------------------
+## Работа с графикой
 <ul>
   <li><u><a href="http://www.adobe.com/ru/products/photoshop.html">Adobe Photoshop CC</a></u>
     <ul>
