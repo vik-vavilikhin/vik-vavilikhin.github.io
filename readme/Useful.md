@@ -22,30 +22,25 @@ _Таблица насыщенности шрифтов `font-weight`_
 800     | Extra Bold (Ultra Bold)   |
 900     | Black (Heavy)             |
 <!-- ``` -->
+- [Transfonter](https://transfonter.org/) - on-line конвертор шрифтов.
+- [Online Font Converter](https://onlinefontconverter.com/) - on-line конвертор шрифтов.
+<!-- ==================== -->
+- [dafontFREE.net](https://www.dafontfree.net/) - on-line библиотека шрифтов.
+- [Google Fonts](https://fonts.google.com/) - on-line библиотека шрифтов.
+- [ALLFONT.RU](http://allfont.ru/) - on-line библиотека шрифтов.
+- [Fonts4web](http://fonts4web.ru/) - русские шрифты.
+- [ph4](https://www.ph4.ru/fonts_fonts.php?ja=19b#) - русские TrueType шрифты.
+- [Фонтов.нет](http://www.fontov.net/) - Подбор шрифта по фразе.
+<!-- ==================== -->
+- [Font Awesome](https://fontawesome.com/) - on-line библиотека иконочных шрифтов.
+- [Fontello](http://fontello.com/) - on-line библиотека иконочных шрифтов.
+  <sub>_[Сборка шрифтов](https://webref.ru/layout/font-awesome/fontello) нструкция по использованию._</sub>
 
-<ul>
-  <li><a href="https://transfonter.org/">Transfonter</a> - on-line конвертор шрифтов.</li>
-  <li><a href="https://onlinefontconverter.com/">Online Font Converter</a> - on-line конвертор шрифтов.</li>
-  <br><!-- ==================== -->
-  <li><a href="https://www.dafontfree.net/">dafontFREE.net</a> - on-line библиотека шрифтов.</li>
-  <li><a href="https://fonts.google.com/">Google Fonts</a> - on-line библиотека шрифтов.</li>
-  <li><a href="http://allfont.ru/">ALLFONT.RU</a> - on-line библиотека шрифтов.</li>
-  <li><a href="http://fonts4web.ru/">Fonts4web</a> - русские шрифты.</li>
-  <li><a href="https://www.ph4.ru/fonts_fonts.php?ja=19b#">ph4</a> - русские TrueType шрифты.</li>
-  <li><a href="http://www.fontov.net/">Фонтов.нет</a> - Подбор шрифта по фразе.</li>
-  <br><!-- ==================== -->
-  <li><a href="https://fontawesome.com/">Font Awesome</a> - on-line библиотека иконочных шрифтов.</li>
-  <li><a href="http://fontello.com/">Fontello</a> - on-line библиотека иконочных шрифтов. <sub><i><a href="https://webref.ru/layout/font-awesome/fontello">Сборка шрифтов</a> нструкция по использованию.</i></li></sub>
-</ul>
-
-
-<h3>Набор программ для работы со шрифтами</h3>
-<ul>
-  <strong><u><a href="https://fontmassive.com/">FontMassive Pack</a> - Официальная траница.</u></strong>
-  <li><a href="https://fontmassive.com/fm.php">FontMassive</a> - Менеджер шрифтов. Просмотр начертаний в едином списке.</li>
-  <li><a href="https://fontmassive.com/fd.php">FontDerect</a> - Распознавание шрифтов на изображении.</li>
-  <li><a href="https://fontmassive.com/ft.php">FontTemp</a> - Временная установка шрифтов.</li>
-</ul>
+### Набор программ для работы со шрифтами
+**<u>[FontMassive Pack](https://fontmassive.com/) - Официальная траница.</u>**
+<li><a href="https://fontmassive.com/fm.php">FontMassive</a> - Менеджер шрифтов. Просмотр начертаний в едином списке.</li>
+<li><a href="https://fontmassive.com/fd.php">FontDerect</a> - Распознавание шрифтов на изображении.</li>
+<li><a href="https://fontmassive.com/ft.php">FontTemp</a> - Временная установка шрифтов.</li>
 
 <hr>
 <!-- ----------------------------------------------------------- -->
