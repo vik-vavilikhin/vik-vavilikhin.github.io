@@ -1,21 +1,14 @@
-<p>
-  <span>| <a href="https://github.com/vik-vavilikhin/vik-vavilikhin.github.io">HOME</a> |</span>
-</p>
+| [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) |
 
-<hr>
-<!-- ----------------------------------------------------------- -->
-<h2>on-line генераторы</h2>
-<ul>
-  <li><a href="https://www.css-gradient.com/">AngryTools.com</a> - предлагает бесплатные онлайн-инструменты для веб-разработки и мобильных приложений.</li>
-  <li>CSS <a href="https://www.css-gradient.com/">Gradient generator</a> - генератор градиента</li>
-  <li><a href="https://uigradients.com/#GrapefruitSunset">uiGradients</a> - генератор градиента</li>
-</ul>  
+-------------------------------------------------------------------------------------------
+## on-line генераторы  
+- [AngryTools.com](https://www.css-gradient.com/) - предлагает бесплатные онлайн-инструменты для веб-разработки и мобильных приложений.
+- CSS [Gradient generator](https://www.css-gradient.com/) - генератор градиента
+- [uiGradients](https://uigradients.com/#GrapefruitSunset) - генератор градиента
 
-<hr>
-<!-- ----------------------------------------------------------- -->
-<h2>Шрифты</h2>
-
-_Таблица насыщенности шрифтов <code>font-weight</code>_
+-------------------------------------------------------------------------------------------
+## Шрифты
+_Таблица насыщенности шрифтов `font-weight`_
 <!-- ``` -->
  Weight |           Name            |
 :------:|:--------------------------|
