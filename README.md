@@ -1,27 +1,19 @@
-<p>
-  | <a href="readme/Editors.md">Редакторы</a>
-  | <a href="readme/NPM.md">NPM</a>
-  | <a href="readme/БЭМ.md">БЭМ</a>
-  | <a href="readme/Git.md">Git</a>
-  |
-</p>
+| [Редакторы](readme/Editors.md)
+| [NPM](readme/NPM.md)
+| [БЭМ](readme/БЭМ.md)
+| [Git](readme/Git.md)
+|
 
-<p>
-  | <a href="readme/HTML-CSS.md">HTML/CSS</a>
-  | <a href="readme/Sass.md">Sass/Scss</a>
-  | <a href="readme/JavaScript.md">JavaScript</a>
-  | <a href="readme/JADE-PUG.md">JADE/PUG</a>
-  | <a href="readme/PHP.md">PHP</a>
-  | <a href="readme/markdown.md">markdown</a>
-  |
-<p>
+| [HTML/CSS](readme/HTML-CSS.md)
+| [Sass/Scss](readme/Sass.md)
+| [JavaScript](readme/JavaScript.md)
+| [JADE/PUG](readme/JADE-PUG.md)
+| [PHP](readme/PHP.md)
+| [markdown](readme/markdown.md)
+|
 
-<p>
-  | <a href="readme/Useful.md">Полезняшки</a>
-  |
-</p> 
+| [Полезняшки](readme/Useful.md)
+|
 
-<p>
-  | <a href="readme/Examples.md">Примеры работ</a>
-  |
-</p> 
+| [Примеры работ](readme/Examples.md)
+|
