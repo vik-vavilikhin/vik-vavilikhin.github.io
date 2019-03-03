@@ -1,42 +1,29 @@
-<p>
-  <span>| <a href="https://github.com/vik-vavilikhin/vik-vavilikhin.github.io">HOME</a> |</span>
-</p>
+| [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) |
 
-<hr>
-<!-- ----------------------------------------------------------- -->
-<h3><a href="https://glo-academy.ru/frontenddeveloper/">АКАДЕМИЯ ВЕРСТКИ</a></h3>
-<ul>
-  <li><a href="https://www.youtube.com/watch?v=NHB0OJg9CMU">Интенсив по JS</a> 
-    (<a href="https://github.com/vik-vavilikhin/IntensiveJS">репозиторий</a>, 
-    <a href="https://vik-vavilikhin.github.io/IntensiveJS/">демо</a>).</li>
-  <li><a href="https://study.up-skills.ru/teach/control/stream/view/id/6290544">Веб-разработчик 10.0</a> 
-    (<a href="https://github.com/vik-vavilikhin/WebMaster10">репозиторий</a>, 
-    <a href="https://vik-vavilikhin.github.io/WebMaster10/in-work/dist/">демо-1</a>,
-    <a href="https://vik-vavilikhin.github.io/WebMaster10/video_50/dist/">демо-2</a>).</li>
-</ul>
+-------------------------------------------------------------------------------------------
+### [Академия верстки](https://glo-academy.ru/frontenddeveloper/)
+- [Интенсив по JS](https://www.youtube.com/watch?v=NHB0OJg9CMU)
+  ([репозиторий](https://github.com/vik-vavilikhin/IntensiveJS),
+  [демо](https://vik-vavilikhin.github.io/IntensiveJS/)).
+- [Веб-разработчик 10.0](https://study.up-skills.ru/teach/control/stream/view/id/6290544)
+  ([репозиторий](https://github.com/vik-vavilikhin/WebMaster10),
+  [демо-1](https://vik-vavilikhin.github.io/WebMaster10/in-work/dist/),
+  [демо-2](https://vik-vavilikhin.github.io/WebMaster10/video_50/dist/)).
   
-<h3><a href="https://webdesign-master.ru/">WebDesign Master. Уроки создания сайтов</a></h3>
-<ul>
-  <li>Jekyll 
-    (<a href="https://github.com/vik-vavilikhin/Jekyll">репозиторий</a>, 
-    <a href="https://vik-vavilikhin.github.io/Jekyll/dist/">демо</a>???).</li>
-  <li><a href="https://www.youtube.com/watch?v=vWfRHtxy81Q&index=17&list=PLyf8LgkO_8q_-ELwz9tlMX8R5gMSRWNto">Джедай вёрстки #7. Проект S&Mitler</a>. 
-    (<a href="https://github.com/vik-vavilikhin/S-Mitler">репозиторий</a>, 
-    <a href="https://vik-vavilikhin.github.io/S-Mitler/app">демо</a>).</li>
-</ul>
+### [WebDesign Master](https://webdesign-master.ru/). Уроки создания сайтов
+- Jekyll 
+  ([репозиторий](https://github.com/vik-vavilikhin/Jekyl),
+  [демо](https://vik-vavilikhin.github.io/Jekyll/dist/???).
+- [Джедай вёрстки #7. Проект S&Mitler](https://www.youtube.com/watch?v=vWfRHtxy81Q&index=17&list=PLyf8LgkO_8q_-ELwz9tlMX8R5gMSRWNto).
+  ([репозиторий](https://github.com/vik-vavilikhin/S-Mitler),
+  [демо](https://vik-vavilikhin.github.io/S-Mitler/app)).
 
-<h3>Prizm</h3>
-<ul>
-  <li>Prizm 
-    (<a href="https://github.com/vik-vavilikhin/Prizm">репозиторий</a>, 
-    <a href="https://vik-vavilikhin.github.io/Prizm/app">демо</a>).</li>
-</ul>
+### Prizm
+- Prizm 
+  ([репозиторий](https://github.com/vik-vavilikhin/Prizm),
+  [демо](https://vik-vavilikhin.github.io/Prizm/app)
 
-
-<h3>Блоки. Элементы. Модификаторы</h3>
-<ul>
-  <li>MenuCSS - меню на чистом CSS.  
-    (<a href="https://github.com/vik-vavilikhin/MenuCSS">репозиторий</a>, 
-    <a href="https://vik-vavilikhin.github.io/MenuCSS/dist/">демо</a>).
-  </li>
-</ul>
+### Блоки. Элементы. Модификаторы
+- MenuCSS - меню на чистом CSS.  
+  ([репозиторий](https://github.com/vik-vavilikhin/MenuCSS),
+  [демо](https://vik-vavilikhin.github.io/MenuCSS/dist/)).

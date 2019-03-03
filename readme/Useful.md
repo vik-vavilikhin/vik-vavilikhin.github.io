@@ -43,73 +43,53 @@ _Таблица насыщенности шрифтов `font-weight`_
 
 -------------------------------------------------------------------------------------------
 ## Работа с графикой
-<ul>
-  <li><u><a href="http://www.adobe.com/ru/products/photoshop.html">Adobe Photoshop CC</a></u>
-    <ul>
-      <li><a href="https://yadi.sk/d/cRmb_ho133xcvr">Патч для Mac</a></li>
-      <li><a href="http://photoshop-besplatno.ru/adobe-photoshop-cc.html">Патч для Windows</a></li>
-    </ul>
-  </li>
-  <li><a href="https://assets.adobe.com/">Adobe Assets</a> – работа с PSD-макетами прямо в браузере. Экспорт кода.</li>
-  <li><a href="https://zeplin.io/">Zeplin</a> – работа с дизайн-макетами в браузере. Есть экспорт кода.</li>
-  <li><a href="https://avocode.com/">Avocode</a> – платформа для работы макетами для верстальщиков (PSD, Sketch и др)</li>
-  <li><a href="https://psdetch.com/">PSD Tech</a> – бесплатный аналог Avocode.</li>
-  <li><a href="https://www.figma.com/">Figma</a> – облачный инструмент для разработки пользовательского интерфейса.</li>
-  <br><!-- ==================== -->
-  <li><a href="https://compressor.io/">Сompressor</a> – on-line сжатие графики JPG и PNG биз потери качества.</li>
-  <li><a href="https://tinypng.com/">Tiny png</a> – on-line сжатие изображений. Есть API.</li>
-  <br><!-- ==================== -->
-  <li><a href="https://www.vectorizer.io/">Vectorizer</a>. Преобразование растровых изображений, таких как PNG, BMP и JPEG, в масштабируемую векторную графику (SVG)</li>
-  <br><!-- ==================== -->
-  <li><a href="http://instant-eyedropper.com/">Instant Eyedropper</a>. Бесплатный инструмент для определения цвета для веб-мастеров, который распознает и автоматически вставляет в буфер обмена HTML-код цвета любого пикселя на экране одним щелчком мыши.</li>
-  <li><u>Бесплатные фотографии</u>
-    <ul>
-      <li><a href="https://stocksnap.io/">StockSnap.io</a></li>
-      <li><a href="https://www.freepik.com/">freepik</a></li>
-    </ul>
-  </li>
-</ul>
+- <u>[Adobe Photoshop CC](http://www.adobe.com/ru/products/photoshop.html)</u>
+  - [Патч для Mac](https://yadi.sk/d/cRmb_ho133xcvr)
+  - [Патч для Windows](http://photoshop-besplatno.ru/adobe-photoshop-cc.html)
+- [Adobe Assets](https://assets.adobe.com/) – работа с PSD-макетами прямо в браузере. Экспорт кода.
+- [Zeplin](https://zeplin.io/) – работа с дизайн-макетами в браузере. Есть экспорт кода.
+- [Avocode](https://avocode.com/) – платформа для работы макетами для верстальщиков (PSD, Sketch и др)
+- [PSD Tech](https://psdetch.com/) – бесплатный аналог Avocode.
+- [Figma](https://www.figma.com/) – облачный инструмент для разработки пользовательского интерфейса.
+<!-- ==================== -->
+- [Сompressor](https://compressor.io/) – on-line сжатие графики JPG и PNG биз потери качества.
+- [Tiny png](https://tinypng.com/) – on-line сжатие изображений. Есть API.
+<!-- ==================== -->
+- [Vectorizer](https://www.vectorizer.io/). Преобразование растровых изображений, таких как PNG, BMP и JPEG, в масштабируемую векторную графику (SVG)
+<!-- ==================== -->
+- [Instant Eyedropper](http://instant-eyedropper.com/). Бесплатный инструмент для определения цвета для веб-мастеров, который распознает и автоматически вставляет в буфер обмена HTML-код цвета любого пикселя на экране одним щелчком мыши.
+- <u>Бесплатные фотографии</u>
+   - [StockSnap.io](https://stocksnap.io/)
+   - [freepik](https://www.freepik.com/)
 
-<hr>
-<!-- ----------------------------------------------------------- -->
-<h2>Разное</h2>
-<ul>
-  <li><a href="https://yandex.ru/soft/punto/">Punto Switcher</a> - программа, которая автоматически переключает раскладку клавиатуры.</li>
-  <li><a href="https://klava.org/">Klavaorg</a> - on-line клавиатурный тренажер</li>
-  <li><a href="https://temp-mail.org/ru/">TempMail</a> - временная почта. Одноразовая почта от Temp Mail, избавит вас от спама и рекламных email рассылок, предоставляется бесплатно.</li>
-  <li><a href="http://weblomaster.ru/ipad-emulator/">Онлайн эмулятор</a> iPad, iPhone, симулятор окна браузера.</li>
-</ul>
+-------------------------------------------------------------------------------------------
+## "Песочницы"
+- [CodePen](https://codepen.io) - Песочница для HTML, CSS о JS
+- [JSFiddle](https://jsfiddle.net/) - Песочница для JavaScript
+- [CSS Desk](http://cssdeck.com/) - Песочница
 
-<hr>
-<!-- ----------------------------------------------------------- -->
-<h2>"Песочницы"</h2>
-<ul>
-  <li><a href="https://codepen.io">CodePen</a> - Песочница для HTML, CSS о JS</li>
-  <li><a href="https://jsfiddle.net/">JSFiddle</a> - Песочница для JavaScript</li>
-  <li><a href="http://cssdeck.com/">CSS Desk</a> - Песочница</li>
-</ul>
+-------------------------------------------------------------------------------------------
+## Интересные сайты. Статьи.
+- [GeekBrains](https://geekbrains.ru/) - образовательный портал.
+- [WebForMySelf](https://webformyself.com/) - образовательный портал.
+- [WebDesign Master](https://webdesign-master.ru/). Уроки создания сайтов.
+- [Loftschool](https://loftschool.com/). Школа онлайн обучения IT профессиям.
+<!-- ==================== -->
+- [METANIT.COM](https://metanit.com/) Сайт о программировании.
+- [WebHamster.ru](https://webhamster.ru/) - авторский проект Сергея Степанова. Сайт служит площадкой для развития нескольких программных разработок.
+<!-- ==================== -->
+- [Frontend-разработчики должны быть в теме всего](https://habr.com/ru/post/306716/)
 
-<hr>
-<!-- ----------------------------------------------------------- -->
-<h2>Интересные сайты. Статьи.</h2>
-<ul>
-  <li><a href="https://geekbrains.ru/">GeekBrains</a> - образовательный портал.</li>
-  <li><a href="https://webformyself.com/">WebForMySelf</a> - образовательный портал.</li>
-  <li><a href="https://webdesign-master.ru/">WebDesign Master</a>. Уроки создания сайтов.</li>
-  <li><a href="https://loftschool.com/">Loftschool</a>. Школа онлайн обучения IT профессиям.</li>
-  <br><!-- ==================== -->
-  <li><a href="https://metanit.com/">METANIT.COM</a> Сайт о программировании</li>
-  <li><a href="https://webhamster.ru/">WebHamster.ru</a> - авторский проект Сергея Степанова. Сайт служит площадкой для развития нескольких программных разработок.</li>
-  <br><!-- ==================== -->
-  <li><a href="https://habr.com/ru/post/306716/">Frontend-разработчики должны быть в теме всего</a></li>
-</ul>
+-------------------------------------------------------------------------------------------
+## Планировщики
+- [Trello](https://trello.com/) - это бесплатный, гибкий и наглядный способ организовать что угодно с кем угодно.
 
-<hr>
-<!-- ----------------------------------------------------------- -->
-<h2>Планировщики</h2>
-<ul>
-  <li><a href="https://trello.com/">Trello</a> - это бесплатный, гибкий и наглядный способ организовать что угодно с кем угодно.</li>
-</ul>
+-------------------------------------------------------------------------------------------
+## Разное
+- [Punto Switcher](https://yandex.ru/soft/punto/) - программа, которая автоматически переключает раскладку клавиатуры.
+- [Klavaorg](https://klava.org/) - on-line клавиатурный тренажер.
+- [TempMail](https://temp-mail.org/ru/) - временная почта. Одноразовая почта от Temp Mail, избавит вас от спама и рекламных email рассылок, предоставляется бесплатно.
+- [Онлайн эмулятор](http://weblomaster.ru/ipad-emulator/) iPad, iPhone, симулятор окна браузера.
 
-<hr>
-<!-- ----------------------------------------------------------- -->
+-------------------------------------------------------------------------------------------
+## 
