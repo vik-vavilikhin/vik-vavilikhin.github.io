@@ -13,7 +13,7 @@
 ### [WebDesign Master](https://webdesign-master.ru/). Уроки создания сайтов
 - Jekyll 
   ([репозиторий](https://github.com/vik-vavilikhin/Jekyl),
-  [демо](https://vik-vavilikhin.github.io/Jekyll/dist/???).
+  [демо](https://vik-vavilikhin.github.io/Jekyll/dist/???)).
 - [Джедай вёрстки #7. Проект S&Mitler](https://www.youtube.com/watch?v=vWfRHtxy81Q&index=17&list=PLyf8LgkO_8q_-ELwz9tlMX8R5gMSRWNto).
   ([репозиторий](https://github.com/vik-vavilikhin/S-Mitler),
   [демо](https://vik-vavilikhin.github.io/S-Mitler/app)).
@@ -24,7 +24,7 @@
   [демо](https://vik-vavilikhin.github.io/Prizm/app)
 
 ### Блоки. Элементы. Модификаторы
-- MenuCSS - меню на чистом CSS.  
+- MenuCSS - меню на чистом CSS.
   ([репозиторий](https://github.com/vik-vavilikhin/MenuCSS),
   [демо](https://vik-vavilikhin.github.io/MenuCSS/dist/)).
 
