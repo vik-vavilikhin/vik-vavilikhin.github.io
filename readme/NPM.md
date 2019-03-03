@@ -1,18 +1,17 @@
-<p>
-  <span>| <a href="https://github.com/vik-vavilikhin/vik-vavilikhin.github.io">HOME</a> |</span>
-</p>
-<hr>
+| [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) |
 
-<h2><a href="https://www.npmjs.com/">NPM</a> (Node Package Manager)</h2>
-<p>менеджер пакетов, входящий в состав <a href="https://nodejs.org/en/">Node.js</a></p>
-<hr>
-<p>С помощью <code>npm-check-updates</code> можно узнать какие зависимости обновились с момента их установки с помощью npm/bower.<br>
-Устанавливаем:</p>
-<code>$ npm i -g npm-check-updates</code>
+-------------------------------------------------------------------------------------------
+## [NPM](https://www.npmjs.com/) (Node Package Manager)
+менеджер пакетов, входящий в состав [Node.js](https://nodejs.org/en/)
+-------------------------------------------------------------------------------------------
+С помощью `npm-check-updates` можно узнать какие зависимости обновились с момента их установки с помощью npm/bower.
+<!-- ==================== -->
+Устанавливаем:  
+`$ npm i -g npm-check-updates`
 
-<p>И проверяем что в package.json устарело:</p>
-<code>$ ncu</code><br>
-<pre>
+И проверяем что в `package.json` устарело:  
+`$ ncu`
+```
 # async          ^1.4.2  →  ^2.0.0-rc.2
 # cheerio       ^0.19.0  →      ^0.20.0
 # front-matter   ^1.0.0  →       ^2.0.6
@@ -21,18 +20,18 @@
 # inquirer       ^0.9.0  →      ^0.12.0
 #
 # Run with -u to upgrade package.json
-</pre>
+```
 
-<p>Проверяем что есть нового для bower.json:</p>
-<code>$ ncu -m bower</code><br>
-<pre>
+Проверяем что есть нового для `bower.json`:  
+`$ ncu -m bower`
+```
 # angular  ~1.4.9  →  ~1.5.3
 #
 # Run with -u to upgrade bower.json
-</pre>
+```
 
-<p>Обновить версии пакетов в package.json/bower.json можно ключом <code>-u</code> (Windows), <code>-a</code> (Linux):</p>
-<pre>
+Обновить версии пакетов в package.json/bower.json можно ключом `-u` (Windows), `-a` (Linux):
+```
   $ ncu -u
   $ ncu -m bower -u
-</pre>
+```
