@@ -32,6 +32,6 @@
 
 Обновить версии пакетов в package.json/bower.json можно ключом `-u` (Windows), `-a` (Linux):
 ```
-  $ ncu -u
-  $ ncu -m bower -u
+$ ncu -u
+$ ncu -m bower -u
 ```
