@@ -29,7 +29,7 @@
 <ul>
   <li>Prizm 
     (<a href="https://github.com/vik-vavilikhin/Prizm">репозиторий</a>, 
-    <a href="https://vik-vavilikhin.github.io/Prizm/app">демо</a>).</li>
+    <a href="https://vik-vavilikhin.github.io/Prizm/app/assets">демо</a>).</li>
 </ul>
 
 
