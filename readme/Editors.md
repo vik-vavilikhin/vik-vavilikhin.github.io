@@ -72,6 +72,7 @@
 1. [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss) - Расширенная поддержка автозаполнения и рефакторинга SCSS для VSCode.
 1. [Shell Launcher](https://marketplace.visualstudio.com/items?itemName=Tyriar.shell-launcher) - Расширенная позволяет запускать одновременно несколько оболочек в терминале.
 1. [VSCode Browser Sync](https://marketplace.visualstudio.com/items?itemName=jasonlhy.vscode-browser-sync) - Интегрированния синхронизация Browser Sync для VS Code.
+1. [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Набор иконок для VS Code.
 1. [vscode-styled-jsx](https://marketplace.visualstudio.com/items?itemName=blanu.vscode-styled-jsx) - Подсветка синтаксиса jsx.
 1. [WooCommerce - Snippets & autocomplete](https://marketplace.visualstudio.com/items?) - Сниппеты и автозаполнение для PHP.
 1. [WordPress Snippet](https://marketplace.visualstudio.com/items?itemName=tungvn.wordpress-snippet) - Это коллекция сниппетов и автозаполнений WordPress для VS Code.
