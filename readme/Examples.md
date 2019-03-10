@@ -18,11 +18,16 @@
   ([репозиторий](https://github.com/vik-vavilikhin/S-Mitler),
   [демо](https://vik-vavilikhin.github.io/S-Mitler/app)).
 
-### Prizm
+### Верстка копии сайта без макета + адаптация бокового меню
 - Prizm 
   ([репозиторий](https://github.com/vik-vavilikhin/Prizm),
-  [демо](https://vik-vavilikhin.github.io/Prizm/app)
-
+  [демо](https://vik-vavilikhin.github.io/Prizm/app)).
+  
+### Верстка PerfectPixel + Gulp + Pug + Scss
+- DesignDew 
+  ([репозиторий](https://github.com/vik-vavilikhin/DesignDew),
+  [демо](https://vik-vavilikhin.github.io/DesignDew/app/assets)).
+  
 ### Блоки. Элементы. Модификаторы
 - MenuCSS - меню на чистом CSS.
   ([репозиторий](https://github.com/vik-vavilikhin/MenuCSS),
