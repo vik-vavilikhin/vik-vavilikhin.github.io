@@ -1,6 +1,5 @@
-| [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) |
+| [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) |<a id="goUp"></a>
 
-<a id="goUp"></a>
 | [VS Code](#VSCode)
 | [Atom](#Atom)
 | [Sublime Text](#ST3)
