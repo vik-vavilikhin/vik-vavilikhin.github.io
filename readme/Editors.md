@@ -8,12 +8,12 @@
 |
 
 ------------------------------------------------------------------------------------------
-_<sub>[Наверх](#goUp)</sub>_
 ## <a id="VSCode"></a>Редактор [Visual Studio Code](https://code.visualstudio.com/)
 - [Плагины](#PluginsVSCode).
 - [Темы оформления редактора](#ThemesVSCode).
 - [Настройка VS Code](#SettingsVSCode) файл `settings.json`.
 
+|_<sub>[Наверх](#goUp)</sub>_|
 ------------------------------------------------------------------------------------------
 ### <a id="PluginsVSCode"></a>Список плагинов:
 1. [ACF-Snippet](https://marketplace.visualstudio.com/items?itemName=anthonydiametrix.ACF-Snippet) - Snippets for Visual Studio Code : Advanced Custom Fields.
