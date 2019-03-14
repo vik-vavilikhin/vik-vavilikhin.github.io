@@ -401,7 +401,7 @@
   ```
 
 ------------------------------------------------------------------------------------------
-## <a id="#PhpStorm"></a>Редактор [PhpStorm](https://www.jetbrains.com/phpstorm/)
+## <a id="#PhpStorm"></a></a>Редактор [PhpStorm](https://www.jetbrains.com/phpstorm/)
 - [Плагины](#PluginsPhpStorm).
 - [Темы оформления редактора](#ThemesPhpStorm).
 - [Настройка PhpStorm](#SettingsPhpStorm).
