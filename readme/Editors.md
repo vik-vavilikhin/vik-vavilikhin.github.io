@@ -1,5 +1,5 @@
 | [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) |
-
+<a id="goUp"></a>
 | [VS Code](#VSCode)
 | [Atom](#Atom)
 | [Sublime Text](#ST3)
@@ -401,7 +401,8 @@
   ```
 
 ------------------------------------------------------------------------------------------
-## <a id="#PhpStorm"></a></a>Редактор [PhpStorm](https://www.jetbrains.com/phpstorm/)
+_<sub>[Наверх](#goUp)</sub>_
+## <a id="PhpStorm"></a></a>Редактор [PhpStorm](https://www.jetbrains.com/phpstorm/)
 - [Плагины](#PluginsPhpStorm).
 - [Темы оформления редактора](#ThemesPhpStorm).
 - [Настройка PhpStorm](#SettingsPhpStorm).
