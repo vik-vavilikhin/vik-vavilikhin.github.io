@@ -6,13 +6,13 @@
 | [PhpStorm](#PhpStorm)
 |
 
--------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 ## <a id="VSCode"></a>Редактор [Visual Studio Code](https://code.visualstudio.com/)
 - [Плагины](#PluginsVSCode).
 - [Темы оформления редактора](#ThemesVSCode).
 - [Настройка VS Code](#SettingsVSCode) файл `settings.json`.
 
--------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 ### <a id="PluginsVSCode"></a>Список плагинов:
 1. [ACF-Snippet](https://marketplace.visualstudio.com/items?itemName=anthonydiametrix.ACF-Snippet) - Snippets for Visual Studio Code : Advanced Custom Fields.
 1. [Align](https://marketplace.visualstudio.com/items?itemName=steve8708.Align) - Выравние кода. Mac: `ctrl+cmd+a` Linux/Windows: `ctrl+alt+a`.
@@ -78,13 +78,13 @@
 1. [WordPress Snippet](https://marketplace.visualstudio.com/items?itemName=tungvn.wordpress-snippet) - Это коллекция сниппетов и автозаполнений WordPress для VS Code.
 1. [WordPress Snippets](https://marketplace.visualstudio.com/items?itemName=wordpresstoolbox.wordpress-toolbox) - Это коллекция сниппетов WordPress для VS Code.
 
--------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 ## <a id="ThemesVSCode"></a>[Темы оформления](https://marketplace.visualstudio.com/search?term=theme&target=VSCode&category=All%20categories&sortBy=Relevance) для [Visual Studio Code](https://code.visualstudio.com/)
 1. [One Dark Theme](https://marketplace.visualstudio.com/items?) - Тема оформления One Dark Theme основана на соответствующей теме редактора.
 1. [One Monokai Theme](https://marketplace.visualstudio.com/items?) - Тема оформления One Monokai Theme.
 1. [Theme - Seti-Monokai](https://marketplace.visualstudio.com/items?itemName=SmukkeKim.theme-setimonokai) - Тема оформления Seti Monokai.
 
--------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 ### <a id="SettingsVSCode"></a>Настройки редактора [Visual Studio Code](https://code.visualstudio.com/)
 ```
 {
@@ -234,30 +234,30 @@
 }
 ```
 
--------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 ## <a id="Atom"></a>Редактор [Atom](https://atom.io/) - бесплатный, кросплатформенный текстовый редактор от [GitHub](https://github.com/atom/atom/releases).
 
 Для того, чтобы ощутить его мощь, рекомендуем воспользоваться установкой дополнительных плагинов, таких как Emmet, позволяющий печатать меньше, делать больше,HTML Preview, позволяющий видеть все вносимые изменения в соседней вкладке, Live Server, позволяющий просматривать внесённые изменения в баузере.
 
--------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 1. [Плагины](#PluginsAtom).
 1. [Темы оформления](#ThemesAtom) редактора.
 1. [Настройка Atom](#SettingsAtom).
 
--------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 - Harrix Блог - [Настройка Atom (full version)](http://blog.harrix.org/article/6076). Полная инструкция по установке, настройке, работе с FAQ.
 - [Настройки Atom](https://web.informatics.ru/edtr/atom/) для Front-end разработки.
 
--------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 ## <a id="ST3"></a>Редактор [Sublime Text 3](https://www.sublimetext.com/)
 Легенда. Единственный минус - он условно платный. Легко улучшается до полноценной IDE путём установки дополнений. Чтобы быстро и просто устанавливать дополнения, скачайте [Package control](https://packagecontrol.io/installation).
 
--------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 1. [Плагины](#PluginsST3).
 1. [Темы](#ThemesST3) оформления редактора.
 1. [Настройка](#SettingsST3) Sublime Text 3.
 
--------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 ### [LICENSE](http://appnee.com/sublime-text-3-universal-license-keys-collection-for-win-mac-linux/) - список лицензий.
 ### <a id="PluginsST3"></a>Плагины и дополнения
 - [Package control](https://packagecontrol.io/installation). Установка: `Tools => Instal Package Control`.
@@ -400,10 +400,11 @@
   ]
   ```
 
--------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 ## <a id="#PhpStorm"></a>Редактор [PhpStorm](https://www.jetbrains.com/phpstorm/)
 - [Плагины](#PluginsPhpStorm).
 - [Темы оформления редактора](#ThemesPhpStorm).
 - [Настройка PhpStorm](#SettingsPhpStorm).
 
--------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+[Шпаргалка по редактору](https://vk.com/@glo_academy-shpargalka-po-rabote-v-phpstorm)
