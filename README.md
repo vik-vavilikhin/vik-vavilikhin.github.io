@@ -1,6 +1,6 @@
 | [Редакторы](readme/Editors.md)
 | [NPM](readme/NPM.md)
-| [БЭМ](readme/БЭМ.md)
+| [БЭМ](readme/BEM.md)
 | [Git](readme/Git.md)
 |
 
