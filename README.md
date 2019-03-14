@@ -9,7 +9,7 @@
 | [JavaScript](readme/JavaScript.md)
 | [JADE/PUG](readme/JADE-PUG.md)
 | [PHP](readme/PHP.md)
-| [markdown](readme/MarkDown.md)
+| [MarkDown](readme/MarkDown.md)
 |
 
 | [Полезняшки](readme/Useful.md)
