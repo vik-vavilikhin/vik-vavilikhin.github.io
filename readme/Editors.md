@@ -40,7 +40,7 @@ _<sub>[Наверх](#goUp)</sub>_
     - Поддерживает удаленные CSS-файлы.
     - Использует vscode-css-languageservice
 1. [html tag wrapper](https://marketplace.visualstudio.com/items?itemName=hwencc.html-tag-wrapper) - Оборачивает выбранный блок кода в HTML-тег нажатием <kbd>Ctrl</kbd> + <kbd>I</kbd>, можно изменить имя тега-обертки.
-1. [htmltagwrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap) - Обертывание выбранного кода в HTML-тег.<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>W</kbd>
+1. [htmltagwrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap) - Обертывание выбранного кода в HTML-тег с помщью клавиш <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>W</kbd>, не зависимо от языка редактирования.
 1. [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - Расширение VS Code, которое обеспечивает завершение имени класса CSS для class-атрибута HTML на основе определений, найденных в вашем рабочем пространстве или внешних файлах, на которые ссылается link-элемент.
 1. [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets) - Более 130 сниппетов jQuery. Просто введите буквы `jq`, чтобы получить список всех доступных фрагментов кода jQuery.
 1. [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint) - Интегрирует JSHint в VS Code. JSHint - это линтер для JavaScript.
