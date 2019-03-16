@@ -39,7 +39,7 @@ _<sub>[Наверх](#goUp)</sub>_
     - Сканирует папку рабочего пространства для файлов CSS и SCSS.
     - Поддерживает удаленные CSS-файлы.
     - Использует vscode-css-languageservice
-1. [html tag wrapper](https://marketplace.visualstudio.com/items?itemName=hwencc.html-tag-wrapper) - Оборачивает выбранный блок кода в HTML-тег нажатием `Ctrl + I`, можно изменить имя тега-обертки.
+1. [html tag wrapper](https://marketplace.visualstudio.com/items?itemName=hwencc.html-tag-wrapper) - Оборачивает выбранный блок кода в HTML-тег нажатием <kbd>Ctrl</kbd> + <kbd>I</kbd>, можно изменить имя тега-обертки.
 1. [htmltagwrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap) - Обертывание выбранного кода в HTML-тег.
 1. [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - Расширение VS Code, которое обеспечивает завершение имени класса CSS для class-атрибута HTML на основе определений, найденных в вашем рабочем пространстве или внешних файлах, на которые ссылается link-элемент.
 1. [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets) - Более 130 сниппетов jQuery. Просто введите буквы `jq`, чтобы получить список всех доступных фрагментов кода jQuery.
@@ -289,9 +289,9 @@ _<sub>[Наверх](#goUp)</sub>_
         ```
     1. ___Об использовании___  
         - Если комбинации клавиш настроенна, то для создания gist'а нужно 
-            просто выделить подходящий код и нажать `ctrl+k+i`, затем указать 
+            просто выделить подходящий код и нажать <kbd>ctrl</kbd>+<kbd>k</kbd>+<kbd>i</kbd>, затем указать 
             по.
-        - Чтобы использовать сохраненный ранее gist нужно нажать `ctrl+k+o` 
+        - Чтобы использовать сохраненный ранее gist нужно нажать <kbd>ctrl</kbd>+<kbd>k</kbd>+<kbd>o</kbd> 
             и выбрать код.
     1. ___[Установка GitHub Gist](http://rubycode.ru/sublime-text/70-nastroyka-github-gist-hranenie-i-ispolzovanie-koda.html)___
     
