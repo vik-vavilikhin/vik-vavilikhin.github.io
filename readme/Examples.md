@@ -18,8 +18,8 @@
   ([репозиторий](https://github.com/vik-vavilikhin/S-Mitler),
   [демо](https://vik-vavilikhin.github.io/S-Mitler/app)).
 
-### [WebDesign Master](https://webdesign-master.ru/). Уроки создания сайтов
-- JScourse (
+### [WebForMySelf](WebForMySelf). Уроки создания сайтов
+- [JavaScript.Полное руководство для современной веб-разработки](https://webformyself.com/javascript/?utm_medium=systema&utm_source=nashikursi&utm_campaign=javascript)  
   ([репозиторий](https://github.com/vik-vavilikhin/JScourse/tree/master/practice/game_ClikToBlock),
   [демо](https://vik-vavilikhin.github.io/JScourse/practice/game_ClikToBlock/)).
 
