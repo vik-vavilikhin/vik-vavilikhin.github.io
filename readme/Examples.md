@@ -18,6 +18,11 @@
   ([репозиторий](https://github.com/vik-vavilikhin/S-Mitler),
   [демо](https://vik-vavilikhin.github.io/S-Mitler/app)).
 
+### [WebDesign Master](https://webdesign-master.ru/). Уроки создания сайтов
+- JScourse (
+  ([репозиторий](https://github.com/vik-vavilikhin/JScourse/tree/master/practice/game_ClikToBlock),
+  [демо](https://vik-vavilikhin.github.io/JScourse/practice/game_ClikToBlock/)).
+
 ### Верстка копии сайта без макета + адаптация бокового меню
 - Prizm 
   ([репозиторий](https://github.com/vik-vavilikhin/Prizm),
