@@ -26,7 +26,7 @@
 ### Верстка копии сайта без макета + адаптация бокового меню
 - Prizm 
   ([репозиторий](https://github.com/vik-vavilikhin/Prizm),
-  [демо](https://vik-vavilikhin.github.io/Prizm/app)).
+  [демо](https://vik-vavilikhin.github.io/Prizm/app/assets)).
   
 ### Верстка PerfectPixel + Gulp + Pug + Scss
 - DesignDew 
