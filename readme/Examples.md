@@ -21,7 +21,8 @@
 ### <u>[WebForMySelf](https://webformyself.com/). Все о создании сайтов</u>
 - [JavaScript.Полное руководство для современной веб-разработки](https://webformyself.com/javascript/?utm_medium=systema&utm_source=nashikursi&utm_campaign=javascript)  
   ([репозиторий](https://github.com/vik-vavilikhin/JScourse/tree/master/practice/game_ClikToBlock),
-  [демо](https://vik-vavilikhin.github.io/JScourse/practice/game_ClikToBlock/)).
+  [демо-игра](https://vik-vavilikhin.github.io/JScourse/practice/game_ClikToBlock/),
+  [демо-меню](https://vik-vavilikhin.github.io/JScourse/theory/block_07/)).
 
 ### <u>Верстка копии сайта без макета + адаптация бокового меню</u>
 - Prizm 
