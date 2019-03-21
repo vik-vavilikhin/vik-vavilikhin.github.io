@@ -21,6 +21,7 @@ _<sub>[Наверх](#goUp)</sub>_
 1. [All Autocomplete](https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete) - Обеспечивает автозаполнение элементов кода Visual Studio на основе всех открытых редакторов.
 1. [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) - Поддержка синтаксиса Apache conf для VS Code. Подсветка синтаксиса для файлов конфигурации Apache в коде Visual Studio.
 1. [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) - Автоматически добавляет закрывающий тег HTML / XML, так же, как в IDE Visual Studio  или Sublime Text.
+1. [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) - Автоматически находит, анализирует и обеспечивает завершение кода для всех доступных импортов. Работает с Typescript и TSX.
 1. [Auto Import - ES6, TS, JSX, TSX](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import) - Автоматически находит, анализирует и обеспечивает завершение кода для доступных импортов. Работает с JavaScript и TypeScript.
 1. [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Автоматически переименовывает парные теги HTML / XML, как в Visual Studio IDE.
 1. [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - Подсвечивает парные скобки. У каждой пары свой цвет.
