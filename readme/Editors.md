@@ -120,6 +120,9 @@ _<sub>[Наверх](#goUp)</sub>_
   "editor.renderWhitespace": "boundary",
   "editor.fontSize": 15,
   "editor.renderLineHighlight": "line",
+  
+  // ========== Настройка JShint под синтаксис ES6 ===
+  "jshint.options": {"esversion": 6},
 
   // ========== Настройка длины строки ===============
   // Установить перенос строки по достижении края области редактора
