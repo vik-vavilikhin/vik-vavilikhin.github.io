@@ -12,8 +12,8 @@
   
 ### [WebDesign Master](https://webdesign-master.ru/). Уроки создания сайтов
 - Jekyll 
-  ([репозиторий](https://github.com/vik-vavilikhin/Jekyl),
-  [демо](https://vik-vavilikhin.github.io/Jekyll/dist/???)).
+  ([репозиторий](https://github.com/vik-vavilikhin/Jekyll),
+  [демо](https://vik-vavilikhin.github.io/Jekyll/dist/)).
 - [Джедай вёрстки #7. Проект S&Mitler](https://www.youtube.com/watch?v=vWfRHtxy81Q&index=17&list=PLyf8LgkO_8q_-ELwz9tlMX8R5gMSRWNto).
   ([репозиторий](https://github.com/vik-vavilikhin/S-Mitler),
   [демо](https://vik-vavilikhin.github.io/S-Mitler/app)).
@@ -22,6 +22,7 @@
 - [JavaScript.Полное руководство для современной веб-разработки](https://webformyself.com/javascript/?utm_medium=systema&utm_source=nashikursi&utm_campaign=javascript)  
   ([репозиторий](https://github.com/vik-vavilikhin/JScourse/tree/master/practice/game_ClikToBlock),
   [демо-игра](https://vik-vavilikhin.github.io/JScourse/practice/game_ClikToBlock/),
+  [демо-blog](https://vik-vavilikhin.github.io/JScourse/practice/blog/dist/),
   [демо-меню](https://vik-vavilikhin.github.io/JScourse/theory/block_07/)).
 
 ### Верстка копии сайта без макета + адаптация бокового меню
