@@ -22,7 +22,7 @@ _<sub>[Наверх](#goUp)</sub>_
 1. [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) - Поддержка синтаксиса Apache conf для VS Code. Подсветка синтаксиса для файлов конфигурации Apache в коде Visual Studio.
 1. [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) - Автоматически добавляет закрывающий тег HTML / XML, так же, как в IDE Visual Studio  или Sublime Text.
 1. [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) - Автоматически находит, анализирует и обеспечивает завершение кода для всех доступных импортов. Работает с Typescript и TSX.
-1. [Auto Import - ES6, TS, JSX, TSX](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import) - Автоматически находит, анализирует и обеспечивает завершение кода для доступных импортов. Работает с JavaScript и TypeScript.
+<!-- 1. [Auto Import - ES6, TS, JSX, TSX](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import) - Автоматически находит, анализирует и обеспечивает завершение кода для доступных импортов. Работает с JavaScript и TypeScript. -->
 1. [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Автоматически переименовывает парные теги HTML / XML, как в Visual Studio IDE.
 1. [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - Подсвечивает парные скобки. У каждой пары свой цвет.
 1. [Class autocomplete for HTML](https://marketplace.visualstudio.com/items?itemName=AESSoft.aessoft-class-autocomplete) - Расширение автоматически сканирует активный HTML-файл на наличие ссылок на внешние таблицы стилей CSS. Когда таблица стилей найдена, имена классов извлекаются и становятся доступными для использования с функцией автозавершения кода в Visual Studio Code.
@@ -33,6 +33,7 @@ _<sub>[Наверх](#goUp)</sub>_
 1. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Интегрирует ESLint в VS Code.
 1. [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) - Иконки для файлов в VS Code.
 1. [ftp-simple](https://marketplace.visualstudio.com/items?itemName=humy2833.ftp-simple) - Простой FTP / SFTP.
+1. [Gist](https://marketplace.visualstudio.com/items?itemName=kenhowardpdx.vscode-gist) - Создание, открытие и редактирование Gist`s.
 1. [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) - Завершение атрибута класса.
     - Завершение атрибута класса.
     - Идентификатор завершения атрибута.
@@ -86,6 +87,8 @@ _<sub>[Наверх](#goUp)</sub>_
 1. [One Dark Theme](https://marketplace.visualstudio.com/items?) - Тема оформления One Dark Theme основана на соответствующей теме редактора.
 1. [One Monokai Theme](https://marketplace.visualstudio.com/items?) - Тема оформления One Monokai Theme.
 1. [Theme - Seti-Monokai](https://marketplace.visualstudio.com/items?itemName=SmukkeKim.theme-setimonokai) - Тема оформления Seti Monokai.
+1. [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Набор иконок для VS Code.
+
 
 ------------------------------------------------------------------------------------------
 ### <a id="SettingsVSCode"></a>Настройки редактора [Visual Studio Code](https://code.visualstudio.com/)
