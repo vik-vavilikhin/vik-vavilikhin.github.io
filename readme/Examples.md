@@ -2,13 +2,19 @@
 
 ------------------------------------------------------------------------------------------
 ### [Академия верстки](https://glo-academy.ru/frontenddeveloper/)
-- [Интенсив по JS](https://www.youtube.com/watch?v=NHB0OJg9CMU)
+|                      Наименование                      | Репозиторий | Демо |
+|:-------------------------------------------------------|:-----------:|:----:|
+|[Интенсив по JS](https://www.youtube.com/watch?v=NHB0OJg9CMU)|[репозиторий](https://github.com/vik-vavilikhin/IntensiveJS)|[демо](https://vik-vavilikhin.github.io/IntensiveJS/)|
+|[Веб-разработчик 10.0](https://study.up-skills.ru/teach/control/stream/view/id/6290544)|[репозиторий](https://github.com/vik-vavilikhin/WebMaster10)|[демо-1](https://vik-vavilikhin.github.io/WebMaster10/in-work/dist/)|
+|||[демо-2](https://vik-vavilikhin.github.io/WebMaster10/video_50/dist/)|
+
+<!-- - [Интенсив по JS](https://www.youtube.com/watch?v=NHB0OJg9CMU)
   ([репозиторий](https://github.com/vik-vavilikhin/IntensiveJS),
-  [демо](https://vik-vavilikhin.github.io/IntensiveJS/)).
-- [Веб-разработчик 10.0](https://study.up-skills.ru/teach/control/stream/view/id/6290544)
+  [демо](https://vik-vavilikhin.github.io/IntensiveJS/)). -->
+<!-- - [Веб-разработчик 10.0](https://study.up-skills.ru/teach/control/stream/view/id/6290544)
   ([репозиторий](https://github.com/vik-vavilikhin/WebMaster10),
   [демо-1](https://vik-vavilikhin.github.io/WebMaster10/in-work/dist/),
-  [демо-2](https://vik-vavilikhin.github.io/WebMaster10/video_50/dist/)).
+  [демо-2](https://vik-vavilikhin.github.io/WebMaster10/video_50/dist/)). -->
   
 ### [WebDesign Master](https://webdesign-master.ru/). Уроки создания сайтов
 - Jekyll 
