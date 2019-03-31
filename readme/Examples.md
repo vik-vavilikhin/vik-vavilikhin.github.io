@@ -36,11 +36,23 @@
   [демо](https://vik-vavilikhin.github.io/DesignDew/app/assets)).
   
 ### Блоки. Элементы. Модификаторы
-- MenuCSS - меню на чистом CSS.
+|                      Наименование                      | Репозиторий | Демо |
+|:-------------------------------------------------------|:-----------:|:----:|
+|MenuCSS - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/MenuCSS)|[демо](https://vik-vavilikhin.github.io/MenuCSS/dist/)|
+|MenuResponsive - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/MenuResponsive)|[демо](https://vik-vavilikhin.github.io/MenuResponsive/)|
+|ContentBoxWithHoverEffects - Эффекты при наведении на блоки с содержимым. На чистом CSS|[репозиторий](https://github.com/vik-vavilikhin/ContentBoxWithHoverEffects)|[демо](https://vik-vavilikhin.github.io/ContentBoxWithHoverEffects/)|
+
+
+
+<!-- - MenuCSS - меню на чистом CSS.
   ([репозиторий](https://github.com/vik-vavilikhin/MenuCSS),
-  [демо](https://vik-vavilikhin.github.io/MenuCSS/dist/)).
-- MenuResponsive - меню на чистом CSS.
+  [демо](https://vik-vavilikhin.github.io/MenuCSS/dist/)). -->
+<!-- - MenuResponsive - меню на чистом CSS.
   ([репозиторий](https://github.com/vik-vavilikhin/MenuResponsive),
+  [демо](https://vik-vavilikhin.github.io/MenuResponsive/)). -->
+<!-- - ContentBoxWithHoverEffects - Эффекты при наведении на блоки с содержимым. На чистом CSS
+.
+  ([репозиторий](https://github.com/vik-vavilikhin/ContentBoxWithHoverEffects),
   [демо](https://vik-vavilikhin.github.io/MenuResponsive/)).
-  
+   -->
 
