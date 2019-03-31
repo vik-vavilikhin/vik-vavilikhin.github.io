@@ -24,6 +24,6 @@
 |:-------------------------------------------------------|:------------|:-----|
 |Prizm - Верстка копии сайта без макета + адаптация бокового меню|[репозиторий](https://github.com/vik-vavilikhin/Prizm)|[демо](https://vik-vavilikhin.github.io/Prizm/app/assets)|
 |DesignDew - Верстка PerfectPixel + Gulp + Pug + Scss|[репозиторий](https://github.com/vik-vavilikhin/DesignDew)|[демо](https://vik-vavilikhin.github.io/DesignDew/app/assets)|
-|MenuCSS - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/MenuCSS)|[демо](https://vik-vavilikhin.github.io/MenuCSS/dist/)|
+|[MenuCSS](https://www.youtube.com/watch?v=K3C4NdzFHg0) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/MenuCSS)|[демо](https://vik-vavilikhin.github.io/MenuCSS/dist/)|
 |[MenuResponsive](https://www.youtube.com/watch?v=cQ6YQ8K5MRw) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/MenuResponsive)|[демо](https://vik-vavilikhin.github.io/MenuResponsive/)|
 |[ContentBoxWithHoverEffects](https://www.youtube.com/watch?v=IFai8qTKvEM) - Эффекты при наведении на блоки с содержимым. На чистом CSS|[репозиторий](https://github.com/vik-vavilikhin/ContentBoxWithHoverEffects)|[демо](https://vik-vavilikhin.github.io/ContentBoxWithHoverEffects/)|
