@@ -1,12 +1,12 @@
 | [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) |
 
 ------------------------------------------------------------------------------------------
-### [Академия верстки](https://glo-academy.ru/frontenddeveloper/)
+<!-- ### [Академия верстки](https://glo-academy.ru/frontenddeveloper/) -->
 |                      Наименование                      | Репозиторий | Демо |
-|:-------------------------------------------------------|:-----------:|:----:|
+|:-------------------------------------------------------|:------------|:-----|
+|[Академия верстки](https://glo-academy.ru/frontenddeveloper/)|||
 |[Интенсив по JS](https://www.youtube.com/watch?v=NHB0OJg9CMU)|[репозиторий](https://github.com/vik-vavilikhin/IntensiveJS)|[демо](https://vik-vavilikhin.github.io/IntensiveJS/)|
-|[Веб-разработчик 10.0](https://study.up-skills.ru/teach/control/stream/view/id/6290544)|[репозиторий](https://github.com/vik-vavilikhin/WebMaster10)|[демо-1](https://vik-vavilikhin.github.io/WebMaster10/in-work/dist/)|
-|||[демо-2](https://vik-vavilikhin.github.io/WebMaster10/video_50/dist/)|
+|[Веб-разработчик 10.0](https://study.up-skills.ru/teach/control/stream/view/id/6290544)|[репозиторий](https://github.com/vik-vavilikhin/WebMaster10)|[демо-1](https://vik-vavilikhin.github.io/WebMaster10/in-work/dist/), [демо-2](https://vik-vavilikhin.github.io/WebMaster10/video_50/dist/)|
 
 <!-- - [Интенсив по JS](https://www.youtube.com/watch?v=NHB0OJg9CMU)
   ([репозиторий](https://github.com/vik-vavilikhin/IntensiveJS),
@@ -31,19 +31,21 @@
   [демо-blog](https://vik-vavilikhin.github.io/JScourse/practice/blog/dist/),
   [демо-меню](https://vik-vavilikhin.github.io/JScourse/theory/block_07/)).
 
-### Верстка копии сайта без макета + адаптация бокового меню
+<!-- ### Верстка копии сайта без макета + адаптация бокового меню
 - Prizm 
   ([репозиторий](https://github.com/vik-vavilikhin/Prizm),
-  [демо](https://vik-vavilikhin.github.io/Prizm/app/assets)).
+  [демо](https://vik-vavilikhin.github.io/Prizm/app/assets)). -->
   
-### Верстка PerfectPixel + Gulp + Pug + Scss
+<!-- ### Верстка PerfectPixel + Gulp + Pug + Scss
 - DesignDew 
   ([репозиторий](https://github.com/vik-vavilikhin/DesignDew),
-  [демо](https://vik-vavilikhin.github.io/DesignDew/app/assets)).
+  [демо](https://vik-vavilikhin.github.io/DesignDew/app/assets)). -->
   
-### Блоки. Элементы. Модификаторы
+### Странцы. Блоки. Элементы. Модификаторы
 |                      Наименование                      | Репозиторий | Демо |
-|:-------------------------------------------------------|:-----------:|:----:|
+|:-------------------------------------------------------|:------------|:-----|
+|Prizm - Верстка копии сайта без макета + адаптация бокового меню|[репозиторий](https://github.com/vik-vavilikhin/Prizm)|[демо](https://vik-vavilikhin.github.io/Prizm/app/assets)|
+|DesignDew - Верстка PerfectPixel + Gulp + Pug + Scss|[репозиторий](https://github.com/vik-vavilikhin/DesignDew)|[демо](https://vik-vavilikhin.github.io/DesignDew/app/assets)|
 |MenuCSS - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/MenuCSS)|[демо](https://vik-vavilikhin.github.io/MenuCSS/dist/)|
 |MenuResponsive - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/MenuResponsive)|[демо](https://vik-vavilikhin.github.io/MenuResponsive/)|
 |ContentBoxWithHoverEffects - Эффекты при наведении на блоки с содержимым. На чистом CSS|[репозиторий](https://github.com/vik-vavilikhin/ContentBoxWithHoverEffects)|[демо](https://vik-vavilikhin.github.io/ContentBoxWithHoverEffects/)|
