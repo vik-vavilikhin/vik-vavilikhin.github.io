@@ -2,29 +2,29 @@
 
 ------------------------------------------------------------------------------------------
 ### **[Академия верстки](https://glo-academy.ru/frontenddeveloper/)**
-  |                      Наименование                      | Репозиторий | Демо |
-  |:-------------------------------------------------------|:------------|:-----|
-  |[Интенсив по JS](https://www.youtube.com/watch?v=NHB0OJg9CMU)|[репозиторий](https://github.com/vik-vavilikhin/IntensiveJS)|[демо](https://vik-vavilikhin.github.io/IntensiveJS/)|
-  |[Веб-разработчик 10.0](https://study.up-skills.ru/teach/control/stream/view/id/6290544)|[репозиторий](https://github.com/vik-vavilikhin/WebMaster10)|[демо-1](https://vik-vavilikhin.github.io/WebMaster10/in-work/dist/), [демо-2](https://vik-vavilikhin.github.io/WebMaster10/video_50/dist/)|
+|                      Наименование                      | Репозиторий | Демо |
+|:-------------------------------------------------------|:------------|:-----|
+|[Интенсив по JS](https://www.youtube.com/watch?v=NHB0OJg9CMU)|[репозиторий](https://github.com/vik-vavilikhin/IntensiveJS)|[демо](https://vik-vavilikhin.github.io/IntensiveJS/)|
+|[Веб-разработчик 10.0](https://study.up-skills.ru/teach/control/stream/view/id/6290544)|[репозиторий](https://github.com/vik-vavilikhin/WebMaster10)|[демо-1](https://vik-vavilikhin.github.io/WebMaster10/in-work/dist/), [демо-2](https://vik-vavilikhin.github.io/WebMaster10/video_50/dist/)|
 
 ### **[WebDesign Master](https://webdesign-master.ru/). Уроки создания сайтов**
-  |                      Наименование                      | Репозиторий | Демо |
-  |:-------------------------------------------------------|:------------|:-----|
-  |Jekyll - По какой-то причине не работают стили. Надо разбираться.|[репозиторий](https://github.com/vik-vavilikhin/Jekyll)|[демо](https://vik-vavilikhin.github.io/Jekyll/dist/)|
-  |[Джедай вёрстки #7. Проект S&Mitler](https://www.youtube.com/watch?v=vWfRHtxy81Q&index=17&list=PLyf8LgkO_8q_-ELwz9tlMX8R5gMSRWNto)|[репозиторий](https://github.com/vik-vavilikhin/S-Mitler)|[демо](https://vik-vavilikhin.github.io/S-Mitler/app)|
+|                      Наименование                      | Репозиторий | Демо |
+|:-------------------------------------------------------|:------------|:-----|
+|Jekyll - По какой-то причине не работают стили. Надо разбираться.|[репозиторий](https://github.com/vik-vavilikhin/Jekyll)|[демо](https://vik-vavilikhin.github.io/Jekyll/dist/)|
+|[Джедай вёрстки #7. Проект S&Mitler](https://www.youtube.com/watch?v=vWfRHtxy81Q&index=17&list=PLyf8LgkO_8q_-ELwz9tlMX8R5gMSRWNto)|[репозиторий](https://github.com/vik-vavilikhin/S-Mitler)|[демо](https://vik-vavilikhin.github.io/S-Mitler/app)|
 
 ### **[WebForMySelf](https://webformyself.com/). Все о создании сайтов**
-  |                      Наименование                      | Репозиторий | Демо |
-  |:-------------------------------------------------------|:------------|:-----|
-  |[JavaScript.Полное руководство для современной веб-разработки](https://webformyself.com/javascript/?utm_medium=systema&utm_source=nashikursi&utm_campaign=javascript)|[репозиторий](https://github.com/vik-vavilikhin/JScourse/tree/master/practice/game_ClikToBlock)|[демо-игра](https://vik-vavilikhin.github.io/JScourse/practice/game_ClikToBlock/),  [демо-blog](https://vik-vavilikhin.github.io/JScourse/practice/blog/dist/),  [демо-меню](https://vik-vavilikhin.github.io/JScourse/theory/block_07/)|
-  |[ Full-Stack практика. Создание JavaScript блога](https://www.youtube.com/watch?v=ixVQjTwqfe0&list=PLD-piGJ3Dtl2zA18HzryjQy9Dwa_1Hjs1)|[репозиторий](https://github.com/vik-vavilikhin/FullStackPractic)|[демо](https://vik-vavilikhin.github.io/FullStackPractic/)|
+|                      Наименование                      | Репозиторий | Демо |
+|:-------------------------------------------------------|:------------|:-----|
+|[JavaScript.Полное руководство для современной веб-разработки](https://webformyself.com/javascript/?utm_medium=systema&utm_source=nashikursi&utm_campaign=javascript)|[репозиторий](https://github.com/vik-vavilikhin/JScourse/tree/master/practice/game_ClikToBlock)|[демо-игра](https://vik-vavilikhin.github.io/JScourse/practice/game_ClikToBlock/),  [демо-blog](https://vik-vavilikhin.github.io/JScourse/practice/blog/dist/),  [демо-меню](https://vik-vavilikhin.github.io/JScourse/theory/block_07/)|
+|[ Full-Stack практика. Создание JavaScript блога](https://www.youtube.com/watch?v=ixVQjTwqfe0&list=PLD-piGJ3Dtl2zA18HzryjQy9Dwa_1Hjs1)|[репозиторий](https://github.com/vik-vavilikhin/FullStackPractic)|[демо](https://vik-vavilikhin.github.io/FullStackPractic/)|
 
 
 ### **Странцы. Блоки. Элементы**
-  |                      Наименование                      | Репозиторий | Демо |
-  |:-------------------------------------------------------|:------------|:-----|
-  |Prizm - Верстка копии сайта без макета + адаптация бокового меню|[репозиторий](https://github.com/vik-vavilikhin/Prizm)|[демо](https://vik-vavilikhin.github.io/Prizm/app/assets)|
-  |DesignDew - Верстка PerfectPixel + Gulp + Pug + Scss|[репозиторий](https://github.com/vik-vavilikhin/DesignDew)|[демо](https://vik-vavilikhin.github.io/DesignDew/app/assets)|
-  |[MenuCSS](https://www.youtube.com/watch?v=K3C4NdzFHg0) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/MenuCSS)|[демо](https://vik-vavilikhin.github.io/MenuCSS/dist/)|
-  |[MenuResponsive](https://www.youtube.com/watch?v=cQ6YQ8K5MRw) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/MenuResponsive)|[демо](https://vik-vavilikhin.github.io/MenuResponsive/)|
-  |[ContentBoxWithHoverEffects](https://www.youtube.com/watch?v=IFai8qTKvEM) - Эффекты при наведении на блоки с содержимым. На чистом CSS|[репозиторий](https://github.com/vik-vavilikhin/ContentBoxWithHoverEffects)|[демо](https://vik-vavilikhin.github.io/ContentBoxWithHoverEffects/)|
+|                      Наименование                      | Репозиторий | Демо |
+|:-------------------------------------------------------|:------------|:-----|
+|Prizm - Верстка копии сайта без макета + адаптация бокового меню|[репозиторий](https://github.com/vik-vavilikhin/Prizm)|[демо](https://vik-vavilikhin.github.io/Prizm/app/assets)|
+|DesignDew - Верстка PerfectPixel + Gulp + Pug + Scss|[репозиторий](https://github.com/vik-vavilikhin/DesignDew)|[демо](https://vik-vavilikhin.github.io/DesignDew/app/assets)|
+|[MenuCSS](https://www.youtube.com/watch?v=K3C4NdzFHg0) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/MenuCSS)|[демо](https://vik-vavilikhin.github.io/MenuCSS/dist/)|
+|[MenuResponsive](https://www.youtube.com/watch?v=cQ6YQ8K5MRw) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/MenuResponsive)|[демо](https://vik-vavilikhin.github.io/MenuResponsive/)|
+|[ContentBoxWithHoverEffects](https://www.youtube.com/watch?v=IFai8qTKvEM) - Эффекты при наведении на блоки с содержимым. На чистом CSS|[репозиторий](https://github.com/vik-vavilikhin/ContentBoxWithHoverEffects)|[демо](https://vik-vavilikhin.github.io/ContentBoxWithHoverEffects/)|
