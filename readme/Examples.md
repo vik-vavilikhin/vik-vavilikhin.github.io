@@ -17,7 +17,7 @@
 |                      Наименование                      | Репозиторий | Демо |
 |:-------------------------------------------------------|:------------|:-----|
 |[JavaScript.Полное руководство для современной веб-разработки](https://webformyself.com/javascript/?utm_medium=systema&utm_source=nashikursi&utm_campaign=javascript)|[репозиторий](https://github.com/vik-vavilikhin/JScourse/tree/master/practice/game_ClikToBlock)|[демо-игра](https://vik-vavilikhin.github.io/JScourse/practice/game_ClikToBlock/),  [демо-blog](https://vik-vavilikhin.github.io/JScourse/practice/blog/dist/),  [демо-меню](https://vik-vavilikhin.github.io/JScourse/theory/block_07/)|
-|[ Full-Stack практика. Создание JavaScript блога](https://www.youtube.com/watch?v=ixVQjTwqfe0&list=PLD-piGJ3Dtl2zA18HzryjQy9Dwa_1Hjs1)|[репозиторий](https://github.com/vik-vavilikhin/FullStackPractic)||
+|[ Full-Stack практика. Создание JavaScript блога](https://www.youtube.com/watch?v=ixVQjTwqfe0&list=PLD-piGJ3Dtl2zA18HzryjQy9Dwa_1Hjs1)|[репозиторий](https://github.com/vik-vavilikhin/FullStackPractic)|[демо](https://vik-vavilikhin.github.io/FullStackPractic/)|
 
 
 ### Странцы. Блоки. Элементы
