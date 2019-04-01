@@ -33,8 +33,8 @@
 |[MenuAccordion](https://www.youtube.com/watch?v=gnyYpX2nc1g) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/MenuAccordion)|[демо](https://vik-vavilikhin.github.io/MenuAccordion/)|
 |[ContentBoxWithHoverEffects](https://www.youtube.com/watch?v=IFai8qTKvEM) - Эффекты при наведении на блоки с содержимым. На чистом CSS|[репозиторий](https://github.com/vik-vavilikhin/ContentBoxWithHoverEffects)|[демо](https://vik-vavilikhin.github.io/ContentBoxWithHoverEffects/)|
 ------------------------------------------------------------------------------------------
-### **[Компьютерная школа Hillel](https://ithillel.ua/)**
+<!-- ### **[Компьютерная школа Hillel](https://ithillel.ua/)**
 |                      Наименование                      | Репозиторий | Демо |
 |:-------------------------------------------------------|:------------|:-----|
 |[hillel-webinar-dom](https://www.youtube.com/watch?v=onvORFSDw9Y)|[репозиторий](https://github.com/vik-vavilikhin/DOMInJS)|[демо]( https://vik-vavilikhin.github.io/DOMInJS/)|
-------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------ -->
