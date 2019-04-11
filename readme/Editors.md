@@ -20,20 +20,24 @@ _<sub>[Наверх](#goUp)</sub>_
 1. [Align](https://marketplace.visualstudio.com/items?itemName=steve8708.Align) - Выравние кода. Mac: <kbd>ctrl</kbd>+<kbd>cmd</kbd>+<kbd>a</kbd> Linux/Windows: <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>a</kbd>.
 1. [All Autocomplete](https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete) - Обеспечивает автозаполнение элементов кода Visual Studio на основе всех открытых редакторов.
 1. [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) - Поддержка синтаксиса Apache conf для VS Code. Подсветка синтаксиса для файлов конфигурации Apache в коде Visual Studio.
-1. [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) - Автоматически добавляет закрывающий тег HTML / XML, так же, как в IDE Visual Studio  или Sublime Text.
+1. [Auto Close Tag](https://marketplace.visualstudio.com/itemdetails?itemName=formulahendry.auto-close-tag) - Автоматически добавляет закрывающий тег HTML / XML, так же, как в IDE Visual Studio  или Sublime Text.
+1. [Auto Complete Tag](https://marketplace.visualstudio.com/itemdetails?itemName=formulahendry.auto-complete-tag) - Объединяет функции автоматического закрытия и автоматического переименования тегов.
 1. [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) - Автоматически находит, анализирует и обеспечивает завершение кода для всех доступных импортов. Работает с Typescript и TSX.
 <!-- 1. [Auto Import - ES6, TS, JSX, TSX](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import) - Автоматически находит, анализирует и обеспечивает завершение кода для доступных импортов. Работает с JavaScript и TypeScript. -->
 1. [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Автоматически переименовывает парные теги HTML / XML, как в Visual Studio IDE.
+1. [Beautify](https://marketplace.visualstudio.com/itemdetails?itemName=HookyQR.beautify) - Плагин позволяет гибко настраивать встроенный Beautify.
 1. [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - Подсвечивает парные скобки. У каждой пары свой цвет.
 1. [Class autocomplete for HTML](https://marketplace.visualstudio.com/items?itemName=AESSoft.aessoft-class-autocomplete) - Расширение автоматически сканирует активный HTML-файл на наличие ссылок на внешние таблицы стилей CSS. Когда таблица стилей найдена, имена классов извлекаются и становятся доступными для использования с функцией автозавершения кода в Visual Studio Code.
-1. [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Подсветка кода цветов CSS.
+1. [Code Runner](https://marketplace.visualstudio.com/itemdetails?itemName=formulahendry.code-runner) - Позволяет запускать блоки кода прямо из редактора.
+<!-- 1. [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Подсветка кода цветов CSS. -->
 1. [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color) - Помощник с графическим интерфейсом для создания цветовых кодов CSS.
 1. [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - Добавляет возможность просматривать идентификаторы CSS непосредственно из HTML и при необходимости перейти к ним в файле стилей.
 1. [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Расширение VS Code для отладки кода JavaScript в браузере Google Chrome.
 1. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Интегрирует ESLint в VS Code.
-1. [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) - Иконки для файлов в VS Code.
+<!-- 1. [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) - Иконки для файлов в VS Code. -->
 1. [ftp-simple](https://marketplace.visualstudio.com/items?itemName=humy2833.ftp-simple) - Простой FTP / SFTP.
 1. [Gist](https://marketplace.visualstudio.com/items?itemName=kenhowardpdx.vscode-gist) - Создание, открытие и редактирование Gist`s.
+1. [GitLens](https://marketplace.visualstudio.com/itemdetails?itemName=eamodio.gitlens) - Работа с Git.
 1. [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) - Завершение атрибута класса.
     - Завершение атрибута класса.
     - Идентификатор завершения атрибута.
@@ -43,11 +47,14 @@ _<sub>[Наверх](#goUp)</sub>_
     - Использует vscode-css-languageservice
 1. [html tag wrapper](https://marketplace.visualstudio.com/items?itemName=hwencc.html-tag-wrapper) - Оборачивает выбранный блок кода в HTML-тег нажатием <kbd>Ctrl</kbd> + <kbd>I</kbd>, можно изменить имя тега-обертки. Работает только в HTML.
 1. [htmltagwrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap) - Обертывание выбранного кода в HTML-тег с помщью клавиш <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>W</kbd>, не зависит от языка редактирования.
+1. [Import Cost](https://marketplace.visualstudio.com/itemdetails?itemName=wix.vscode-import-cost) - Отображает размер импортируемого пакета.
 1. [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - Расширение VS Code, которое обеспечивает завершение имени класса CSS для class-атрибута HTML на основе определений, найденных в вашем рабочем пространстве или внешних файлах, на которые ссылается link-элемент.
+1. [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/itemdetails?itemName=xabikos.JavaScriptSnippets) - Фрагменты кода для JavaScript в синтаксисе ES6.
 1. [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets) - Более 130 сниппетов jQuery. Просто введите буквы `jq`, чтобы получить список всех доступных фрагментов кода jQuery.
 1. [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint) - Интегрирует JSHint в VS Code. JSHint - это линтер для JavaScript.
 1. [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) - Расширение VS Code, которое компилирует файлы SASS/SCSS в файлы CSS в режиме реального времени без перезагрузки браузера.
 1. [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Запускает локальный Сервер разработки со встроенным LiveReload.
+1. [Multiple clipboards for VSCode](https://marketplace.visualstudio.com/itemdetails?itemName=slevesque.vscode-multiclip) - Расширяет возможности рабрты с текстом и буфером обмена.
 1. [Node.js Modules Intellisense](https://marketplace.visualstudio.com/items?itemName=leizongmin.node-module-intellisense) - Плагин VS Code для автозаполнения модулей JavaScript/TypeScript в операторах импорта.
 1. [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Плагин VS Code для автозаполнения модулей npm в операторах импорта.
 1. [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) - Позволяет открывать текущий файл в браузере.
@@ -71,7 +78,8 @@ _<sub>[Наверх](#goUp)</sub>_
 1. [Pug/Jade Snippets](https://marketplace.visualstudio.com/items?itemName=amandeepmittal.pug) - Pug/Jade сниппеты для VS Code.
 1. [Pug (Jade) snippets](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-jade-snippets) - Предоставляет базовый набор фрагментов для Jade/Pug.
 1. [React PropTypes Intellisense](https://marketplace.visualstudio.com/items?itemName=OfHumanBondage.react-proptypes-intellisense) - Расширение находит React PropTypes и добавляет их в список предложений.
-1. [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST Client позволяет отправлять HTTP-запрос и просматривать ответ непосредственно в VS Code.
+1. [Reactjs code snippets](https://marketplace.visualstudio.com/itemdetails?itemName=xabikos.ReactSnippets) - Фрагменты кода для разработки Reactjs в синтаксисе ES6.
+<!-- 1. [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST Client позволяет отправлять HTTP-запрос и просматривать ответ непосредственно в VS Code. -->
 1. [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented) - Подсветка синтаксиса Sass, автозаполнение и фрагменты для VSCode.
 1. [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss) - Расширенная поддержка автозаполнения и рефакторинга SCSS для VSCode.
 1. [Shell Launcher](https://marketplace.visualstudio.com/items?itemName=Tyriar.shell-launcher) - Расширенная позволяет запускать одновременно несколько оболочек в терминале.
@@ -88,6 +96,7 @@ _<sub>[Наверх](#goUp)</sub>_
 1. [One Monokai Theme](https://marketplace.visualstudio.com/items?) - Тема оформления One Monokai Theme.
 1. [Theme - Seti-Monokai](https://marketplace.visualstudio.com/items?itemName=SmukkeKim.theme-setimonokai) - Тема оформления Seti Monokai.
 1. [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Набор иконок для VS Code.
+1. [Theme - Oceanic Next](https://marketplace.visualstudio.com/itemdetails?itemName=naumovs.theme-oceanicnext) - Тема для VSCode + версия с затемненным bg для лучшего внешнего вида интерфейса.
 
 
 ------------------------------------------------------------------------------------------
