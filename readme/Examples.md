@@ -4,8 +4,10 @@
 ### **[Академия верстки](https://glo-academy.ru/frontenddeveloper/)**
 |                      Наименование                      | Репозиторий | Демо |
 |:-------------------------------------------------------|:------------|:-----|
-|[Интенсив по JS](https://www.youtube.com/watch?v=NHB0OJg9CMU)|[репозиторий](https://github.com/vik-vavilikhin/IntensiveJS)|[демо](https://vik-vavilikhin.github.io/IntensiveJS/)|
+|[Интенсив по JS #1](https://www.youtube.com/watch?v=NHB0OJg9CMU)|[репозиторий](https://github.com/vik-vavilikhin/IntensiveJS)|[демо](https://vik-vavilikhin.github.io/IntensiveJS/)|
+|[Интенсив по JS #2](https://www.youtube.com/watch?v=lzwieQQDxLY&list=PLSoSRmO9N3goLCoLIVP2HEqlDozvJnkh0&index=4)|[репозиторий]()|[демо]()|
 |[Веб-разработчик 10.0](https://study.up-skills.ru/teach/control/stream/view/id/6290544)|[репозиторий](https://github.com/vik-vavilikhin/WebMaster10)|[демо-1](https://vik-vavilikhin.github.io/WebMaster10/in-work/dist/), [демо-2](https://vik-vavilikhin.github.io/WebMaster10/video_50/dist/)|
+|[Полный курс по JavaScript - с нуля до результата](https://www.udemy.com/javascript_full/learn/lecture/12196866?start=0#overview)|[репозиторий]()|[демо]()|
 
 ------------------------------------------------------------------------------------------
 ### **[WebDesign Master](https://webdesign-master.ru/). Уроки создания сайтов**
