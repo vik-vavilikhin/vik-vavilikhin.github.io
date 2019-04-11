@@ -51,7 +51,24 @@ _<sub>[Наверх](#goUp)</sub>_
 1. [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - Расширение VS Code, которое обеспечивает завершение имени класса CSS для class-атрибута HTML на основе определений, найденных в вашем рабочем пространстве или внешних файлах, на которые ссылается link-элемент.
 1. [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/itemdetails?itemName=xabikos.JavaScriptSnippets) - Фрагменты кода для JavaScript в синтаксисе ES6.
 1. [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets) - Более 130 сниппетов jQuery. Просто введите буквы `jq`, чтобы получить список всех доступных фрагментов кода jQuery.
-1. [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint) - Интегрирует JSHint в VS Code. JSHint - это линтер для JavaScript.
+1. [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint) - Интегрирует [JSHint](https://jshint.com/) в VS Code. JSHint - это линтер для JavaScript. 
+    - [JSHint Options](https://jshint.com/docs/options/)
+    ```
+    {
+      "camelcase" : true,
+      "indent": 2,
+      "undef": true,
+      "quotmark": false,
+      "maxlen": 80,
+      "trailing": true,
+      "curly": true,
+      "strict": "global",
+      "browser": true,
+      "devel": true,
+      "jquery": true,
+      "esversion": 7
+    }
+    ```
 1. [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) - Расширение VS Code, которое компилирует файлы SASS/SCSS в файлы CSS в режиме реального времени без перезагрузки браузера.
 1. [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Запускает локальный Сервер разработки со встроенным LiveReload.
 1. [Multiple clipboards for VSCode](https://marketplace.visualstudio.com/itemdetails?itemName=slevesque.vscode-multiclip) - Расширяет возможности рабрты с текстом и буфером обмена.
