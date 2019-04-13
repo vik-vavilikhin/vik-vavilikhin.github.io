@@ -1,6 +1,6 @@
 | [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) |
 
-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 ### **[Академия верстки](https://glo-academy.ru/frontenddeveloper/)**
 |                      Наименование                      | Репозиторий | Демо |
 |:-------------------------------------------------------|:------------|:-----|
@@ -9,14 +9,14 @@
 |[Веб-разработчик 10.0](https://study.up-skills.ru/teach/control/stream/view/id/6290544)|[репозиторий](https://github.com/vik-vavilikhin/WebMaster10)|[демо-1](https://vik-vavilikhin.github.io/WebMaster10/in-work/dist/), [демо-2](https://vik-vavilikhin.github.io/WebMaster10/video_50/dist/)|
 |[Полный курс по JavaScript - с нуля до результата](https://www.udemy.com/javascript_full/learn/lecture/12196866?start=0#overview)|[репозиторий]()|[демо]()|
 
-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 ### **[WebDesign Master](https://webdesign-master.ru/). Уроки создания сайтов**
 |                      Наименование                      | Репозиторий | Демо |
 |:-------------------------------------------------------|:------------|:-----|
 |Jekyll - По какой-то причине не работают стили. Надо разбираться.|[репозиторий](https://github.com/vik-vavilikhin/Jekyll)|[демо](https://vik-vavilikhin.github.io/Jekyll/dist/)|
 |[Джедай вёрстки #7. Проект S&Mitler](https://www.youtube.com/watch?v=vWfRHtxy81Q&index=17&list=PLyf8LgkO_8q_-ELwz9tlMX8R5gMSRWNto)|[репозиторий](https://github.com/vik-vavilikhin/S-Mitler)|[демо](https://vik-vavilikhin.github.io/S-Mitler/app)|
 
-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 ### **[WebForMySelf](https://webformyself.com/). Все о создании сайтов**
 |                      Наименование                      | Репозиторий | Демо |
 |:-------------------------------------------------------|:------------|:-----|
@@ -24,7 +24,7 @@
 |[ Full-Stack практика. Создание JavaScript блога](https://www.youtube.com/watch?v=ixVQjTwqfe0&list=PLD-piGJ3Dtl2zA18HzryjQy9Dwa_1Hjs1)|[репозиторий](https://github.com/vik-vavilikhin/FullStackPractic)|[демо](https://vik-vavilikhin.github.io/FullStackPractic/)|
 |[Фреймворк Bootstrap 4. Руководство по адаптивной верстке](https://webformyself.com/bootstrap/?utm_medium=systema&utm_source=nashikursi&utm_campaign=bootstrap)|[репозиторий](https://github.com/vik-vavilikhin/Bootstrap4)|[демо](https://vik-vavilikhin.github.io/Bootstrap4/)|
 
-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 ### **Странцы. Блоки. Элементы**
 |                      Наименование                      | Репозиторий | Демо |
 |:-------------------------------------------------------|:------------|:-----|
@@ -34,9 +34,9 @@
 |[MenuResponsive](https://www.youtube.com/watch?v=cQ6YQ8K5MRw) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/MenuResponsive)|[демо](https://vik-vavilikhin.github.io/MenuResponsive/)|
 |[MenuAccordion](https://www.youtube.com/watch?v=gnyYpX2nc1g) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/MenuAccordion)|[демо](https://vik-vavilikhin.github.io/MenuAccordion/)|
 |[ContentBoxWithHoverEffects](https://www.youtube.com/watch?v=IFai8qTKvEM) - Эффекты при наведении на блоки с содержимым. На чистом CSS|[репозиторий](https://github.com/vik-vavilikhin/ContentBoxWithHoverEffects)|[демо](https://vik-vavilikhin.github.io/ContentBoxWithHoverEffects/)|
-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 <!-- ### **[Компьютерная школа Hillel](https://ithillel.ua/)**
 |                      Наименование                      | Репозиторий | Демо |
 |:-------------------------------------------------------|:------------|:-----|
 |[hillel-webinar-dom](https://www.youtube.com/watch?v=onvORFSDw9Y)|[репозиторий](https://github.com/vik-vavilikhin/DOMInJS)|[демо]( https://vik-vavilikhin.github.io/DOMInJS/)|
------------------------------------------------------------------------------------------- -->
+------------------------------------------------------------------------------- -->
