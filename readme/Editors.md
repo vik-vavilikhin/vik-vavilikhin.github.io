@@ -124,6 +124,8 @@ _<sub>[Наверх](#goUp)</sub>_
   "files.autoSave": "onFocusChange",
   "open-in-browser.default": "Chrome",
   "emmet.triggerExpansionOnTab": true,
+  // "gist.oauth_token": "48286d9bd8e3840223ada7327072d40314b21194",
+  // "gist.oauth_token": "b4fa0ff3642da6309093387288c698c355c386d4",
 
   "window.menuBarVisibility": "toggle",
   "window.zoomLevel": 0,
@@ -133,8 +135,8 @@ _<sub>[Наверх](#goUp)</sub>_
   "workbench.statusBar.visible": true,
   "workbench.editor.tabSizing": "shrink",
   "workbench.sideBar.location": "left",
-  "workbench.colorTheme": "Seti Monokai",
-  "workbench.iconTheme": "file-icons",
+  "workbench.colorTheme": "Oceanic Next (dimmed bg)",
+  "workbench.iconTheme": "material-icon-theme",
   "workbench.colorCustomizations": {
     "editorIndentGuide.activeBackground": "#5c5c5c"
   },
@@ -149,19 +151,32 @@ _<sub>[Наверх](#goUp)</sub>_
   "editor.renderWhitespace": "boundary",
   "editor.fontSize": 15,
   "editor.renderLineHighlight": "line",
-  
+
   // ========== Настройка JShint под синтаксис ES6 ===
-  "jshint.options": {"esversion": 6},
+  "jshint.options": {
+    "camelcase": true,
+    "indent": 2,
+    "undef": true,
+    "quotmark": false,
+    "maxlen": 80,
+    "trailing": true,
+    "curly": true,
+    "strict": "global",
+    "browser": true,
+    "devel": true,
+    "jquery": true,
+    "esversion": 6
+  },
 
   // ========== Настройка длины строки ===============
   // Установить перенос строки по достижении края области редактора
   // "editor.wordWrap": "on",
   // Установить ширину строки (символов)
-  "editor.wordWrapColumn": 93,
+  "editor.wordWrapColumn": 80,
   // Установить перенос строки при достижении установленной ширины
   "editor.wordWrap": "wordWrapColumn",
   // Установить вертикальную линию на границе, установленной ширины
-  "editor.rulers": [93],
+  "editor.rulers": [83],
 
   // ========== Настройка всплывающих поодсказок =====
   // убирает ВСЕ всплывающие подсказки
@@ -203,7 +218,7 @@ _<sub>[Наверх](#goUp)</sub>_
   
   // ========== PHP ==================================
   "php.suggest.basic": false,
-  "php.executablePath": "D:/xampp/php/php.exe",
+  // "php.executablePath": "D:/xampp/php/php.exe",
   "php.validate.executablePath": "D:/xampp/php/php.exe",
 
   // ========== React.js =============================
@@ -265,7 +280,7 @@ _<sub>[Наверх](#goUp)</sub>_
   ],
   "git.enableSmartCommit": true,
   "git.autofetch": true,
-  "git.confirmSync": false,
+  "git.confirmSync": false
 }
 ```
 
