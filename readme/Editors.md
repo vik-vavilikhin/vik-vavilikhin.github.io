@@ -99,6 +99,8 @@ _<sub>[Наверх](#goUp)</sub>_
 <!-- 1. [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST Client позволяет отправлять HTTP-запрос и просматривать ответ непосредственно в VS Code. -->
 1. [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented) - Подсветка синтаксиса Sass, автозаполнение и фрагменты для VSCode.
 1. [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss) - Расширенная поддержка автозаполнения и рефакторинга SCSS для VSCode.
+1. [sftp](https://marketplace.visualstudio.com/items?itemName=liximomo.sftp) - SFTP / FTP синхронизация 
+    - [Видео](https://www.youtube.com/watch?v=PScCKG6hUig) по настройке дополнения.
 1. [Shell Launcher](https://marketplace.visualstudio.com/items?itemName=Tyriar.shell-launcher) - Расширенная позволяет запускать одновременно несколько оболочек в терминале.
 1. [VSCode Browser Sync](https://marketplace.visualstudio.com/items?itemName=jasonlhy.vscode-browser-sync) - Интегрированния синхронизация Browser Sync для VS Code.
 1. [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Набор иконок для VS Code.
