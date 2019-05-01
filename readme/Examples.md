@@ -25,15 +25,15 @@
 |[Фреймворк Bootstrap 4. Руководство по адаптивной верстке](https://webformyself.com/bootstrap/?utm_medium=systema&utm_source=nashikursi&utm_campaign=bootstrap)|[репозиторий](https://github.com/vik-vavilikhin/Bootstrap4)|[демо](https://vik-vavilikhin.github.io/Bootstrap4/)|
 
 -------------------------------------------------------------------------------
-### **Странцы. Блоки. Элементы**
+### **Странцы. Блоки. Элементы. Модули**
 |                      Наименование                      | Репозиторий | Демо |
 |:-------------------------------------------------------|:------------|:-----|
-|Prizm - Верстка копии сайта без макета + адаптация бокового меню|[репозиторий](https://github.com/vik-vavilikhin/Prizm)|[демо](https://vik-vavilikhin.github.io/Prizm/app/assets)|
-|DesignDew - Верстка PerfectPixel + Gulp + Pug + Scss|[репозиторий](https://github.com/vik-vavilikhin/DesignDew)|[демо](https://vik-vavilikhin.github.io/DesignDew/app/assets)|
-|[MenuCSS](https://www.youtube.com/watch?v=K3C4NdzFHg0) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/MenuCSS)|[демо](https://vik-vavilikhin.github.io/MenuCSS/dist/)|
-|[MenuResponsive](https://www.youtube.com/watch?v=cQ6YQ8K5MRw) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/MenuResponsive)|[демо](https://vik-vavilikhin.github.io/MenuResponsive/)|
-|[MenuAccordion](https://www.youtube.com/watch?v=gnyYpX2nc1g) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/MenuAccordion)|[демо](https://vik-vavilikhin.github.io/MenuAccordion/)|
-|[ContentBoxWithHoverEffects](https://www.youtube.com/watch?v=IFai8qTKvEM) - Эффекты при наведении на блоки с содержимым. На чистом CSS|[репозиторий](https://github.com/vik-vavilikhin/ContentBoxWithHoverEffects)|[демо](https://vik-vavilikhin.github.io/ContentBoxWithHoverEffects/)|
+|Prizm - Верстка копии сайта без макета + адаптация бокового меню|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/Prizm)|[демо](https://vik-vavilikhin.github.io/portfolio/Prizm/app/assets)|
+|DesignDew - Верстка PerfectPixel + Gulp + Pug + Scss|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/DesignDew)|[демо](https://vik-vavilikhin.github.io/portfolio/DesignDew/app/assets)|
+|[MenuCSS](https://www.youtube.com/watch?v=K3C4NdzFHg0) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/blocks/MenuCSS)|[демо](https://vik-vavilikhin.github.io/portfolio/MenuCSS/dist/)|
+|[MenuResponsive](https://www.youtube.com/watch?v=cQ6YQ8K5MRw) - меню на чистом CSS.|[репозиторий]https://github.com/vik-vavilikhin/portfolio/tree/master/blocks/MenuResponsive)|[демо](https://vik-vavilikhin.github.io/portfolio/MenuResponsive/)|
+|[MenuAccordion](https://www.youtube.com/watch?v=gnyYpX2nc1g) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/blocks/MenuAccordion)|[демо](https://vik-vavilikhin.github.io/portfolio/MenuAccordion/)|
+|[ContentBoxWithHoverEffects](https://www.youtube.com/watch?v=IFai8qTKvEM) - Эффекты при наведении на блоки с содержимым. На чистом CSS|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/blocks/ContentBoxWithHoverEffects)|[демо](https://vik-vavilikhin.github.io/portfolio/ContentBoxWithHoverEffects/)|
 -------------------------------------------------------------------------------
 <!-- ### **[Компьютерная школа Hillel](https://ithillel.ua/)**
 |                      Наименование                      | Репозиторий | Демо |
