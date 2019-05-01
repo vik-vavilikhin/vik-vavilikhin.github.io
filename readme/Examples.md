@@ -28,8 +28,14 @@
 ### **Странцы. Блоки. Элементы. Модули**
 |                      Наименование                      | Репозиторий | Демо |
 |:-------------------------------------------------------|:------------|:-----|
-|Prizm - Верстка копии сайта без макета + адаптация бокового меню|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/Prizm)|[демо](https://vik-vavilikhin.github.io/portfolio/Prizm/app/assets)|
+|Aditii - Адаптивная верстка магазина с элементами: слайдеры, карусели +  Gulp + Pug + Scss|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/Aditii)|[демо](https://vik-vavilikhin.github.io/portfolio/Aditii/app)|
+|Agnecy - Попытка сделать шаблон. Нужна коренная доработка или полная переделка.|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/Agnecy)|[демо](https://vik-vavilikhin.github.io/portfolio/Agnecy/app/assets)|
+|Cherry - Одностраничник. Содержит таблицу. Требует адаптации меню.|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/Cherry)|[демо](https://vik-vavilikhin.github.io/portfolio/Cherry/app)|
 |DesignDew - Верстка PerfectPixel + Gulp + Pug + Scss|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/DesignDew)|[демо](https://vik-vavilikhin.github.io/portfolio/DesignDew/app/assets)|
+|PhotoSharing - Верстка PerfectPixel + Gulp + Pug + Scss|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/PhotoSharing)|[демо](https://vik-vavilikhin.github.io/portfolio/PhotoSharing/app)|
+|portfolio_maket - Макет сайта-портфолио. Нужна настройка и доработка.|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/portfolio_maket)|[демо](https://vik-vavilikhin.github.io/portfolio/portfolio_maket)|
+|Pricing - Пример прозрачного градиента.|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/Pricing)|[демо](https://vik-vavilikhin.github.io/portfolio/Pricing/app/assets)|
+|Prizm - Верстка копии сайта без макета + адаптация бокового меню|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/Prizm)|[демо](https://vik-vavilikhin.github.io/portfolio/Prizm/app/assets)|
 |--------------------------------------------------------|-------------|------|
 |[MenuCSS](https://www.youtube.com/watch?v=K3C4NdzFHg0) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/blocks/MenuCSS)|[демо](https://vik-vavilikhin.github.io/portfolio/blocks/MenuCSS/dist/)|
 |[MenuResponsive](https://www.youtube.com/watch?v=cQ6YQ8K5MRw) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/blocks/MenuResponsive)|[демо](https://vik-vavilikhin.github.io/portfolio/blocks/MenuResponsive/)|
