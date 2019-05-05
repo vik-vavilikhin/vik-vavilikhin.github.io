@@ -41,6 +41,7 @@
 |[MenuAccordion](https://www.youtube.com/watch?v=gnyYpX2nc1g) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/blocks/MenuAccordion)|[демо](https://vik-vavilikhin.github.io/portfolio/blocks/MenuAccordion/)|
 |[MenuCSS](https://www.youtube.com/watch?v=K3C4NdzFHg0) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/blocks/MenuCSS)|[демо](https://vik-vavilikhin.github.io/portfolio/blocks/MenuCSS/dist/)|
 |[MenuResponsive](https://www.youtube.com/watch?v=cQ6YQ8K5MRw) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/blocks/MenuResponsive)|[демо](https://vik-vavilikhin.github.io/portfolio/blocks/MenuResponsive/)|
+|[Pure CSS Slider](https://www.youtube.com/watch?v=cQ6YQ8K5MRw) - меню на чистом CSS.|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/blocks/MenuResponsive)|[демо](https://vik-vavilikhin.github.io/portfolio/blocks/MenuResponsive/)|
 |Закладки / Tabs - Написаны в виде модуля для встраивания в проект.|[репозиторий](https://github.com/vik-vavilikhin/portfolio/tree/master/blocks/tabs)|[демо](https://vik-vavilikhin.github.io/portfolio/blocks/tabs/)|
 -------------------------------------------------------------------------------
 <!-- ### **[Компьютерная школа Hillel](https://ithillel.ua/)**
