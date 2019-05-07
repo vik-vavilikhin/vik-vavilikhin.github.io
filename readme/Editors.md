@@ -8,7 +8,7 @@
 |
 
 -------------------------------------------------------------------------------
-_<sub>[Наверх](#goUp)</sub>_
+_<sub>[&#9650; Наверх](#goUp)</sub>_
 ## <a id="VSCode"></a>Редактор [Visual Studio Code](https://code.visualstudio.com/)
 - [Плагины](#PluginsVSCode).
 - [Темы оформления редактора](#ThemesVSCode).
