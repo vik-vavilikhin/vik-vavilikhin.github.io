@@ -20,7 +20,7 @@ _<sub>[&#9650; Наверх](#goUp)</sub>_
 <!-- 1. [Align](https://marketplace.visualstudio.com/items?itemName=steve8708.Align) - Выравние кода. Mac: <kbd>ctrl</kbd>+<kbd>cmd</kbd>+<kbd>a</kbd> Linux/Windows: <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>a</kbd>. -->
 1. [All Autocomplete](https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete) - Обеспечивает автозаполнение элементов кода Visual Studio на основе всех открытых редакторов.
 1. [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) - Поддержка синтаксиса Apache conf для VS Code. Подсветка синтаксиса для файлов конфигурации Apache в коде Visual Studio.
-1. [Auto Close Tag](https://marketplace.visualstudio.com/itemdetails?itemName=formulahendry.auto-close-tag) - Автоматически добавляет закрывающий тег HTML / XML, так же, как в IDE Visual Studio  или Sublime Text.
+1. [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Автоматически добавляет закрывающий тег HTML / XML, так же, как в IDE Visual Studio  или Sublime Text.
 1. [Auto Complete Tag](https://marketplace.visualstudio.com/itemdetails?itemName=formulahendry.auto-complete-tag) - Объединяет функции автоматического закрытия и автоматического переименования тегов.
 1. [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) - Автоматически находит, анализирует и обеспечивает завершение кода для всех доступных импортов. Работает с Typescript и TSX.
 <!-- 1. [Auto Import - ES6, TS, JSX, TSX](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import) - Автоматически находит, анализирует и обеспечивает завершение кода для доступных импортов. Работает с JavaScript и TypeScript. -->
