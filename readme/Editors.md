@@ -17,7 +17,7 @@ _<sub>[&#9650; Наверх](#goUp)</sub>_
 -------------------------------------------------------------------------------
 ### <a id="PluginsVSCode"></a>Список плагинов:
 1. [ACF-Snippet](https://marketplace.visualstudio.com/items?itemName=anthonydiametrix.ACF-Snippet) - Snippets for Visual Studio Code : Advanced Custom Fields.
-1. [Align](https://marketplace.visualstudio.com/items?itemName=steve8708.Align) - Выравние кода. Mac: <kbd>ctrl</kbd>+<kbd>cmd</kbd>+<kbd>a</kbd> Linux/Windows: <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>a</kbd>.
+<!-- 1. [Align](https://marketplace.visualstudio.com/items?itemName=steve8708.Align) - Выравние кода. Mac: <kbd>ctrl</kbd>+<kbd>cmd</kbd>+<kbd>a</kbd> Linux/Windows: <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>a</kbd>. -->
 1. [All Autocomplete](https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete) - Обеспечивает автозаполнение элементов кода Visual Studio на основе всех открытых редакторов.
 1. [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) - Поддержка синтаксиса Apache conf для VS Code. Подсветка синтаксиса для файлов конфигурации Apache в коде Visual Studio.
 1. [Auto Close Tag](https://marketplace.visualstudio.com/itemdetails?itemName=formulahendry.auto-close-tag) - Автоматически добавляет закрывающий тег HTML / XML, так же, как в IDE Visual Studio  или Sublime Text.
