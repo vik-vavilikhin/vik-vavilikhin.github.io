@@ -15,5 +15,8 @@
 | [Полезняшки](readme/Useful.md)
 |
 
+| [Курсы](readme/Courses.md)
+|
+
 | [Примеры работ](readme/Examples.md)
 |
