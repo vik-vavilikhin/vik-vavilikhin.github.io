@@ -18,5 +18,5 @@
 | [Курсы](readme/Courses.md)
 |
 
-| [Примеры работ](readme/Examples.md)
+| [Примеры работ](https://github.com/vik-vavilikhin/portfolio)
 |
