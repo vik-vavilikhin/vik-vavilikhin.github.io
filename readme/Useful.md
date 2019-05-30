@@ -67,6 +67,7 @@ _Таблица насыщенности шрифтов `font-weight`_
 - [CodePen](https://codepen.io) - Песочница для HTML, CSS о JS
 - [JSFiddle](https://jsfiddle.net/) - Песочница для JavaScript
 - [CSS Desk](http://cssdeck.com/) - Песочница
+- [CodeSandbox](https://codesandbox.io/?from-app=1/) - Онлайн редактор кода
 
 -------------------------------------------------------------------------------
 ## Интересные сайты. Статьи.
