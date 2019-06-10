@@ -122,53 +122,46 @@ _<sub>[&#9650; Наверх](#goUp)</sub>_
 ### <a id="SettingsVSCode"></a>Настройки редактора [Visual Studio Code](https://code.visualstudio.com/)
 ```
 {
-  "files.defaultLanguage": "html",
-  "files.autoSave": "onFocusChange",
-  "open-in-browser.default": "Chrome",
-  "emmet.triggerExpansionOnTab": true,
-  // "gist.oauth_token": "48286d9bd8e3840223ada7327072d40314b21194",
-  // "gist.oauth_token": "b4fa0ff3642da6309093387288c698c355c386d4",
-
+  // ========== EXPLORER =============================
+  "explorer.confirmDragAndDrop": false,
+  
+  // ========== FILES ================================
+  "files.defaultLanguage"      : "html",
+  "files.autoSave"             : "onFocusChange",
+  
+  // ========== ETC ==================================
+  "open-in-browser.default"    : "Chrome",
+  "breadcrumbs.symbolSortOrder": "type",
+  
+  // ========== WINDOW ===============================
   "window.menuBarVisibility": "toggle",
-  "window.zoomLevel": 0,
-
-  "workbench.startupEditor": "newUntitledFile",
+  "window.zoomLevel"        : 0,
+  
+  // ========== WORKBENCH ============================
   // "workbench.statusBar.feedback.visible": false,
-  "workbench.statusBar.visible": true,
-  "workbench.editor.tabSizing": "shrink",
-  "workbench.sideBar.location": "left",
-  "workbench.colorTheme": "Oceanic Next (dimmed bg)",
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.panel.defaultLocation": "right",
+  "workbench.iconTheme"          : "vscode-icons",
+  "workbench.startupEditor"      : "newUntitledFile",
+  "workbench.statusBar.visible"  : true,
+  "workbench.editor.tabSizing"   : "shrink",
+  "workbench.sideBar.location"   : "left",
+  "workbench.colorTheme"         : "Oceanic Next (dimmed bg)",
   "workbench.colorCustomizations": {
     "editorIndentGuide.activeBackground": "#5c5c5c"
   },
-
-  "editor.tabSize": 2,
+  
+  // ========== EDITOR ===============================
   // "editor.insertSpaces": false,
-  "editor.detectIndentation": false,
-  "editor.glyphMargin": false,
-  "editor.smoothScrolling": true,
+  "editor.minimap.enabled"    : false,
+  "editor.tabSize"            : 2,
+  // "editor.detectIndentation"  : false,
+  // "editor.glyphMargin"        : false,
+  "editor.smoothScrolling"    : true,
   "editor.multiCursorModifier": "ctrlCmd",
-  "editor.formatOnPaste": true,
-  "editor.renderWhitespace": "boundary",
-  "editor.fontSize": 15,
+  "editor.formatOnPaste"      : true,
+  // "editor.renderWhitespace"   : "boundary", //Непечатные символы
+  "editor.fontSize"           : 15,
   "editor.renderLineHighlight": "line",
-
-  // ========== Настройка JShint под синтаксис ES6 ===
-  "jshint.options": {
-    "camelcase": true,
-    "indent": 2,
-    "undef": true,
-    "quotmark": false,
-    "maxlen": 80,
-    "trailing": true,
-    "curly": true,
-    "strict": "global",
-    "browser": true,
-    "devel": true,
-    "jquery": true,
-    "esversion": 6
-  },
 
   // ========== Настройка длины строки ===============
   // Установить перенос строки по достижении края области редактора
@@ -176,9 +169,9 @@ _<sub>[&#9650; Наверх](#goUp)</sub>_
   // Установить ширину строки (символов)
   "editor.wordWrapColumn": 80,
   // Установить перенос строки при достижении установленной ширины
-  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrap"      : "wordWrapColumn",
   // Установить вертикальную линию на границе, установленной ширины
-  "editor.rulers": [83],
+  "editor.rulers"        : [83],
 
   // ========== Настройка всплывающих поодсказок =====
   // убирает ВСЕ всплывающие подсказки
@@ -192,16 +185,16 @@ _<sub>[&#9650; Наверх](#goUp)</sub>_
   "editor.quickSuggestions": {
     // "other": false,
     "comments": false,
-    "strings": false
+    "strings" : false
   },
   
-  // ========== Настройка терминала ==================
+  // ========== TERMINAL =============================
   "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\bash.exe",
-  "shellLauncher.shells.windows": [
+  "shellLauncher.shells.windows"     : [
     // Для запуска:
     // 	Ctrl+Shift+P ==> Shell launcher
     {
-      "shell": "C:\\Windows\\sysnative\\cmd.exe",
+      "shell": "C:\\Windows\\System32\\cmd.exe",
       "label": "cmd"
     },
     {
@@ -213,21 +206,22 @@ _<sub>[&#9650; Наверх](#goUp)</sub>_
       "label": "Bash"
     },
     {
-      "shell": "D:\\Git\\git-cmd.exe",
+      "shell": "C:\\Program Files\\Git\\git-cmd.exe",
       "label": "Git-cmd"
     }
   ],
   
   // ========== PHP ==================================
-  "php.suggest.basic": false,
-  // "php.executablePath": "D:/xampp/php/php.exe",
+  // "php.executablePath"         : "D:/xampp/php/php.exe",
+  "php.suggest.basic"          : false,
   "php.validate.executablePath": "D:/xampp/php/php.exe",
 
   // ========== React.js =============================
   "files.associations": {
-    "*.js": "javascriptreact"
+    // "*.js": "javascriptreact"
   },
   
+  // ========== EMMET ================================
   "emmet.syntaxProfiles": {
     "javascript": "jsx"
   },
@@ -235,15 +229,15 @@ _<sub>[&#9650; Наверх](#goUp)</sub>_
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
-  
-  "workbench.panel.defaultLocation": "right",
-  "breadcrumbs.symbolSortOrder": "type",
-  "eslint.validate": [
+  "emmet.triggerExpansionOnTab": true,
+
+  // ========== ESLINT ===============================
+  "eslint.validate"                : [
     "javascript",
     "javascriptreact",
     {
       "language": "html",
-      "autoFix": true
+      "autoFix" : true
     }
   ],
   
@@ -262,9 +256,9 @@ _<sub>[&#9650; Наверх](#goUp)</sub>_
     // },
     // You can add more
     {
-      "format": "compressed",
+      "format"       : "compressed",
       "extensionName": ".css",
-      "savePath": "/css"
+      "savePath"     : "/css"
     },
     // More Complex
     // {
@@ -280,9 +274,30 @@ _<sub>[&#9650; Наверх](#goUp)</sub>_
     //   "savePath": "/"
     // },
   ],
+
+  // ========== JShint ===============================
+  "jshint.options": {
+    "camelcase": true,
+    "indent": 2,
+    "undef": true,
+    "quotmark": false,
+    "maxlen": 80,
+    "trailing": true,
+    "curly": true,
+    "strict": "implied",
+    "browser": true,
+    "devel": true,
+    "jquery": true,
+    "moz": true,
+    "esversion": 6
+  },
+
+  // ========== GIT ==================================
   "git.enableSmartCommit": true,
-  "git.autofetch": true,
-  "git.confirmSync": false
+  "git.autofetch"        : true,
+  "git.confirmSync"      : false,
+  // "gist.oauth_token": "48286d9bd8e3840223ada7327072d40314b21194",
+  // "gist.oauth_token": "b4fa0ff3642da6309093387288c698c355c386d4",
 }
 ```
 
