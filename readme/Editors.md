@@ -27,7 +27,7 @@ _<sub>[&#9650; Наверх](#goUp)</sub>_
 1. [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Автоматически переименовывает парные теги HTML / XML, как в Visual Studio IDE.
 1. [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - Плагин позволяет гибко настраивать встроенный Beautify.
 1. [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - Подсвечивает парные скобки. У каждой пары свой цвет.
-1. [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align) - Выравнивание кода <kbd>ctrl</kbd>+<kbd>win</kbd>+<kbd>=</kbd> .
+1. [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align) - Выравнивание кода <kbd>ctrl</kbd>+<kbd>win</kbd>+<kbd>=</kbd>.
 1. [Class autocomplete for HTML](https://marketplace.visualstudio.com/items?itemName=AESSoft.aessoft-class-autocomplete) - Расширение автоматически сканирует активный HTML-файл на наличие ссылок на внешние таблицы стилей CSS. Когда таблица стилей найдена, имена классов извлекаются и становятся доступными для использования с функцией автозавершения кода в Visual Studio Code.
 1. [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Позволяет запускать блоки кода прямо из редактора.
     <!-- 1. [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Подсветка кода цветов CSS. -->
