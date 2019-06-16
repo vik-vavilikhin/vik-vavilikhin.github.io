@@ -96,7 +96,7 @@ _<sub>[&#9650; Наверх](#goUp)</sub>_
 1. [Pug (Jade) snippets](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-jade-snippets) - Предоставляет базовый набор фрагментов для Jade/Pug.
 1. [React PropTypes Intellisense](https://marketplace.visualstudio.com/items?itemName=OfHumanBondage.react-proptypes-intellisense) - Расширение находит React PropTypes и добавляет их в список предложений.
 1. [Reactjs code snippets](https://marketplace.visualstudio.com/itemdetails?itemName=xabikos.ReactSnippets) - Фрагменты кода для разработки Reactjs в синтаксисе ES6.
-<!-- 1. [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST Client позволяет отправлять HTTP-запрос и просматривать ответ непосредственно в VS Code. -->
+    <!-- 1. [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST Client позволяет отправлять HTTP-запрос и просматривать ответ непосредственно в VS Code. -->
 1. [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented) - Подсветка синтаксиса Sass, автозаполнение и фрагменты для VSCode.
 1. [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss) - Расширенная поддержка автозаполнения и рефакторинга SCSS для VSCode.
 1. [sftp](https://marketplace.visualstudio.com/items?itemName=liximomo.sftp) - SFTP / FTP синхронизация 
