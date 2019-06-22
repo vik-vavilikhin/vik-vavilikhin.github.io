@@ -1,4 +1,8 @@
-**/node_modules/**
-**/maket/**
-**/app/vendor/**
-**/video/**
+/**/.git/
+/**/node_modules/
+/**/maket/
+/**/_backstage
+/**/package-lock.json
+/**/Thumbs.db
+/**/*.DS_Store
+/**/StartNewProject.rar
