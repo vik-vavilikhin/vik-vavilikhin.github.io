@@ -6,8 +6,8 @@
 |:-------------------------------------------------------|:------------|:-----|
 |[Интенсив по JS #1](https://www.youtube.com/watch?v=NHB0OJg9CMU)|[репозиторий](https://github.com/vik-vavilikhin/GloAcademyhttps://github.com/vik-vavilikhin/GloAcademy/tree/master/JS/IntensiveJS%231)|[демо]()|
 |[Интенсив по JS #2](https://www.youtube.com/watch?v=lzwieQQDxLY&list=PLSoSRmO9N3goLCoLIVP2HEqlDozvJnkh0&index=4)|[репозиторий](https://github.com/vik-vavilikhin/GloAcademy/tree/master/JS/IntensiveJS%232)|[демо]()|
-|[Веб-разработчик 10.0](https://study.up-skills.ru/teach/control/stream/view/id/6290544)|[репозиторий](https://github.com/vik-vavilikhin/WebMaster10)|[демо-1](https://vik-vavilikhin.github.io/WebMaster10/in-work/dist/), [демо-2](https://vik-vavilikhin.github.io/WebMaster10/video_50/dist/)|
-|[Воркшоп по React](https://www.youtube.com/playlist?list=PLSoSRmO9N3goc0yjl8TRu0PzRsg827gxD)|[репозиторий](https://github.com/vik-vavilikhin/React_WorkShop_Instagram)|[демо](https://vik-vavilikhin.github.io/CompleteCourseJS/budget-app/)|
+|[Веб-разработчик 10.0](https://study.up-skills.ru/teach/control/stream/view/id/6290544)|[репозиторий]()|[демо-1](), [демо-2]()|
+|[Воркшоп по React](https://www.youtube.com/playlist?list=PLSoSRmO9N3goc0yjl8TRu0PzRsg827gxD)|[репозиторий](https://github.com/vik-vavilikhin/GloAcademy/tree/master/JS/React_WorkShop)|[демо]()|
 
 -------------------------------------------------------------------------------
 ### **[WebDesign Master](https://webdesign-master.ru/). Уроки создания сайтов**
