@@ -5,6 +5,7 @@
 |                      Наименование                              | Репозиторий |
 |:---------------------------------------------------------------|:------------|
 |**[Академия верстки](https://glo-academy.ru/frontenddeveloper/)**|[репозиторий](https://github.com/vik-vavilikhin/GloAcademy)|
+|**[WebDesign Master](https://webdesign-master.ru/). Уроки создания сайтов**|[репозиторий](https://github.com/vik-vavilikhin/WebDesignMaster)|
 
 -------------------------------------------------------------------------------
 ### **[WebDesign Master](https://webdesign-master.ru/). Уроки создания сайтов**
