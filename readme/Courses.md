@@ -6,16 +6,8 @@
 |:---------------------------------------------------------------|:------------|
 |**[Академия верстки](https://glo-academy.ru/frontenddeveloper/)**|[репозиторий](https://github.com/vik-vavilikhin/GloAcademy)                                 |
 |**[WebDesign Master](https://webdesign-master.ru/). Уроки создания сайтов**   |[репозиторий](https://github.com/vik-vavilikhin/WebDesignMaster)               |
-|**[WebForMySelf](https://webformyself.com/). Все о создании сайтов**          |[репозиторий](https://github.com/vik-vavilikhin/WebForMySelf)               |
-
-
--------------------------------------------------------------------------------
-### **[WebForMySelf](https://webformyself.com/). Все о создании сайтов**
-|                      Наименование                      | Репозиторий | Демо |
-|:-------------------------------------------------------|:------------|:-----|
-|[JavaScript.Полное руководство для современной веб-разработки](https://webformyself.com/javascript/?utm_medium=systema&utm_source=nashikursi&utm_campaign=javascript)|[репозиторий](https://github.com/vik-vavilikhin/JScourse/tree/master/practice/game_ClikToBlock)|[демо-игра](https://vik-vavilikhin.github.io/JScourse/practice/game_ClikToBlock/),  [демо-blog](https://vik-vavilikhin.github.io/JScourse/practice/blog/dist/),  [демо-меню](https://vik-vavilikhin.github.io/JScourse/theory/block_07/)|
-|[ Full-Stack практика. Создание JavaScript блога](https://www.youtube.com/watch?v=ixVQjTwqfe0&list=PLD-piGJ3Dtl2zA18HzryjQy9Dwa_1Hjs1)|[репозиторий](https://github.com/vik-vavilikhin/FullStackPractic)|[демо](https://vik-vavilikhin.github.io/FullStackPractic/)|
-|[Фреймворк Bootstrap 4. Руководство по адаптивной верстке](https://webformyself.com/bootstrap/?utm_medium=systema&utm_source=nashikursi&utm_campaign=bootstrap)|[репозиторий](https://github.com/vik-vavilikhin/Bootstrap4)|[демо](https://vik-vavilikhin.github.io/Bootstrap4/)|
+|**[WebForMySelf](https://webformyself.com/). Все о создании сайтов**          |[репозиторий](https://github.com/vik-vavilikhin/WebForMySelf)                  |
+|**[Udemy](https://www.udemy.com/). On-line академия веб-разработки**          |[репозиторий](https://github.com/vik-vavilikhin/Udemy)                         |
 
 -------------------------------------------------------------------------------
 ### **[Udemy](https://www.udemy.com/). On-line академия веб-разработки**
