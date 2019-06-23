@@ -7,12 +7,6 @@
 |**[Академия верстки](https://glo-academy.ru/frontenddeveloper/)**|[репозиторий](https://github.com/vik-vavilikhin/GloAcademy)|
 |**[WebDesign Master](https://webdesign-master.ru/). Уроки создания сайтов**|[репозиторий](https://github.com/vik-vavilikhin/WebDesignMaster)|
 
--------------------------------------------------------------------------------
-### **[WebDesign Master](https://webdesign-master.ru/). Уроки создания сайтов**
-|                      Наименование                      | Репозиторий | Демо |
-|:-------------------------------------------------------|:------------|:-----|
-|Jekyll - По какой-то причине не работают стили. Надо разбираться.|[репозиторий](https://github.com/vik-vavilikhin/Jekyll)|[демо](https://vik-vavilikhin.github.io/Jekyll/dist/)|
-|[Джедай вёрстки #7. Проект S&Mitler](https://www.youtube.com/watch?v=vWfRHtxy81Q&index=17&list=PLyf8LgkO_8q_-ELwz9tlMX8R5gMSRWNto)|[репозиторий](https://github.com/vik-vavilikhin/S-Mitler)|[демо](https://vik-vavilikhin.github.io/S-Mitler/app)|
 
 -------------------------------------------------------------------------------
 ### **[WebForMySelf](https://webformyself.com/). Все о создании сайтов**
