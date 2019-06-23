@@ -1,13 +1,10 @@
 | [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) |
 
 -------------------------------------------------------------------------------
-### **[Академия верстки](https://glo-academy.ru/frontenddeveloper/)**
-|                      Наименование                      | Репозиторий | Демо |
-|:-------------------------------------------------------|:------------|:-----|
-|[Интенсив по JS #1](https://www.youtube.com/watch?v=NHB0OJg9CMU)|[репозиторий](https://github.com/vik-vavilikhin/GloAcademyhttps://github.com/vik-vavilikhin/GloAcademy/tree/master/JS/IntensiveJS%231)|[демо]()|
-|[Интенсив по JS #2](https://www.youtube.com/watch?v=lzwieQQDxLY&list=PLSoSRmO9N3goLCoLIVP2HEqlDozvJnkh0&index=4)|[репозиторий](https://github.com/vik-vavilikhin/GloAcademy/tree/master/JS/IntensiveJS%232)|[демо]()|
-|[Веб-разработчик 10.0](https://study.up-skills.ru/teach/control/stream/view/id/6290544)|[репозиторий]()|[демо-1](), [демо-2]()|
-|[Воркшоп по React](https://www.youtube.com/playlist?list=PLSoSRmO9N3goc0yjl8TRu0PzRsg827gxD)|[репозиторий](https://github.com/vik-vavilikhin/GloAcademy/tree/master/JS/React_WorkShop)|[демо]()|
+
+|                      Наименование                              | Репозиторий |
+|:---------------------------------------------------------------|:------------|
+|**[Академия верстки](https://glo-academy.ru/frontenddeveloper/)**|[репозиторий](https://github.com/vik-vavilikhin/GloAcademy)|
 
 -------------------------------------------------------------------------------
 ### **[WebDesign Master](https://webdesign-master.ru/). Уроки создания сайтов**
