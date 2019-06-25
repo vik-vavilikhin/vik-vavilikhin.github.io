@@ -1,4 +1,4 @@
-| [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) |
+| [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) &rarr; JAVASCRIPT |
 
 -------------------------------------------------------------------------------
 ## [JavaScript](https://ru.wikipedia.org/wiki/JavaScript)

@@ -1,4 +1,4 @@
-| [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) |
+| [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) &rarr; SASS |
 
 -------------------------------------------------------------------------------
 ## [Sass](https://sass-scss.ru/) - документация на русском языке. Что такое sass или scss?

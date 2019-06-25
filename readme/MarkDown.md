@@ -1,4 +1,4 @@
-| [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) |
+| [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) &rarr; MARKDOWN |
 
 -------------------------------------------------------------------------------
 Настоящий документ предназначен для ознакомления пользователя с функциональными возможностями языка разметки Markdown. 

@@ -1,4 +1,4 @@
-| [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) |
+| [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) &rarr; JADE/PUG |
 
 -------------------------------------------------------------------------------
 ## [JADE/PUG](https://pugjs.org/api/getting-started.html)

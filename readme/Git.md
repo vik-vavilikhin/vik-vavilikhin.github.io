@@ -1,4 +1,4 @@
-| [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) |
+| [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) &rarr; GIT |
 
 --------------------------------------------------------------------------------
 ### [Git](https://git-scm.com/) - это бесплатная распределенная система контроля версий с открытым исходным кодом, предназначенная для быстрой и эффективной работы с небольшими и очень крупными проектами.

@@ -1,5 +1,5 @@
 <a id="goUp"></a>
-| [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) |
+| [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) &rarr; РЕДАКТОРЫ |
 
 | [VS Code](#VSCode)
 | [Atom](#Atom)

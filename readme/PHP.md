@@ -1,4 +1,4 @@
-| [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) |
+| [HOME](https://github.com/vik-vavilikhin/vik-vavilikhin.github.io) &rarr; PHP |
 
 -------------------------------------------------------------------------------
 ## [PHP](http://php.net/) (рекурсивный акроним словосочетания PHP: Hypertext Preprocessor) 
