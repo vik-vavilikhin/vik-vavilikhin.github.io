@@ -13,6 +13,7 @@ _<sub>[&#9650; Наверх](#goUp)</sub>_
 - [Плагины](#PluginsVSCode).
 - [Темы оформления редактора](#ThemesVSCode).
 - [Настройка VS Code](#SettingsVSCode) файл `settings.json`.
+- [Горячие клавиши VS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 -------------------------------------------------------------------------------
 ### <a id="PluginsVSCode"></a>Список плагинов:
