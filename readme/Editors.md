@@ -12,7 +12,7 @@ _<sub>[&#9650; Наверх](#goUp)</sub>_
 ## <a id="VSCode"></a>Редактор [Visual Studio Code](https://code.visualstudio.com/)
 - [Плагины](#PluginsVSCode).
 - [Темы оформления редактора](#ThemesVSCode).
-- [Настройка VS Code](#SettingsVSCode) файл `settings.json`. `Ctrl+,` &rarr; `Extensions` &rarr; `Edit in settings.json`
+- [Настройка VS Code](#SettingsVSCode) `Ctrl+,` &rarr; `Extensions` &rarr; `Edit in settings.json`
 - [Горячие клавиши VS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 -------------------------------------------------------------------------------
@@ -122,6 +122,7 @@ _<sub>[&#9650; Наверх](#goUp)</sub>_
 
 -------------------------------------------------------------------------------
 ### <a id="SettingsVSCode"></a>Настройки редактора [Visual Studio Code](https://code.visualstudio.com/)
+Чтобы перейти в файл настроек: `Ctrl+,` &rarr; `Extensions` &rarr; `Edit in settings.json`
 ```
 {
   // ========== EXPLORER =============================
