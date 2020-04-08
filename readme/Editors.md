@@ -122,6 +122,7 @@ _<sub>[&#9650; Наверх](#goUp)</sub>_
 
 -------------------------------------------------------------------------------
 ### <a id="SettingsVSCode"></a>Настройки редактора [Visual Studio Code](https://code.visualstudio.com/)
+[Полезное видео](https://www.youtube.com/watch?v=nxCLXMBl4e4)  
 Чтобы перейти в файл настроек: `Ctrl+,` &rarr; `Extensions` &rarr; `Edit in settings.json`
 ```
 {
