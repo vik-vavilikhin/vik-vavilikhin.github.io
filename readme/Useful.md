@@ -2,8 +2,9 @@
 
 -------------------------------------------------------------------------------
 ## on-line генераторы  
-- [AngryTools.com](https://cssgradient.io/) - генератор градиента
-- CSS [Gradient generator](https://www.css-gradient.com/) - генератор градиента
+- [AngryTools.com](http://angrytools.com/) - набор on-line инструментов для работы с градиентом, текстом, картинками и пр.
+- [CSS Gradient generator](https://www.css-gradient.com/) - генератор градиента
+- [CSSGradient](https://cssgradient.io/) - генератор градиента
 - [uiGradients](https://uigradients.com/#GrapefruitSunset) - генератор градиента
 <!-- ==================== -->
 - [loadig.io](https://loading.io/) - коллекция спиннеров
