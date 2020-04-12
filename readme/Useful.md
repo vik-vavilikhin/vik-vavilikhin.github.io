@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 ## on-line генераторы  
-- [AngryTools.com](https://www.css-gradient.com/) - генератор градиента
+- [AngryTools.com](https://cssgradient.io/) - генератор градиента
 - CSS [Gradient generator](https://www.css-gradient.com/) - генератор градиента
 - [uiGradients](https://uigradients.com/#GrapefruitSunset) - генератор градиента
 <!-- ==================== -->
