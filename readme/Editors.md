@@ -309,8 +309,6 @@ _<sub>[&#9650; Наверх](#goUp)</sub>_
   "git.enableSmartCommit": true,
   "git.autofetch"        : true,
   "git.confirmSync"      : false,
-  // "gist.oauth_token": "48286d9bd8e3840223ada7327072d40314b21194",
-  // "gist.oauth_token": "b4fa0ff3642da6309093387288c698c355c386d4",
 }
 ```
 
