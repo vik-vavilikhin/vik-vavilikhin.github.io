@@ -22,3 +22,4 @@
   
     ***Плагины без jQuery:***
   - [Instafeed.js](http://instafeedjs.com/) -, это очень простой способ добавить фотографии из Instagram на свой сайт. Не требуется jQuery, просто обычный javascript.
+  - [Swiper](https://swiperjs.com/) - Современный мобильный сенсорный слайдер
