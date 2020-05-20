@@ -11,6 +11,6 @@
 | [PHP](readme/PHP.md)                                                     |Еще руки не дошли...                     |
 | [MarkDown](readme/MarkDown.md)                                           |Небольшой гайд                           |
 | [Полезняшки](readme/Useful.md)                                           |Ссылки на полезные ресурсы и не только   |
-| [Курсы](https://github.com/vik-vavilikhin/Courses/blob/master/README.md) |Ресурсы по обучению программированию     |
+| [Курсы](https://github.com/vik-vavilikhin/Courses)                       |Ресурсы по обучению программированию     |
 | [Примеры работ](https://github.com/vik-vavilikhin/portfolio)             |Проба пера                               |
 | [Литература](literature)                                                 |Книжки, статьи...                        |
