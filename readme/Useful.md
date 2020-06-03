@@ -39,10 +39,10 @@ _Таблица насыщенности шрифтов `font-weight`_
 - [Fontello](http://fontello.com/) - on-line библиотека иконочных шрифтов.
   <sub>_[Сборка шрифтов](https://webref.ru/layout/font-awesome/fontello) нструкция по использованию._</sub>
 
-### ***<u>[FontMassive Pack](https://fontmassive.com/)</u>*** Набор программ для работы со шрифтами
-- [FontMassive](https://fontmassive.com/fm.php) - Менеджер шрифтов. Просмотр начертаний в едином списке.
-- [FontDerect](https://fontmassive.com/fd.php) - Распознавание шрифтов на изображении.
-- [FontTemp](https://fontmassive.com/ft.php) - Временная установка шрифтов.
+### ***<u>[FontMassive Pack](http://fontmassive.com/)</u>*** Набор программ для работы со шрифтами
+- [FontMassive](http://fontmassive.com/fm.php) - Менеджер шрифтов. Просмотр начертаний в едином списке.
+- [FontDerect](http://fontmassive.com/fd.php) - Распознавание шрифтов на изображении.
+- [FontTemp](http://fontmassive.com/ft.php) - Временная установка шрифтов.
 
 -------------------------------------------------------------------------------
 ## Работа с графикой
