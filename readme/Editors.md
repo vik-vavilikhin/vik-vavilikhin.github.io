@@ -14,6 +14,7 @@ _<sub>[&#9650; Наверх](#goUp)</sub>_
 - [Темы оформления редактора](#ThemesVSCode).
 - [Настройка VS Code](#SettingsVSCode) `Ctrl+,` &rarr; `Extensions` &rarr; `Edit in settings.json`
 - [Горячие клавиши VS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+  - [Как свернуть разделы кода в Visual Studio Code для Windows?](https://fooobar.com/questions/33237/how-do-i-collapse-sections-of-code-in-visual-studio-code-for-windows)
 
 -------------------------------------------------------------------------------
 ### <a id="PluginsVSCode"></a>Список плагинов:
